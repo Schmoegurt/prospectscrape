@@ -1,0 +1,2515 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>Elite Prospects - Hockey League Pages</title>
+<META  name="description" content="Complete rosters, stats and facts from all hockey leagues in the world.">
+    <META  name="keywords" content="hockey, ice hockey, nhl, leagues, shl, nhl, ahl, khl, liiga, nla, del, eihl, get ligaen, echl, whl, ohl, ncaa, ushl, qmjhl, hockeyallsvenskan, sphl, cis">
+<link href="//files.eliteprospects.com/style_main.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="google-site-verification" content="ZAjIJSZYkwh9O5-5iivUw9JJNjs5CxaM-TSKLajp950" />
+<script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+<link rel="stylesheet" href="//code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" />
+<link href="//files.eliteprospects.com/style_autocomplete.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+    // Load visitor country code if not set as a param in the url.
+    var visitor_country_code = 'US';
+
+    // Check if North American visitor
+    function isNorthAmericanVisitor() {
+        return !!visitor_country_code.match(/US|CA/);
+    }
+
+    // Check if Nordic visitor
+    function isNordicVisitor() {
+        return !!visitor_country_code.match(/SE|FI|NO|DK|IS/);
+    }
+
+    // Check if European visitor
+    function isEuropeanVisitor() {
+        return !!visitor_country_code.match(/AL|AD|AT|BY|BE|BA|BG|HR|CY|CZ|DK|EE|FO|FI|FR|DE|GI|GR|HU|IS|IE|IM|IT|RS|LV|LI|LT|LU|MK|MT|MD|MC|ME|NL|NO|PL|PT|RO|RU|SM|RS|SK|SI|ES|SE|CH|UA|GB|VA|RS/);
+    }
+
+    function get_visitor_continent_code() {
+        if (isEuropeanVisitor()) {
+            return 'EU';
+        } else if (isNorthAmericanVisitor()) {
+            return 'NA';
+        }
+        return '';
+    }
+</script>        <script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+        <script>
+            var googletag = googletag || {};
+            googletag.cmd = googletag.cmd || [];
+        </script>
+        <script>
+            googletag.cmd.push(function() {
+                googletag.defineSlot('/12393980/ep_elite_728x90_1', [[320, 50], [728, 90], [320, 100]], 'div-gpt-ad-1510952354219-0').addService(googletag.pubads());
+                googletag.defineSlot('/12393980/ep_elite_300x250_1', [300, 250], 'div-gpt-ad-1510952194937-0').addService(googletag.pubads());
+                googletag.defineSlot('/12393980/ep_elite_300x250_2', [300, 250], 'div-gpt-ad-1510952279650-0').addService(googletag.pubads());
+                googletag.defineSlot('/12393980/ep_elite_160x600_1', [[160, 600], [120, 600]], 'div-gpt-ad-1510952090357-0').addService(googletag.pubads());
+                googletag.pubads().enableSingleRequest();
+                googletag.enableServices();
+            });
+        </script>
+    <style type="text/css">
+    /* Take over ads */
+    #ads-fullpage-container {
+        position: fixed;
+        top: 0;
+        left: 0;
+        z-index: 9999999;
+    }
+    #ads-fullpage-container.visible {
+        width: 100%;
+        height: 100%;
+        margin: -8px;
+        background-color: #fff;
+    }
+    #ads-fullpage-header {
+        text-align: right;
+        padding: 8px 12px 12px 12px;
+        cursor: pointer;
+    }
+    #ads-fullpage-header {
+        display: none;
+    }
+    #ads-fullpage-container.visible #ads-fullpage-header {
+        display: block;
+    }
+    #ads-fullpage-container.visible #ads-fullpage-content-outer {
+        float: right;
+        right: 50%;
+        position: relative;
+    }
+    #ads-fullpage-container.visible #ads-fullpage-content {
+        float: right;
+        right: -50%;
+        position: relative;
+    }
+    #ads-fullpage-close-icon {
+        display: inline-block;
+        position: relative;
+        top: 4px;
+        width: 18px;
+        height: 18px;
+        background-image: url("data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgZW5hYmxlLWJhY2tncm91bmQ9Im5ldyAwIDAgMTAwIDEwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PGNpcmNsZSBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiBjeD0iNTAiIGN5PSI1MCIgcj0iNDciLz48bGluZSBmaWxsPSJub25lIiBzdHJva2U9IiMwMDAwMDAiIHN0cm9rZS13aWR0aD0iNiIgc3Ryb2tlLW1pdGVybGltaXQ9IjEwIiB4MT0iNzEuMjE0IiB5MT0iNzEuMjEzIiB4Mj0iMjguNzg3IiB5Mj0iMjguNzg3Ii8+PGxpbmUgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMDAwMDAwIiBzdHJva2Utd2lkdGg9IjYiIHN0cm9rZS1taXRlcmxpbWl0PSIxMCIgeDE9IjI4Ljc4NyIgeTE9IjcxLjIxMyIgeDI9IjcxLjIxNCIgeTI9IjI4Ljc4NyIvPjwvZz48L3N2Zz4=");
+    }
+</style>
+
+<script type="text/javascript">
+    /* Full page ads */
+    var checkAdsTakeoverLoadedInterval = setInterval(function(){ checkAdsTakeoverLoaded(); }, 100);
+    function checkAdsTakeoverLoaded() {
+        var takeoverContent = $('#ads-fullpage-content');
+        if (takeoverContent.height() > 100 && takeoverContent.width() > 100) {
+            var adsTakeoverContainer = $('#ads-fullpage-container');
+            adsTakeoverContainer.addClass('visible');
+                        $('#ads-fullpage-site').hide();
+            clearInterval(checkAdsTakeoverLoadedInterval);
+        }
+    }
+
+    function hideAdsTakover() {
+        $('#ads-fullpage-container').remove();
+                var site = $('#ads-fullpage-site');
+        site.show();
+    }
+</script>
+<script type="text/javascript">
+    (function () {
+        if (!document.referrer.match(/^https?:\/\/([^\/]+\.)?(eliteprospects|google|facebook|bing|instagram)\.[a-zA-Z]{2,3}(\/|$)/i)) {
+            document.write('<scr'+'ipt type="text/javascript" src="/dbref.php?referrer=' + document.referrer + '"></scr'+'ipt>');
+        }
+    })();
+</script><script type="text/javascript">
+
+var kw3 = '';
+
+function playPlayerPronunciation(button, playerID, fileName, playerName) {
+    var audioElement = document.getElementById('playeraudio_' + playerID);
+    if (audioElement === null) {
+        audioElement = document.createElement('audio');
+        audioElement.id = 'playeraudio_' + playerID;
+        audioElement.src = '//files.eliteprospects.com/layout/player_audio/' + fileName;
+        button.parentElement.appendChild(audioElement);
+    }
+    audioElement.play();
+    ga('send', { hitType: 'event', eventCategory: 'PlayerPronunciation', eventAction: 'play', eventLabel: playerName });
+}
+
+/*function showCustomBanner() {
+//ACTIVATED WHEN OTHER CAMPAIGN
+if (visitor_country_code == 'SE') 
+            document.write('<a href="http://www.hockeysverige.se/2017/03/17/hjalp-oss-att-dela-ut-fansens-pris-2017-lagg-dina-roster-nu/" target="_blank"><img src="//files.eliteprospects.com/layout/fansenspris-650x150.jpg" border="0"></a><hr class="style-two">');
+}*/
+
+
+//SHOW PROHOCKEY IQ BANNER ON player.php FOR NON SWEDISH VISITORS
+function showProHockeyIQ() {
+    if (visitor_country_code != 'SE')
+        document.write('<a href="https://www.prohockeyiq.com/" target="_blank"><img src="//files.eliteprospects.com/layout/phiq.png" border="0"/></a>');
+}
+
+</script>
+<script type="text/javascript">
+    <!--
+    function checkStickyBanners() {
+
+        var scrollTop = $(document).scrollTop();
+        var panoramaContent = $('#panorama-content');
+        var panoramaContainer = $('#panorama-container');
+        if (scrollTop > panoramaContainer.offset().top) {
+            if (panoramaCanBeSticky && !panoramaContent.is('.sticky')) {
+                panoramaContainer.css({height: panoramaContent.height()});
+                panoramaContent.addClass('sticky').css({left: panoramaContainer.offset().left});
+            }
+        } else {
+            if (panoramaContent.is('.sticky')) {
+                panoramaContent.removeClass('sticky').css({left:''});
+                panoramaContainer.css({height: 'auto'});
+            }
+        }
+
+        var placeholder = $("#stickyplaceholder");
+        if (placeholder.length) {
+            var banner = $('#stickybanner');
+
+            var view = $(window.document);
+
+            var topMargin = 10;
+
+            var viewTop = view.scrollTop();
+            var placeholderTop = placeholder.offset().top - topMargin;
+            if (viewTop > placeholderTop && !banner.is(".fixedBanner")) {
+                banner.addClass('fixedBanner').css({top: topMargin});
+            } else if ((viewTop <= placeholderTop) && banner.is(".fixedBanner")) {
+                banner.removeClass("fixedBanner").css({top: 0});
+            }
+        }
+    }
+
+    var panoramaCanBeSticky = true;
+    var panoramaCanBeStickyTimeout = 2000;
+    var panoramaLoadedTimestamp = 0;
+    var checkPanoramaLoadedInterval = setInterval(function(){ checkPanoramaLoaded(); }, 100);
+    function checkPanoramaLoaded() {
+        var panoramaContent = $('#panorama-content');
+        var panoramaContainer = $('#panorama-container');
+        if (panoramaLoadedTimestamp > 0 && Date.now() - panoramaCanBeStickyTimeout > panoramaLoadedTimestamp) {
+            clearInterval(checkPanoramaLoadedInterval);
+            panoramaCanBeSticky = false;
+            panoramaContent.removeClass('sticky').css({left:''});
+            panoramaContainer.css({height: 'auto'});
+        }
+        else if (panoramaLoadedTimestamp == 0 && panoramaContent.height() > 50) {
+            panoramaLoadedTimestamp = Date.now();
+            panoramaContainer.css({height: panoramaContent.height()});
+            checkStickyBanners();
+        }
+    }
+
+    $(document).scroll(function() {
+        checkStickyBanners();
+    });
+    $(document).resize(function() {
+        checkStickyBanners();
+    });
+
+    $(document).ready(function() {
+
+        // Handle display imperial units for US/CA
+        try
+        {
+            var language = navigator.languages? navigator.languages[0] : (navigator.language || navigator.userLanguage);
+            if (language == "en-US" || language == "en-CA")
+            {
+                $('.metrics-unit').hide();
+                $('.imperial-unit').show();
+            }
+        }
+        catch (e)
+        {
+
+        }
+
+        window.onload = checkStickyBanners();
+
+        if(document.location.search.indexOf('forceweb=true')) {
+            document.cookie="forceweb=true";
+        }
+
+        $("#player").focus();
+        // If any values -> YOB/pos/nations
+        $("#born, #pos, #nation").change(function () {
+            $( "#player" ).autocomplete( "disable" );
+        });
+
+        var renderData = function(type, ul, item) {
+            var temp = '';
+            var ifLastCharNotMarked;
+            var counter = 0;
+            var combinednames = '';
+            if(type == "team") {
+                combinednames = item.fullteam;
+            } else if(type == "league") {
+                combinednames = item.fullleague;
+            }else {
+                combinednames = item.fullname;
+            }
+            item.matches.forEach(function(entry) {
+                if( counter == 0 )
+                {
+                    temp = combinednames.substr(0, entry[0]);
+                    counter++;
+                }
+                if( ifLastCharNotMarked < entry[0])
+                {
+                    temp = temp + combinednames.substr(ifLastCharNotMarked, entry[0]-ifLastCharNotMarked);
+                }
+
+                temp = temp + "<span class='matches'>" + combinednames.substr(entry[0], entry[1]-entry[0]) + "</span>";
+                ifLastCharNotMarked = entry[1];
+            });
+            temp = temp + combinednames.substring(ifLastCharNotMarked, combinednames.length);
+            combinednames = temp;
+
+
+            if(type === "player") {
+                if(item.age != "") {
+                    item.age = "(" + item.age + ")";
+                }
+                if(item.position != "") {
+                    item.position = "(" + item.position + ")";
+                }
+                return $( "<li>" )
+                    .append( "<a href=''><img src='//files.eliteprospects.com/layout/flags/" + item.country + ".gif' /> " + combinednames + " " + item.position + " " + item.age +"</a>" )
+                    .appendTo( ul );
+            }else if(type === "team") {
+                return $( "<li>" )
+                    .append( "<a href=''><img src='//files.eliteprospects.com/layout/flags/" + item.country + ".gif' /> " + combinednames + "</a>" )
+                    .appendTo( ul );
+            }else if(type === "league") {
+                return $( "<li>" )
+                    .append( "<a href=''><img src='//files.eliteprospects.com/layout/flags/" + item.country + ".gif' /> " + combinednames + "</a>" )
+                    .appendTo( ul );
+            }else if(type === "birthplace") {
+                return $( "<li>" )
+                    .append( "<a href=''> " + combinednames + "</a>" )
+                    .appendTo( ul );
+            }else if(type === "youthclub") {
+                return $( "<li>" )
+                    .append( "<a href=''> " + combinednames + "</a>" )
+                    .appendTo( ul );
+            }
+        };
+
+        // Autocomplete player
+        var player = $("#player");
+        if (player.length) {
+            player.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/players", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    $("#player").val(ui.item.fullname);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+
+                    if(ui.item.position == "(Staff)") {
+                        window.location.href = 'staff.php?staff=' + ui.item.id;
+                    } else {
+                        window.location.href = 'player.php?player=' + ui.item.id;
+                    }
+
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("player", ul, item);
+            };
+        }
+
+        // Autocomplete team
+        var teamName = $("#teamname");
+        if (teamName.length) {
+            teamName.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/teams", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    console.log(ui);
+                    $("#teamname").val(ui.item.fullteam);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+                    window.location.href = 'team.php?team=' + ui.item.id;
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("team", ul, item);
+            };
+        }
+		
+		  // Autocomplete TransferTeam
+        var transferTeam = $("#transferteam");
+        if (transferTeam.length) {
+            transferTeam.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/teams", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    console.log(ui);
+                    $("#transferteam").val(ui.item.fullteam);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+                    window.location.href = '?TransferTeamID=' + ui.item.id;
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("team", ul, item);
+            };
+        }
+
+        // Autocomplete league
+        var leagueName = $("#leaguename");
+        if (leagueName.length) {
+            leagueName.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/leagues", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    console.log(ui);
+                    $("#leaguename").val(ui.item.fullleague);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+                    window.location.href = 'league_home.php?leagueid=' + ui.item.id;
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("league", ul, item);
+            };
+        }
+		
+		// Autocomplete stats
+        var statsName = $("#statsname");
+        if (statsName.length) {
+            statsName.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/leagues", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    console.log(ui);
+                    $("#statsname").val(ui.item.fullleague);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+                    window.location.href = 'league.php?season=2015&leagueid=' + ui.item.fullleague;
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("league", ul, item);
+            };
+        }
+		
+		// Autocomplete birthplace
+        var birthplaceName = $("#birthplacename");
+        if (birthplaceName.length) {
+            birthplaceName.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/birthplaces", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    console.log(ui);
+                    $("#birthplacename").val(ui.item.fullname);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+                    window.location.href = 'birthplace.php?birthplace=' + ui.item.fullname;
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("birthplace", ul, item);
+            };
+        }
+		
+		// Autocomplete birthplace
+        var youthClubName = $("#youthclubname");
+        if (youthClubName.length) {
+            youthClubName.autocomplete({
+                delay: 100,
+                minLength: 2,
+                source: function(request, response) {
+                    $.getJSON("http://autocomplete.eliteprospects.com/youthclubs", { q: request.term.toLowerCase() }, response);
+                },
+
+                focus: function( event, ui ) {
+                    console.log(ui);
+                    $("#youthclubname").val(ui.item.fullname);
+                    return false;
+                },
+
+                select: function( event, ui ) {
+                    event.preventDefault();
+                    window.location.href = 'motherclub.php?youthclub=' + ui.item.fullname;
+                    return false;
+                }
+            }).data( "ui-autocomplete" )._renderItem = function( ul, item ) {
+                return renderData("youthclub", ul, item);
+            };
+        }
+    });
+
+    function newPopUp(url,name)
+    {
+        pressWin = window.open(url,name,"scrollbars=yes,menubar=no,toolbar=no,status=yes,width=800,height=800,resizable=yes")
+    }
+    function newPopUpContact(url,name)
+    {
+        pressWin = window.open(url,name,"scrollbars=yes,menubar=no,toolbar=no,status=yes,width=650,height=780,resizable=no")
+    }
+    function MM_jumpMenu(targ,selObj,restore){ //v3.0
+        eval(targ+".location='"+selObj.options[selObj.selectedIndex].value+"'");
+        if (restore) selObj.selectedIndex=0;
+    }
+    //-->
+</script>
+
+<script type="text/javascript" language="JavaScript"><!--
+function HideContent(d) {
+document.getElementById(d).style.display = "none";
+}
+function ShowContent(d) {
+document.getElementById(d).style.display = "block";
+}
+function ReverseDisplay(d) {
+if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
+else { document.getElementById(d).style.display = "none"; }
+}
+//--></script>
+
+<!-- Header Tag Code -->
+<script data-cfasync='false' type='text/javascript'>/*<![CDATA[*/(function (a, c, s, u){'Insticator'in a || (a.Insticator={ad:{loadAd: function (b){Insticator.ad.q.push(b)}, q: []}, helper:{}, embed:{}, version: "3.0", q: [], load: function (t, o){Insticator.q.push({t: t, o: o})}}); var b=c.createElement(s); b.src=u; b.async=!0; var d=c.getElementsByTagName(s)[0]; d.parentNode.insertBefore(b, d)})(window, document, 'script', '//d2na2p72vtqyok.cloudfront.net/client-embed/cd65ebe7-b051-422b-a193-8cb3796914c4.js');/*]]>*/</script>
+<!-- End Header Tag Code -->
+                                
+
+
+<!-- Cxense script begin -->
+<script type="text/javascript">
+var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+cX.callQueue.push(['setSiteId', '9222355312367160879']);
+cX.callQueue.push(['sendPageViewEvent']);
+</script>
+<script type="text/javascript">
+(function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+scriptEl.src = ('https:' == location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+</script>
+<!-- Cxense script end -->
+
+<!-- Google Analytics -->
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-2655407-1', 'auto');
+    ga('require', 'linkid', 'linkid.js');
+    ga('send', 'pageview');
+
+    if (visitor_country_code == 'SE') {
+        ga('create', 'UA-2655407-17', 'auto', 'swedishvisitors');
+        ga('swedishvisitors.send', 'pageview');
+    } else {
+        ga('create', 'UA-2655407-18', 'auto', 'notswedishvisitors');
+        ga('notswedishvisitors.send', 'pageview');
+    }
+
+</script>
+
+<!-- KOMOONA SCRIPT/TAG -->
+<script type="text/javascript">
+
+    kmn_hbid = '780aad1b7f2b4a3ba761a8c9be70d70b';
+
+</script>
+
+<script type="text/javascript" src="//cdn.komoona.com/scripts/kmn_sa_hb_c.js"></script>
+
+<!-- TradeDoubler site verification 2898130 -->
+<!-- Adform DMP -->
+<!-- Tag for Profiling Pixel -->
+<!-- Please refer to manual if you want to modify this tag -->
+<script type="text/javascript">
+    (function(p){
+        p.src = "//dmp.adform.net/dmp/profile/?pid=10267&sg=2";
+    })(document.createElement("img"));
+</script>
+<noscript>
+    <img src="//dmp.adform.net/dmp/profile/?pid=10267&sg=2" style="display:none !important">
+</noscript>
+
+<!-- Adform DMP -->
+<!-- Tag for Profiling Pixel -->
+<!-- Please refer to manual if you want to modify this tag -->
+<script type="text/javascript">
+    (function(p){
+        p.src = "//dmp.adform.net/dmp/profile/?pid=10267&sg=4";
+    })(document.createElement("img"));
+</script>
+<noscript>
+    <img src="//dmp.adform.net/dmp/profile/?pid=10267&sg=4" style="display:none !important">
+</noscript>
+
+<script type="text/javascript">
+    if (visitor_country_code == 'SE') {
+        document.write('<scr' + 'ipt src="//sak.userreport.com/esmg/launcher.js" async id="userreport-launcher-script"></scr' + 'ipt>')
+    }
+</script><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '220299838454787'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+
+<script type="text/javascript">
+    //Ugly fix in case jquery already got loaded by some other script tag
+    var oldJQ = false;
+    if (typeof jQuery != "undefined" && jQuery)
+    {
+        oldJQ = jQuery.noConflict(true);
+    }
+</script>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/ui/1.10.2/jquery-ui.js"></script>
+<script type="text/javascript" src="//files.eliteprospects.com/js/autosuggest_leagues.js"></script>
+</head>
+
+<body bgcolor="#FFFFFF" text="#000000">
+<div id="ads-fullpage-container">
+    <div id="ads-fullpage-header" onclick="hideAdsTakover();">
+        <img src="//files.eliteprospects.com/layout/logo.png" height="24" alt="Eliteprospects" style="position: absolute; left: 5px; top: 8px;">
+        <script type="text/javascript">
+            var fullPageAdsHeaderText = 'This is an advertisement - Go to the website';
+            if (visitor_country_code == 'SE') {
+                fullPageAdsHeaderText = 'Detta &auml;r en annons - Vidare till hemsidan';
+            }
+            document.writeln(fullPageAdsHeaderText);
+        </script>
+        <span id="ads-fullpage-close-icon"></span>
+    </div>
+    <div id="ads-fullpage-content-outer">
+        <div id="ads-fullpage-content">
+                    </div>
+    </div>
+</div>
+<div id="ads-fullpage-site">
+<div align="center">  
+<table width="1250" border="0" cellspacing="0" cellpadding="0">
+    <tr bgcolor="white">
+      <td height="1" colspan="2"></td>
+    </tr>
+    <tr>
+	  <td width="1250"><table width="100%" border="0" cellspacing="0" cellpadding="2">
+  <tr>
+    <td valign="bottom">
+        <a href="index.php">
+            <img src="//files.eliteprospects.com/layout/logo.png" border="0" alt="Eliteprospects" title="Eliteprospects">
+        </a>
+    </td>
+    <td>
+      <div id="panorama-container">
+    <div id="panorama-content">
+        <script type="text/javascript">
+            (adformtag = window.adformtag || []).push(function () {
+                adformtag.setRequestLimit(3);
+                adformtag.addRequestGroup([280103, 280104]);            });
+        </script>
+
+        <!-- /12393980/ep_elite_728x90_1 -->
+                    <div id='div-gpt-ad-1510952354219-0'>
+                    <script>
+                    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1510952354219-0'); });
+                    </script>
+                    </div>        <div id="panorama">
+            <script type="text/javascript">
+//                nbes_bypass("#panorama");
+            </script>
+        </div>
+    </div>
+</div>    </td>
+  </tr>
+</table>
+
+
+
+</td>
+	      </tr>
+  </table>
+  <table width="1250" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="1" bgcolor="#999999"></td>
+        <td width="1088" bgcolor="#999999"></td>
+        <td width="1" bgcolor="#999999"></td>
+        <td width="160" bgcolor="white"></td>
+    </tr>
+    <tr>
+      <td width="1" bgcolor="#999999"></td>
+      <td width="1088" height="30" bgcolor="#000000" style="background:url(//files.eliteprospects.com/layout/bgcolor.png);" >
+<span style="float:left; margin-right:10px; margin-left:10px; white-space:nowrap;">
+<a href="index.php">
+<span id="fontSectionsTopMenu"><img src="//files.eliteprospects.com/layout/ep_home_icon2.png"  alt="Startpage" border="0"/> <font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="http://jobs.eliteprospects.com" target="_new"><span id="fontSectionsTopMenu">JOBS &nbsp;<font color="#025068">|</font>&nbsp;</span>
+</a>
+<a href="league.php"><span id="fontSectionsTopMenu">STATS &nbsp;<font color="#025068">|</font>&nbsp;</span>
+</a>
+<a href="teamsearch.php">
+<span id="fontSectionsTopMenu">TEAMS &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a>
+<a href="league_central.php">
+<span id="fontSectionsTopMenu">LEAGUES &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="nation.php">
+<span id="fontSectionsTopMenu">NATIONS &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="awards_central.php">
+<span id="fontSectionsTopMenu">AWARDS &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="free_agent_pool.php?LeagueID=NHL">
+<span id="fontSectionsTopMenu">FREE AGENTS &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="draftcenter.php?year=2018">
+<span id="fontSectionsTopMenu">DRAFTCENTER &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="nhldraft.php">
+<span id="fontSectionsTopMenu">DRAFTS &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a> 
+<a href="about.php">
+<span id="fontSectionsTopMenu">ABOUT &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a>
+<a href="photo.php">
+<span id="fontSectionsTopMenu">PHOTO &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a>
+<a href="rss.php">
+<span id="fontSectionsTopMenu">RSS &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a>
+<a href="api.php">
+<span id="fontSectionsTopMenu">API &nbsp;<font color="#025068">|</font>&nbsp; </span>
+</a>
+<a href="sportsbook_rankings.php">
+<span id="fontSectionsTopMenu">NHL BETTING</span></a>
+</span>
+</TD>
+        <td width="1" bgcolor="#999999"></td>
+        <td width="160" bgcolor="white"></td>
+    </tr>
+<tr>
+      <td width="1" bgcolor="#999999"></td>
+        <td width="1088" bgcolor="#cc0033" height="5"></td>
+        <td width="1" bgcolor="#999999"></td>
+        <td width="160"  bgcolor="white"></td>
+    </tr><tr>
+      <td width="1" bgcolor="#999999"></td>
+        <td width="1088" bgcolor="#999999"></td>
+        <td width="1" bgcolor="#999999"></td>
+        <td width="160" bgcolor="white"></td>
+    </tr>
+  </table>
+  <table width="1250" border="0" cellspacing="0" cellpadding="0">
+    <tr> 
+      <td width="1" bgcolor="#999999"></td>
+      <td width="300" valign="top" bgcolor="#FFFFFF"> <div align="center"> 
+
+<form name="form1" method="post" id="playersearchid" action="playersearch2.php" >
+                <input type="hidden" value="psearch" name="psearch" id="psearch">
+            <div style="margin-top:10px; margin-left: 14px; margin-bottom:8px; float:left"><input name="born" type="text" id="born" value="YOB" size="4" maxlength="4" class="tftextinput2">
+&nbsp;
+            <select name="pos" id="pos">
+                <option value="%">pos</option>
+                <option value="F">F</option>
+                <option value="D">D</option>
+                <option value="G">G</option>
+            </select>
+&nbsp;
+            <select name="nation" id="nation">
+                <option value="%">all nations</option>
+                <option value="65">Armenia</option>
+                <option value="33">Australia</option>
+                <option value="12">Austria</option>
+                <option value="23">Belarus</option>
+                <option value="26">Belgium</option>
+                <option value="68">Bosnia</option>
+                <option value="42">Bulgaria</option>
+                <option value="3">Canada</option>
+                <option value="41">China</option>
+                <option value="58">C. Taipei</option>
+                <option value="29">Croatia</option>
+                <option value="8">Czech Rep.</option>
+                <option value="7">Denmark</option>
+                <option value="25">England</option>
+                <option value="13">Estonia</option>
+                <option value="2">Finland</option>
+                <option value="14">France</option>
+                <option value="66">Georgia</option>
+                <option value="21">Germany</option>
+                <option value="56">Greece</option>
+                <option value="22">Hungary</option>
+                <option value="27">Iceland</option>
+                <option value="49">Ireland</option>
+                <option value="45">Israel</option>
+                <option value="19">Italy</option>
+                <option value="20">Japan</option>
+                <option value="36">Kazakhstan</option>
+                <option value="11">Latvia</option>
+                <option value="34">Lithuania</option>
+                <option value="44">Luxembourg</option>
+                <option value="64">Macedonia</option>
+                <option value="63">Malta</option>
+                <option value="50">Mexico</option>
+                <option value="59">Moldova</option>
+                <option value="55">Mongolia</option>
+                <option value="32">Netherlands</option>
+                <option value="53">New Zealand</option>
+                <option value="54">North Korea</option>
+                <option value="48">N. Ireland</option>
+                <option value="5">Norway</option>
+                <option value="17">Poland</option>
+                <option value="18">Romania</option>
+                <option value="9">Russia</option>
+                <option value="47">Scotland</option>
+                <option value="43">Serbia</option>
+                <option value="4">Slovakia</option>
+                <option value="28">Slovenia</option>
+                <option value="57">South Africa</option>
+                <option value="38">South Korea</option>
+                <option value="35">Spain</option>
+                <option value="1">Sweden</option>
+                <option value="10">Switzerland</option>
+                <option value="51">Thailand</option>
+                <option value="37">Turkey</option>
+                <option value="15">U.K.</option>
+                <option value="60">UAE</option>
+                <option value="24">Ukraine</option>
+                <option value="6">USA</option>
+                <option value="67">Uzbekistan</option>
+                <option value="69">Venezuela</option>
+                <option value="46">Wales</option>
+                <option value="30">Yugoslavia</option>
+            </select></div>
+        
+          
+        
+            <input style="width:70%;" type="text" name="player" id="player" class="tftextinput" autocorrect="off"><input type="submit" class="tfbutton" name="psearch" id="psearch" value="Players" style="width:75">
+      </form>
+      
+      <br />
+<form name="form1" method="post" id="teamsearch" action="teamsearch2.php">
+<input type="hidden" value="psearch" name="psearch" id="psearch">
+<input style="width:70%;" type="text" name="teamname" id="teamname" class="tftextinput" autocorrect="off"><input name="psearch" type="submit" class="tfbutton" id="psearch" value=" Teams" style="width:75">
+</form>
+<br />
+<form name="form1" method="post" id="leaguesearch" action="league_home.php">
+<input type="hidden" value="psearch" name="psearch" id="psearch">        
+<input style="width:70%;" type="text" name="leaguename" id="leaguename" class="tftextinput" autocorrect="off" ><input name="psearch" type="submit" class="tfbutton" id="psearch" style="width:75" value="Leagues" >
+</form> 
+
+<a href="javascript:ReverseDisplay('extendedsearch')">More Search Options <img src="//files.eliteprospects.com/layout/icon_expand.png" alt="Show more Search Options" width="10" height="10" border="0" /></a><br /><br />
+
+<div id="extendedsearch" style="display:none;">
+
+<form name="form1" method="get" id="statssearch" action="league.php">
+<input type="hidden" value="psearch" name="psearch" id="psearch">
+<input style="width:70%;" type="text" name="statsname" id="statsname" class="tftextinput" autocorrect="off" placeholder="Search League..."><input name="psearch" type="submit" class="tfbutton" id="psearch" style="width:75" value="Stats" >
+</form>
+
+<form name="form1" method="post" id="birthplacesearch" action="birthplace.php">
+<input type="hidden" value="psearch" name="psearch" id="psearch">
+<input style="width:70%;" type="text" name="birthplacename" id="birthplacename" class="tftextinput" autocorrect="off" placeholder="Search Place of Birth..."><input name="psearch" type="submit" class="tfbutton" id="psearch" style="width:75" value="Birthplace" >
+</form>
+        
+
+<form name="form1" method="post" id="youthclubsearch" action="motherclub.php">
+<input type="hidden" value="psearch" name="psearch" id="psearch">
+<input style="width:70%;" type="text" name="youthclubname" id="youthclubname" class="tftextinput" autocorrect="off" placeholder="Search Youth Club..."><input name="psearch" type="submit" class="tfbutton" id="psearch" style="width:75" value="YouthClub" >
+    
+</form>
+
+</div>
+
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612413</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/6.gif" title="flag"> <a href="player.php?player=612413"><span style="font-size:10px;">Andy Kosowski</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+<table width="300" border="0" cellspacing="0" cellpadding="2">
+<tr bgcolor="#073343" class="trbackground">
+            <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
+</tr>
+    <tr>
+        <td width="145" valign="top"> &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=SHL">SHL</a><br />
+        &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Allsvenskan">Allsvenskan</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Division 1">Division 1</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=SuperElit">J20 SuperElit</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Liiga">Liiga </a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Mestis">Mestis </a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=KHL">KHL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Czech">Extraliga</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Slovakia">Extraliga</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=NLA">NLA </a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=NLB">NLB </a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=DEL">DEL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=DEL2">DEL2</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Germany3">Oberliga</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Denmark">Metal Ligaen</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Norway">Get Ligaen</a><br />
+      </td>
+        <td width="145" valign="top"> &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/epjobs.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=EPjobs">EP Job Portal</a><br />
+        &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=EBEL">Erste Bank Liga</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=AlpsHL">AlpsHL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=EIHL">EIHL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=France">Ligue Magnus</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=Italy">Serie A</a><br />
+               
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=NHL">NHL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=AHL">AHL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=ECHL">ECHL</a><br />
+               
+                                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=SPHL">SPHL</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=NCAA">NCAA</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=NCAA III">NCAA III</a><br />
+                                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=LNAH">LNAH</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" /> <a href="free_agent_pool.php?LeagueID=USports">USports</a><br />
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="free_agent_pool.php?LeagueID=WC">WC</a><br />
+                   &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="free_agent_pool.php?LeagueID=Champions HL">Champions HL</a><br />
+<br />
+      </td>
+    </tr>
+</table>
+<table width="300" border="0" cellspacing="0" cellpadding="2">
+  <tr bgcolor="#073343" class="trbackground">
+    <td height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="fontSectionsGeneral">SCORING LEADERS</span></td>
+  </tr>
+  <tr>
+    <td><table width="286" border="0" cellspacing="0" cellpadding="2">
+      <tr>
+        <td valign="top"><select name="jumpMenu" id="jumpMenu" onchange="MM_jumpMenu('parent',this,0)" style="font-size: 9; font-family: verdana, arial; " >
+          <option value="" selected="selected">Select League</option>
+          <option value="/league_central.php?statsleague=Champions HL&player=&team=&year=&status=&leagueid=&season=">EU - Champions HL</option>
+          <option value="/league_central.php?statsleague=SHL&player=&team=&year=&status=&leagueid=&season=">SWE - SHL</option>
+          <option value="/league_central.php?statsleague=Allsvenskan&player=&team=&year=&status=&leagueid=&season=">SWE - Allsvenskan</option>
+          <option value="/league_central.php?statsleague=SuperElit&player=&team=&year=&status=&leagueid=&season=">SWE - SuperElit</option>
+          <option value="/league_central.php?statsleague=Division 1&player=&team=&year=&status=&leagueid=&season=">SWE - Division 1</option>
+          <option value="/league_central.php?statsleague=NHL&player=&team=&year=&status=&leagueid=&season=">NA - NHL</option>
+          <option value="/league_central.php?statsleague=AHL&player=&team=&year=&status=&leagueid=&season=">NA - AHL</option>
+          <option value="/league_central.php?statsleague=Liiga&player=&team=&year=&status=&leagueid=&season=">FIN - Liiga</option>
+          <option value="/league_central.php?statsleague=Mestis&player=&team=&year=&status=&leagueid=&season=">FIN - Mestis</option>
+          <option value="/league_central.php?statsleague=KHL&player=&team=&year=&status=&leagueid=&season=">RUS - KHL</option>
+          <option value="/league_central.php?statsleague=NLA&player=&team=&year=&status=&leagueid=&season=">SUI - NLA</option>
+          <option value="/league_central.php?statsleague=DEL&player=&team=&year=&status=&leagueid=&season=">GER - DEL</option>
+          <option value="/league_central.php?statsleague=EBEL&player=&team=&year=&status=&leagueid=&season=">AUT - EBEL</option>
+          <option value="/league_central.php?statsleague=Denmark&player=&team=&year=&status=&leagueid=&season=">DEN - AL-Bankligaen</option>
+      
+     
+          <option value="/league_central.php?statsleague=Norway&player=&team=&year=&status=&leagueid=&season=">NOR - Get Ligaen</option>
+          <option value="/league_central.php?statsleague=AlpsHL&player=&team=&year=&status=&leagueid=&season=">ITA - AlpsHL</option>
+          <option value="/league_central.php?statsleague=France&player=&team=&year=&status=&leagueid=&season=">FRA - Ligue Magnus</option>
+          <option value="/league_central.php?statsleague=Slovakia&player=&team=&year=&status=&leagueid=&season=">SVK - Extraliga</option>
+          <option value="/league_central.php?statsleague=Czech&player=&team=&year=&status=&leagueid=&season=">CZE - Extraliga</option>
+          <option value="/league_central.php?statsleague=WC&player=&team=&year=&status=&leagueid=&season=">World Championship</option>
+          <option value="/league_central.php?statsleague=WJC-20&player=&team=&year=&status=&leagueid=&season=">U20 WJC</option>
+        
+          <option value="/league_central.php?statsleague=WJC-18&player=&team=&year=&status=&leagueid=&season=">U18 WJC</option>
+        </select></td>
+        <td valign="top"></td>
+      </tr>
+    </table></td>
+  </tr>
+  <tr>
+    <td valign="top"><table width="286" border="0" cellpadding="1" cellspacing="0">
+      <tr bgcolor="#999999">
+        <td align="right" bgcolor="#FFFFFF"><strong>#</strong></td>
+        <td align="left" bgcolor="#FFFFFF"><strong>PLAYER</strong></td>
+        <td align="right" bgcolor="#FFFFFF"><strong>GP</strong></td>
+        <td align="right" bgcolor="#FFFFFF"><strong>G</strong></td>
+        <td align="right" bgcolor="#FFFFFF"><strong>A</strong></td>
+        <td align="right" bgcolor="#FFFFFF"><strong>TP</strong></td>
+      </tr>
+      NCAA
+      <tr bordercolor="#FFFFFF" bgcolor="white">
+        <td align="right" class="input"><div align="center"><font size="1">1.&nbsp;</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=203361">Adam Gaudette</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>60</strong></font></div></td>
+      </tr>
+            <tr bordercolor="#FFFFFF" bgcolor="white">
+        <td align="right" class="input"><div align="center"><font size="1">2.&nbsp;</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=206777">Max Veronneau</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">36</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">17</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>55</strong></font></div></td>
+      </tr>
+            <tr bordercolor="#FFFFFF" bgcolor="white">
+        <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=146580">Dylan Sikura</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">35</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">22</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">32</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>54</strong></font></div></td>
+      </tr>
+            <tr bordercolor="#FFFFFF" bgcolor="white">
+        <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=247422">Ryan Kuffner</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">36</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
+      </tr>
+            <tr bordercolor="#FFFFFF" bgcolor="white">
+        <td align="right" class="input"><div align="center"><font size="1">5.&nbsp;</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=118332">Henrik Borgström</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">40</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
+      </tr>
+          </table>
+      <font size="1">
+                <a href="league.php?leagueid=NCAA
+&amp;season=2017"><span id="fontSmallLink" style="float:right">SHOW MORE</span>  &nbsp;</a>
+              </font> &nbsp;<br /></td>
+  </tr>
+</table>
+
+<table width="300" border="0" cellspacing="0" cellpadding="2">
+    <tr bgcolor="#073343" class="trbackground">
+        <td height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="fontSectionsGeneral">RECENT ARTICLES</span></td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <table width="286" border="0" cellpadding="1" cellspacing="0">
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+            <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
+        </td>
+    </tr>
+</table>
+<br />
+
+
+<div style="width: 300px; overflow-x: hidden;">
+    <!-- CUSTOM LEFT MENU BASED ON IP -->
+  <script type="text/javascript">
+        document.write('<scr' + 'ipt type="text/javascript" src="/menu/menu_left_custom.php?country_code=' + visitor_country_code + '"></scr' + 'ipt>');
+    </script>
+</div>
+
+<div data-crowdynews-widget="NewsMe_ep-draft-vertical"><script src="//widget.crowdynews.com/NewsMe_ep-draft-vertical.js" async="true"></script></div>
+
+
+<!--
+<a href="https://itunes.apple.com/app/id888237142?mt=8" target="_blank"><img src="//files.eliteprospects.com/layout/ep-iPhone-290x250.png" alt="Elite Prospects launched for iPhone" title="Elite Prospects launched for iPhone" width="300" height="250" border="0" /></a>
+<a href="https://play.google.com/store/apps/details?id=com.eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/ep-app-290x250.png" alt="Elite Prospects launched on Android" title="Elite Prospects launched on Android" width="300" height="250" border="0" /></a>
+-->
+
+
+
+
+
+<table width="300" border="0" cellspacing="0" cellpadding="2">
+
+<tr bgcolor="#073343" class="trbackground">
+            <td colspan="3" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="fontSectionsGeneral">LEAGUE PAGES</span></td>
+  </tr>
+          <tr>
+            <td  valign="top">                
+			&nbsp;<img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=7">NHL</a> <br>
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=8">AHL </a><br>
+               &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=10">ECHL </a><br>
+				&nbsp;<img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=36">WHL</a> <br>
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=9">OHL</a> <br>
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=68">QMJHL </a> <br>
+			
+				
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/3.png">&nbsp;<a href="league_home.php?leagueid=127">USports</a><br>
+                
+            
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=161">SPHL</a><br>
+
+
+    &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=70">NCAA</a><br>
+			&nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=232">NCAA</a> III<br>
+               
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=78">USHL </a><br>
+                &nbsp;<img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=98">NAHL</a> <br>
+          
+                       
+                <br>
+			
+			
+	</td>
+            <td  valign="top">
+              <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=192"> KHL</a><br>
+ <img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=11"> Extraliga</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=14"> Extraliga</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=12"> NLA</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=27"> NLB </a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=26"> DEL</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=29"> DEL 2</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /><a href="league_home.php?leagueid=862"> EBEL</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=863">AlpsHL</a><br>
+              
+			   <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=24"> Serie A</a><br>
+
+	      <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=67"> Ligue Mag.</a><br>
+             
+              <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /><a href="league_home.php?leagueid=105"> EIHL</a> <br>
+                          
+ 
+      </td>
+      <td  valign="top">             <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=1">SHL</a> <a href="league_home.php?leagueid=2"><br>
+              </a> <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /><a href="league_home.php?leagueid=2"> Allsvenskan</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=3">Division 1 </a> <br>
+            
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=33">  SuperElit</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=6"> Liiga</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=28"> Mestis</a><br>
+              
+              <img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" border="0" /><a href="league_home.php?leagueid=16"> Metal L</a><br>
+
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=15"> Get Ligaen</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/23.png" alt="flag" border="0" /><a href="league_home.php?leagueid=126"> Belarus</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/17.png" alt="flag" border="0" /><a href="league_home.php?leagueid=22"> Poland</a> <br>
+         <img src="//files.eliteprospects.com/layout/flags_s/32.png" alt="flag" border="0" /><a href="league_home.php?leagueid=703"> BeNeLiga</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /><a href="league_home.php?leagueid=147"> Asia</a><br>
+              
+             <br>
+			<a href="league_central.php"><span id="fontSmallLink" style="float:right">SHOW MORE</span></a> &nbsp;</td>
+          </tr>
+         
+          <tr>
+            <td valign="top">&nbsp;</td>
+            <td colspan="2" valign="top">&nbsp; <br />
+                    
+               <br></td>
+          </tr>
+</table>
+
+
+     
+        
+
+   
+
+<!--<a href="champions_hockey_league.php"><br />
+<img src="//files.eliteprospects.com/layout/chl_champions_hl.png" alt="Champions Hockey League at Elite Prospects" title="Champions Hockey League at Elite Prospects" width="300" height="200" border="0" /></a><br />-->
+  
+
+
+<table width="300" border="0" cellspacing="0" cellpadding="2">
+
+<tr bgcolor="#073343" class="trbackground">
+            <td colspan="3" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="fontSectionsGeneral">ABROAD PLAYERS BY CONTINENT</span></td>
+  </tr>
+  </table>
+
+
+<form name="form" id="form" action="stats_by_continent.php" method="get"><br /><table width="300" border="0" cellspacing="0" cellpadding="2">
+          <tr>
+            <td colspan="4" valign="top">    
+              <select name="NationID" id="NationID" style="font-size: 9; font-family: verdana, arial; ">
+                <option value "" selected>Select player nation</option>        
+                
+                	<option value="103"
+	>
+	Afghanistan	<option value="269"
+	>
+	Albania	<option value="61"
+	>
+	Algeria	<option value="270"
+	>
+	American Samoa	<option value="83"
+	>
+	Andorra	<option value="271"
+	>
+	Angola	<option value="105"
+	>
+	Anguilla	<option value="106"
+	>
+	Antarctica	<option value="107"
+	>
+	Antigua and Barbuda	<option value="72"
+	>
+	Argentina	<option value="65"
+	>
+	Armenia	<option value="108"
+	>
+	Aruba	<option value="33"
+	>
+	Australia	<option value="12"
+	>
+	Austria	<option value="93"
+	>
+	Azerbaijan	<option value="109"
+	>
+	Bahamas	<option value="110"
+	>
+	Bahrain	<option value="111"
+	>
+	Bangladesh	<option value="112"
+	>
+	Barbados	<option value="23"
+	>
+	Belarus	<option value="26"
+	>
+	Belgium	<option value="79"
+	>
+	Belize	<option value="113"
+	>
+	Benin	<option value="114"
+	>
+	Bermuda	<option value="115"
+	>
+	Bhutan	<option value="74"
+	>
+	Bolivia	<option value="116"
+	>
+	Bonaire	<option value="68"
+	>
+	Bosnia	<option value="117"
+	>
+	Botswana	<option value="118"
+	>
+	Bouvet Island	<option value="84"
+	>
+	Brazil	<option value="119"
+	>
+	British Indian Ocean Territory	<option value="120"
+	>
+	Brunei Darussalam	<option value="42"
+	>
+	Bulgaria	<option value="121"
+	>
+	Burkina Faso	<option value="200"
+	>
+	Burma (Myanmar)	<option value="122"
+	>
+	Burundi	<option value="123"
+	>
+	Cambodia	<option value="124"
+	>
+	Cameroon	<option value="3"
+	>
+	Canada	<option value="125"
+	>
+	Cape Verde	<option value="126"
+	>
+	Cayman Islands	<option value="127"
+	>
+	Central African Republic	<option value="128"
+	>
+	Chad	<option value="129"
+	>
+	Chile	<option value="41"
+	>
+	China	<option value="58"
+	>
+	Chinese Taipei	<option value="130"
+	>
+	Christmas Island	<option value="97"
+	>
+	CIS	<option value="131"
+	>
+	Cocos (Keeling) Islands	<option value="95"
+	>
+	Colombia	<option value="132"
+	>
+	Comoros	<option value="133"
+	>
+	Congo	<option value="135"
+	>
+	Cook Islands	<option value="136"
+	>
+	Costa Rica	<option value="137"
+	>
+	Côte d'Ivoire	<option value="29"
+	>
+	Croatia	<option value="138"
+	>
+	Cuba	<option value="139"
+	>
+	Curaçao	<option value="140"
+	>
+	Cyprus	<option value="8"
+	>
+	Czech Rep.	<option value="7"
+	>
+	Denmark	<option value="141"
+	>
+	Djibouti	<option value="142"
+	>
+	Dominica	<option value="143"
+	>
+	Dominican Republic	<option value="81"
+	>
+	East Germany	<option value="98"
+	>
+	Ecuador	<option value="145"
+	>
+	Egypt	<option value="146"
+	>
+	El Salvador	<option value="25"
+	>
+	England	<option value="147"
+	>
+	Equatorial Guinea	<option value="102"
+	>
+	Eritrea	<option value="13"
+	>
+	Estonia	<option value="88"
+	>
+	Ethiopia	<option value="272"
+	>
+	EU	<option value="149"
+	>
+	Falkland Islands (Malvinas)	<option value="150"
+	>
+	Faroe Islands	<option value="151"
+	>
+	Fiji	<option value="2"
+	>
+	Finland	<option value="14"
+	>
+	France	<option value="152"
+	>
+	French Guiana	<option value="153"
+	>
+	French Polynesia	<option value="154"
+	>
+	French Southern Territories	<option value="155"
+	>
+	Gabon	<option value="156"
+	>
+	Gambia	<option value="66"
+	>
+	Georgia	<option value="21"
+	>
+	Germany	<option value="157"
+	>
+	Ghana	<option value="158"
+	>
+	Gibraltar	<option value="56"
+	>
+	Greece	<option value="159"
+	>
+	Greenland	<option value="160"
+	>
+	Grenada	<option value="161"
+	>
+	Guadeloupe	<option value="162"
+	>
+	Guam	<option value="163"
+	>
+	Guatemala	<option value="164"
+	>
+	Guernsey	<option value="165"
+	>
+	Guinea	<option value="166"
+	>
+	Guinea-Bissau	<option value="167"
+	>
+	Guyana	<option value="168"
+	>
+	Haiti	<option value="169"
+	>
+	Heard Island and McDonald Islands	<option value="170"
+	>
+	Holy State	<option value="171"
+	>
+	Honduras	<option value="85"
+	>
+	Hong Kong	<option value="22"
+	>
+	Hungary	<option value="27"
+	>
+	Iceland	<option value="92"
+	>
+	India	<option value="101"
+	>
+	Indonesia	<option value="94"
+	>
+	Iran	<option value="173"
+	>
+	Iraq	<option value="49"
+	>
+	Ireland	<option value="174"
+	>
+	Isle of Man	<option value="45"
+	>
+	Israel	<option value="19"
+	>
+	Italy	<option value="175"
+	>
+	Jamaica	<option value="20"
+	>
+	Japan	<option value="176"
+	>
+	Jersey	<option value="177"
+	>
+	Jordan	<option value="36"
+	>
+	Kazakhstan	<option value="178"
+	>
+	Kenya	<option value="179"
+	>
+	Kiribati	<option value="90"
+	>
+	Kuwait	<option value="75"
+	>
+	Kyrgyzstan	<option value="180"
+	>
+	Laos	<option value="11"
+	>
+	Latvia	<option value="76"
+	>
+	Lebanon	<option value="181"
+	>
+	Lesotho	<option value="182"
+	>
+	Liberia	<option value="183"
+	>
+	Libya	<option value="70"
+	>
+	Liechtenstein	<option value="34"
+	>
+	Lithuania	<option value="44"
+	>
+	Luxembourg	<option value="89"
+	>
+	Macau	<option value="64"
+	>
+	Macedonia	<option value="186"
+	>
+	Madagascar	<option value="187"
+	>
+	Malawi	<option value="91"
+	>
+	Malaysia	<option value="188"
+	>
+	Maldives	<option value="189"
+	>
+	Mali	<option value="63"
+	>
+	Malta	<option value="190"
+	>
+	Marshall Islands	<option value="191"
+	>
+	Martinique	<option value="192"
+	>
+	Mauritania	<option value="193"
+	>
+	Mauritius	<option value="194"
+	>
+	Mayotte	<option value="50"
+	>
+	Mexico	<option value="195"
+	>
+	Micronesia	<option value="59"
+	>
+	Moldova	<option value="196"
+	>
+	Monaco	<option value="55"
+	>
+	Mongolia	<option value="197"
+	>
+	Montenegro	<option value="198"
+	>
+	Montserrat	<option value="73"
+	>
+	Morocco	<option value="199"
+	>
+	Mozambique	<option value="71"
+	>
+	Namibia	<option value="201"
+	>
+	Nauru	<option value="202"
+	>
+	Nepal	<option value="32"
+	>
+	Netherlands	<option value="203"
+	>
+	New Caledonia	<option value="53"
+	>
+	New Zealand	<option value="204"
+	>
+	Nicaragua	<option value="205"
+	>
+	Niger	<option value="206"
+	>
+	Nigeria	<option value="207"
+	>
+	Niue	<option value="208"
+	>
+	Norfolk Island	<option value="54"
+	>
+	North Korea	<option value="48"
+	>
+	Northern Ireland	<option value="209"
+	>
+	Northern Mariana Islands	<option value="5"
+	>
+	Norway	<option value="100"
+	>
+	Oman	<option value="211"
+	>
+	Pakistan	<option value="212"
+	>
+	Palau	<option value="214"
+	>
+	Panama	<option value="215"
+	>
+	Papua New Guinea	<option value="216"
+	>
+	Paraguay	<option value="217"
+	>
+	Peru	<option value="218"
+	>
+	Pitcairn	<option value="17"
+	>
+	Poland	<option value="62"
+	>
+	Portugal	<option value="219"
+	>
+	Puerto Rico	<option value="78"
+	>
+	Qatar	<option value="220"
+	>
+	Réunion	<option value="18"
+	>
+	Romania	<option value="9"
+	>
+	Russia	<option value="221"
+	>
+	Rwanda	<option value="222"
+	>
+	Saint BarthÈlemy	<option value="223"
+	>
+	Saint Helena	<option value="224"
+	>
+	Saint Kitts and Nevis	<option value="225"
+	>
+	Saint Martin	<option value="226"
+	>
+	Saint Pierre and Miquelon	<option value="227"
+	>
+	Saint Vincent and the Grenadines	<option value="228"
+	>
+	Samoa	<option value="229"
+	>
+	San Marino	<option value="230"
+	>
+	Sao Tome and Principe	<option value="231"
+	>
+	Saudi Arabia	<option value="47"
+	>
+	Scotland	<option value="232"
+	>
+	Senegal	<option value="43"
+	>
+	Serbia	<option value="86"
+	>
+	Serbia & Montenegro	<option value="233"
+	>
+	Seychelles	<option value="234"
+	>
+	Sierra Leone	<option value="96"
+	>
+	Singapore	<option value="235"
+	>
+	Sint Maarten	<option value="4"
+	>
+	Slovakia	<option value="28"
+	>
+	Slovenia	<option value="236"
+	>
+	Solomon Islands	<option value="237"
+	>
+	Somalia	<option value="57"
+	>
+	South Africa	<option value="238"
+	>
+	South Georgia	<option value="38"
+	>
+	South Korea	<option value="239"
+	>
+	South Sudan	<option value="82"
+	>
+	Soviet Union	<option value="35"
+	>
+	Spain	<option value="240"
+	>
+	Sri Lanka	<option value="77"
+	>
+	St. Lucia	<option value="213"
+	>
+	State of Palestine	<option value="99"
+	>
+	Sudan	<option value="242"
+	>
+	Suriname	<option value="243"
+	>
+	Svalbard and Jan Mayen	<option value="244"
+	>
+	Swaziland	<option value="1"
+	>
+	Sweden	<option value="10"
+	>
+	Switzerland	<option value="245"
+	>
+	Syrian Arab Republic	<option value="104"
+	>
+	Tajikistan	<option value="51"
+	>
+	Thailand	<option value="134"
+	>
+	The Democratic Republic of Congo	<option value="248"
+	>
+	Timor-Leste	<option value="249"
+	>
+	Togo	<option value="250"
+	>
+	Tokelau	<option value="251"
+	>
+	Tonga	<option value="252"
+	>
+	Trinidad and Tobago	<option value="253"
+	>
+	Tunisia	<option value="37"
+	>
+	Turkey	<option value="254"
+	>
+	Turkmenistan	<option value="255"
+	>
+	Turks and Caicos Islands	<option value="256"
+	>
+	Tuvalu	<option value="15"
+	>
+	U.K.	<option value="60"
+	>
+	UAE	<option value="87"
+	>
+	Uganda	<option value="24"
+	>
+	Ukraine	<option value="80"
+	>
+	Unified Team	<option value="247"
+	>
+	United Republic of Tanzania	<option value="257"
+	>
+	United States Minor Outlying Islands	<option value="258"
+	>
+	Uruguay	<option value="6"
+	>
+	USA	<option value="67"
+	>
+	Uzbekistan	<option value="259"
+	>
+	Vanuatu	<option value="69"
+	>
+	Venezuela	<option value="260"
+	>
+	Vietnam	<option value="261"
+	>
+	Virgin Islands - British	<option value="262"
+	>
+	Virgin Islands - U.S.	<option value="46"
+	>
+	Wales	<option value="263"
+	>
+	Wallis and Futuna	<option value="264"
+	>
+	Western Sahara	<option value="265"
+	>
+	Yemen	<option value="30"
+	>
+	Yugoslavia	<option value="266"
+	>
+	Zambia	<option value="267"
+	>
+	Zimbabwe	<option value="268"
+	>
+	Åland Islands              </select>
+              &nbsp;&nbsp;<input type="submit" name="filter" id="filter" value="Show stats" /></td>
+          </tr>
+          <tr>
+            <td width="100" align="center" valign="top">EU</td>
+            <td width="100" align="center" valign="top">NA</td>
+            <td width="100" align="center" valign="top">INT</td>
+            
+          </tr>
+          <tr>
+            <td align="center" valign="top"><input type="radio" name="continent" id="continent2" value="EU" ></td>
+            <td align="center" valign="top"><input type="radio" name="continent" id="continent3" value="NA" ></td>
+            <td align="center" valign="top"><input type="radio" name="continent" id="continent" value="INT" ></td>
+    </tr>
+     
+          </table>  
+</form>
+<br />
+     
+<p>
+ &nbsp; &nbsp; &nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank" title="Elite Prospects Facebook Page"><img src="//files.eliteprospects.com/layout/iconlink_facebook.png" width="30" height="30" alt="Elite Prospects Facebook Page" border="0"/></a>&nbsp;
+<a href="https://twitter.com/eliteprospects" target="_blank" title="Elite Prospects Twitter Page"><img src="//files.eliteprospects.com/layout/iconlink_twitter.png" width="30" height="30" alt="Elite Prospects Twitter Page" border="0"/></a>&nbsp;
+<a href="http://instagram.com/eliteprospectshockey" target="_blank" title="Elite Prospects Instagram Page"><img src="//files.eliteprospects.com/layout/iconlink_instagram.png" width="30" height="30" alt="Elite Prospects Instagram Page" border="0"/></a>
+
+</p>
+<p> &nbsp; &nbsp; &nbsp;<font size="1" face="Verdana, Arial, Helvetica, sans-serif">&copy;1999-2018, www.eliteprospects.com <br />
+  <br />
+  &nbsp; &nbsp; &nbsp;<a href="javascript:newPopUpContact('http://www.eliteprospects.com/contact_ep.php','Popup')">Contact EP</a> (pop-up)<br>
+  &nbsp; &nbsp; &nbsp;<a href="mailto:shop@eliteprospects.com">Contact EP Shop</a>
+        <br/>
+         &nbsp; &nbsp; &nbsp;<a href="/privacy.php">Privacy Policy</a>
+</font></p>
+
+ 
+      <td width="1" bgcolor="#999999"></td>
+      <td width="10"bgcolor="white"></td>
+      <td width="767" valign="top" bgcolor="white"><br>
+        <div id="fontHeader">LEAGUE PAGES</div><br><br>
+       
+        <table width="100%" border="0" cellspacing="2" cellpadding="0">
+          <tr>
+            <td><span id="fontsections">MEN'S HOCKEY</span></td>
+            <td rowspan="4" align="center" valign="middle"><FORM ACTION="league_home.php" METHOD="GET" id=form1 name=form1>
+        <input style="background:transparent url(//files.eliteprospects.com/layout/searchicon.png) no-repeat scroll left center;
+		margin: 0;
+		padding: 3px 20px;
+		font-family: Verdana, Arial, Helvetica, sans-serif;
+		
+		border:1px solid #999999; border-right:0px;
+		border-top-left-radius: 5px 5px;
+		border-bottom-left-radius: 5px 5px;" class="ep-admin-auto-suggest5"
+               data-auto-suggest-type="leagues"
+               data-auto-suggest-action="leagueSuggested"
+               name="leagueid" type="text" id="leagueid" size="40"
+               autocorrect="off" autocomplete="off"
+               placeholder="Search league..."/><input name="bsearch" type="submit" class="tfbutton" id="bsearch" value="League"></form></td>
+            <td><span id="fontsections">WOMEN'S HOCKEY</span></td>
+          </tr>
+          <tr>
+            <td><a href="#europe"><span id="fontMainlink2">- EUROPE &amp; OTHER</span></a></td>
+            <td><a href="#europew"><span id="fontMainlink2">- EUROPE &amp; OTHER</span></a></td>
+          </tr>
+          <tr>
+            <td><a href="#na"><span id="fontMainlink2">- NORTH AMERICA</span></a></td>
+            <td><a href="#naw"><span id="fontMainlink2">- NORTH AMERICA</span></a></td>
+          </tr>
+          <tr>
+            <td><a href="#international"><span id="fontMainlink2">- INTERNATIONAL</span></a></td>
+            <td><a href="#internationalw"><span id="fontMainlink2">- INTERNATIONAL</span></a></td>
+          </tr>
+        </table>
+
+     <br><a name="europe"></a>
+<table width="100%" border="0" cellspacing="0" cellpadding="4" class="tableborder">
+          <tr class="trbackground">
+            <td class="tdbackground"><span id="fontSectionsGeneral">NORTHERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">WESTERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">EASTERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">SOUTHERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">OTHER</span></td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=1">SHL</a> <br /> <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /><a href="league_home.php?leagueid=2"> Allsvenskan</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=3">Division 1 </a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=4">Division 2</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=5">Division 3</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=75">Division 4</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=665">Division 5</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=666">Division 6</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=33"> J20 SuperElit</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=145"> J20 Elit</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=179"> J20 Div.1</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=187"> J20 Div.2</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=34">J18 Allsvenskan</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=144">J18 Elit</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=178"> J18 Div.1</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=188"> J18 Div.2</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=191"> U16 SM</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=596"> U16 Elit</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=336"> U16 Div.1</a><br />
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=600"> U16 Div.2</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=111">TV-Pucken</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=6"> Liiga</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=28"> Mestis</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=76"> Suomi-sarja</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=234"> II-divisioona</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=451"> III-divisioona</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=230"> Jr. SM-liiga</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=571"> Jr. A Mestis</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=610"> Jr. A Suomi-sarja</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=229"> Jr. B SM-sarja</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=572"> Jr. B Mestis</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=573"> Jr. B Suomi-sarja</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=442"> Jr. C SM-sarja</a> <br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" border="0" /><a href="league_home.php?leagueid=16"> Metal Ligaen</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" border="0" /><a href="league_home.php?leagueid=112"> 1. Division</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" border="0" /><a href="league_home.php?leagueid=242"> Denmark U20</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" border="0" /><a href="league_home.php?leagueid=581"> Denmark U17</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=15"> Get Ligaen</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=89"> 1. Divisjon</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=135"> 2. Divisjon</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=530"> 3. Divisjon</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=560"> Norway U20</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=559"> Norway U18</a> <br>
+              <br>
+              
+              <img src="//files.eliteprospects.com/layout/flags_s/27.png" alt="" border="0" /> <a href="league_home.php?leagueid=225">Iceland</a> <br>
+              <br>
+
+              
+               
+               
+   
+                
+
+				
+                
+			 
+                
+              
+ 
+                
+           
+           
+                
+
+            
+
+
+            <td valign="top">
+              <p><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=12"> NLA</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=27"> NLB </a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=516"> SRL </a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=239"> 1. Liga </a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=433"> Elite Jr. A</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=434"> Elite Jr. B</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=435"> Elite Novizen</a><br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=26"> DEL</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=29"> DEL 2</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=90"> Oberliga</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=72"> Regionalliga</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=226"> DNL</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=659"> DNL2</a><br>
+                
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=349"> Sch&uuml;ler-Bundesliga</a> <br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /><a href="league_home.php?leagueid=862"> Erste Bank Liga</a><br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=863">Alps Hockey League</a><br>
+              
+           
+              
+                <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=864">EBYSL</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=13">EBJL</a><br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=67"> Ligue Magnus</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=20"> Division 1</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=114"> Division 2</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=146"> Division 3</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=872"> France U17</a> <br>
+                             <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=873"> France U20</a> <br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /><a href="league_home.php?leagueid=105"> EIHL</a> <br>
+          
+              <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=140">NIHL</a> <br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=684">NIHL 2</a> <br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/25.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=709">England U15</a> <br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/25.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=458">England U18</a> <br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/25.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=708">England U20</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/47.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=340">SNL</a> <br>
+              <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/32.png" alt="flag" border="0" /><a href="league_home.php?leagueid=703"> <img src="//files.eliteprospects.com/layout/flags_s/26.png" alt="flag" border="0" /> BeNeLiga</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/32.png" alt="flag" border="0" /><a href="league_home.php?leagueid=303"> Netherlands2</a> <br>
+                <br>
+           
+            
+              </p>
+              </td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=192"> KHL</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=133"> VHL</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=134"> Russia3</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=228"> MHL</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=508"> NMHL</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=699"> Russia U16</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=700"> Russia U17</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=819"> Russia U18</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=907"> Moskva U19</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=11"> Extraliga</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=123"> 1. liga</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=138"> 2. liga</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=447"> Czech U16</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=162"> Czech U18</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=163"> Czech U20</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=14"> Extraliga</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=124"> 1. liga</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=912"> Slovakia U16</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=167"> Slovakia U18</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=168"> Slovakia U20</a> <br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/11.png" border="0" /><a href="league_home.php?leagueid=18"> Latvia </a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/11.png" border="0" /><a href="league_home.php?leagueid=200"> Latvia2 </a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/11.png" border="0" /><a href="league_home.php?leagueid=316"> Latvia U18 </a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/22.png" border="0" /><a href="league_home.php?leagueid=464"> Erste Liga</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/22.png" border="0" /><a href="league_home.php?leagueid=104"> Hungary</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/22.png" border="0" /><a href="league_home.php?leagueid=333"> Hungary U18</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/22.png" border="0" /><a href="league_home.php?leagueid=261"> Hungary U20</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/23.png" alt="flag" border="0" /><a href="league_home.php?leagueid=126"> Belarus</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/23.png" alt="flag" border="0" /><a href="league_home.php?leagueid=208"> Belarus2</a> <br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/24.png" border="0" /><a href="league_home.php?leagueid=213"> Ukraine</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/24.png" border="0" /><a href="league_home.php?leagueid=448"> Ukraine U20</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/24.png" border="0" /><a href="league_home.php?leagueid=611"> Ukraine U16</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/36.png" alt="flag" border="0" /><a href="league_home.php?leagueid=196"> Kazakhstan</a> <br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/17.png" alt="flag" border="0" /><a href="league_home.php?leagueid=22"> Poland</a> <br>
+<img src="//files.eliteprospects.com/layout/flags_s/17.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=210">Poland2</a><br>
+<img src="//files.eliteprospects.com/layout/flags_s/17.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=625">Poland U20</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/42.png" alt="flag" border="0" /><a href="league_home.php?leagueid=227"> Bulgaria</a> <br>
+
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/13.png" alt="flag" border="0" /><a href="league_home.php?leagueid=19"> Estonia</a> <br>
+<br>
+
+<img src="//files.eliteprospects.com/layout/flags_s/34.png" alt="flag" border="0" /><a href="league_home.php?leagueid=132"> Lithuania</a> <br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/18.png" border="0" /><a href="league_home.php?leagueid=23"> Romania</a><br>
+<br>
+<br>
+<br>
+
+<br></td>
+            <td valign="top"><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=24"> Elite Division</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=116"> Italian HL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=122"> Division 1</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=881"> Junior League</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=911"> Italy U17</a> <br>
+          
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/29.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=121">Croatia</a><br>
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/43.png" border="0" /> <a href="league_home.php?leagueid=189">Serbia</a><br>
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/28.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=88">Slovenia</a><br>
+            <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/28.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=910">IntHL</a><br>
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/68.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=467">Bosnia</a><br>
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/35.png" border="0" /> <a href="league_home.php?leagueid=143">Spain</a><br>
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/37.png" border="0" /> <a href="league_home.php?leagueid=186">Turkey</a> </a></td>
+            <td valign="top"><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" />&nbsp;<a href="league_home.php?leagueid=147">Asia League</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/85.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=648">CIHL HK</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/41.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=478">China</a><br>
+               <img src="//files.eliteprospects.com/layout/flags_s/20.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=25">Japan</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/38.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=672">Korea College</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/33.png">&nbsp;<a href="league_home.php?leagueid=120">AIHL</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/33.png">&nbsp;<a href="league_home.php?leagueid=654">AIJHL</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/33.png">&nbsp;<a href="league_home.php?leagueid=465">ECSL</a><br>
+                 <img src="//files.eliteprospects.com/layout/flags_s/33.png">&nbsp;<a href="league_home.php?leagueid=904">IHSA Premier</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/33.png">&nbsp;<a href="league_home.php?leagueid=903">IHV Premier</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/53.png">&nbsp;<a href="league_home.php?leagueid=195">NZIHL</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/57.png">&nbsp;<a href="league_home.php?leagueid=628">GPHL</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/57.png">&nbsp;<a href="league_home.php?leagueid=629">WPIHL</a><br>
+              <br>
+              
+               <img src="//files.eliteprospects.com/layout/flags_s/45.png">&nbsp;<a href="league_home.php?leagueid=338">Israel</a><br><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/60.png">&nbsp;<a href="league_home.php?leagueid=474">UAE</a><br /><br />
+            <span id="fontSmall"><br>
+              COLLEGE</span><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/272.png" alt="flag" border="0" />&nbsp;<a href="league_home.php?leagueid=837">EUHL</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=843"> MSHL1</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=844"> MSHL2</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=845"> MSHL3</a><br>
+             
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=905"> RSHL1</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=906"> RSHL2</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=846"> SHLSPB1</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=847"> SHLSPB2</a><br>
+             
+             
+             
+             </td>
+          </tr>
+        </table><br><br>
+       <a name="na"></a><span id="fontMainlink">NORTH AMERICA</span><br>
+        <br>
+<table width="100%" border="0" cellspacing="0" cellpadding="4" class="tableborder">
+          <tr class="trbackground">
+            <td class="tdbackground"><span id="fontSectionsGeneral">MEN'S HOCKEY</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">USA</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">CANADA WEST</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">CANADA ONT</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">CANADA EAST</span></td>
+          </tr>
+          <tr>
+            <td valign="top"><span id="fontSmall"><br>
+              PROFESSIONAL</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=7">NHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=8">AHL </a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=10">ECHL </a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=161">SPHL</a> <br>
+          <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=137">LNAH</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=342">FHL</a> <br>
+            <br>
+            <span id="fontSmall">SEMI-PRO</span><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=398">ACH</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=350">ACHW</a> <br>
+            
+           
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=348">WOAA</a> <br>
+            <br>
+            <span id="fontSmall">COLLEGE</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=70">NCAA</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=232">NCAA III</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=895">NAIA</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=304">ACHA</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=326">ACHA II</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=327">ACHA III</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=343">BCIHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=127">USports</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=128">CCAA</a> <br>
+           
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=505">QCHL</a> <br>
+            <br>
+            <span id="fontSmall">AMATEUR</span><br>
+            
+         
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=608">FCHL</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag"> <a href="league_home.php?leagueid=175">GLHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=420">LHBBF</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=901">LHSAAAQ</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=527">LHSAM</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=526">LHSCE</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=513">NCHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=548">NESHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=427">NLSHL</a> <br>
+           <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=424">SEMHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=401">SVHL</a> <br>
+       
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag"> <a href="league_home.php?leagueid=549">SWHL</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag"> <a href="league_home.php?leagueid=562">MWHL</a> <br>
+            <br>        <br></td>
+            <td valign="top"><span id="fontSmall"><br>
+              JR. US TIER I</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=78">USHL</a> <br><br />
+            <span id="fontSmall">JR. US TIER II</span><br />
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=98">NAHL</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=908">NCDC</a> <br><br />
+            <span id="fontSmall">JR. US TIER III</span><br />
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="EHL">&nbsp;<a href="league_home.php?leagueid=605">EHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="MNJHL">&nbsp;<a href="league_home.php?leagueid=815">EHLP</a> <br>
+             
+                <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag">&nbsp;<a href="league_home.php?leagueid=94">NA3HL</a> <br>
+           
+             
+               <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag"> <a href="league_home.php?leagueid=693">RMJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="">&nbsp;<a href="league_home.php?leagueid=594">USPHL Premier</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="">&nbsp;<a href="league_home.php?leagueid=623">USPHL Elite</a><br>
+           
+            <br />            
+            <span id="fontSmall">JR. AAU TIER II/III</span><br />
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=101">WSHL</a><br>
+           
+          
+           
+            <br><span id="fontSmall">MIDGET</span>
+            <br>
+             
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=652">AYHL 18U</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=651">AYHL 16U</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=668">AYHL 15U</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=707">ECEL U18</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=368">ECEL U16</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=592">EJEPL U18</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=400">EJEPL U16</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=633">HPHL U18</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=634">HPHL U16</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=875">HPHL U15</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=318">NAPHL 18U</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=607">NAPHL 16U</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=876">NAPHL 15U</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=535">NJPHL U18</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=425">NJPHL U16</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=637">T1EHL U18</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=638">T1EHL U16</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=857">T1EHL U15</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="">&nbsp;<a href="league_home.php?leagueid=621">USPHL 18U</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="">&nbsp;<a href="league_home.php?leagueid=620">USPHL 16U</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="">&nbsp;<a href="league_home.php?leagueid=820">USPHL 16UF</a><br>
+            <br><span id="fontSmall">BANTAM</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=635">HPBHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=636">HPBMHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=639">T1EBHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=640">T1EMBHL</a><br>
+            
+
+            <br>
+            <span id="fontSmall">PREP &amp; HS</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt=""> <a href="league_home.php?leagueid=428">USDP</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=131">USHS</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=399">MPHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=221">NJCAA</a> <br>
+            <br>
+            <span id="fontSmall">INDEPENDENT</span><br>
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag">&nbsp;<a href="league_home.php?leagueid=528">NSHL</a> <br><br>
+            
+            </td>
+            <td valign="top"><span id="fontSmall"><br>
+              CHL</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=36">WHL</a><br>
+            <br>
+            <span id="fontSmall">JR. A </span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="AJHL">&nbsp;<a href="league_home.php?leagueid=91">AJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=92">BCHL</a> <br>
+            
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="MJHL">&nbsp;<a href="league_home.php?leagueid=97">MJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=216">SIJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="SJHL">&nbsp;<a href="league_home.php?leagueid=100">SJHL</a> <br>
+            <br>
+            <span id="fontSmall">JR. B</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag">&nbsp;<a href="league_home.php?leagueid=355">CapJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="HJHL">&nbsp;<a href="league_home.php?leagueid=255">HJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag">&nbsp;<a href="league_home.php?leagueid=360">KJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=212">KIJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=361">NEAJBHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=218">NWJHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=330">PJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=256">PIJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=257">VIJHL</a> <br>
+            
+            <br>
+            <span id="fontSmall">MIDGET<br>
+            </span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=207">AMHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=384">AMMHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=252">BCMML</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=503">CSSHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=691">CSSHL E15</a> <br>
+            
+<img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=692">CSSVHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=253">MMHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=444">NAMHL</a> <br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=251">SMHL</a> <br>
+                  <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=506">WCML</a> <br>
+            
+           
+            <br>
+            <span id="fontSmall">BANTAM<br>
+            </span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=328">AMBHL</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=689">CSSBHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=690">CSSBVHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=644">PCBHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=519">SSMHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=630">SBAAHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=579">WBAAA</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=580">WBAAA2 </a> <br>
+          
+            <br> 
+            <span id="fontSmall">INDEPENDENT </span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="MMHL">&nbsp;<a href="league_home.php?leagueid=344">MMJHL</a><br></td>
+            <td valign="top"><span id="fontSmall"><br>
+              CHL</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=9">OHL</a><br>
+            <br>
+            <span id="fontSmall">JR. A</span> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="CCHL"> <a href="league_home.php?leagueid=93">CCHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="NOJHL">&nbsp;<a href="league_home.php?leagueid=215">NOJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="OJHL">&nbsp;<a href="league_home.php?leagueid=217">OJHL </a><br>
+           
+            <br>
+            <span id="fontSmall">JR. B<br>
+            </span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="EOJHL">&nbsp;<a href="league_home.php?leagueid=705">CCHL2<br>
+            </a></span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="GOJHL">&nbsp;<a href="league_home.php?leagueid=180">GOJHL<br>
+            </a></span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=874">LJHL</a></span> <br>
+            <br>
+            <span id="fontSmall">JR. C<br>
+            </span>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="">&nbsp;<a href="league_home.php?leagueid=858">PJCHL</a><br>
+            
+       
+            <br>
+            <span id="fontSmall">MIDGET</span><br />
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=438">AHMMPL</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=437">AHMPL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=612">ETAMMHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=403">GNML</a> <br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=405">GTHL</a> <br>
+     
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=613">GTMMHL</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=706">HEOMAAA</a> <br>
+        
+            
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=614">SCTAMM</a> <br>
+            
+            <br>
+            <span id="fontSmall">BANTAM<br>
+            </span>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=798">ETABHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=615">GTBHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=552">NOBHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=609">NOMBHL</a><br>
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=649">OEBHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=650">OEMBHL</a><br>
+           
+            <br>
+            <span id="fontSmall">PREP &amp; HS<br>
+            </span>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=445">CAHS</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=414">CISAA</a> <br>
+            <br>
+            <span id="fontSmall">INDEPENDENT </span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="CPJHL">&nbsp;<a href="league_home.php?leagueid=880">CPJHL</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="GMHL">&nbsp;<a href="league_home.php?leagueid=177">GMHL</a> <br></td>
+            <td valign="top"><span id="fontSmall"><br>
+              CHL</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=68">QMJHL </a> <br>
+            <span id="fontSmall"><br>
+            JR. A</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="MJAHL">&nbsp;<a href="league_home.php?leagueid=96">MJAHL</a>            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="QJAHL">&nbsp;<a href="league_home.php?leagueid=220">QJAAAHL<br>
+            </a><span id="fontSmall"><br>
+            JR. B</span><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="MJAHL">&nbsp;<a href="league_home.php?leagueid=363">NSJHL</a>            <br><br />
+            <span id="fontSmall">MIDGET<br>
+            </span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=489">NBPEIMMHL</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=490">NLMMHL</a><br /><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=432">NSMMHL </a><br>
+           
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=423">QMAAA</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=616">QMAA</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=606">QMEAA</a><br>
+                      </span><br>
+            <span id="fontSmall">BANTAM<br>
+            </span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=641">NBBAAAHL</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=697">NLBAAAHL</a><br />
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=554">NSMBHL </a><br>
+           
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=551">PEIBAAA </a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=642">QBAAA</a><br>
+        </td>
+          </tr>
+</table><br><br><a name="international"></a><span id="fontMainlink">INTERNATIONAL</span><br><br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="4" class="tableborder">
+          <tr class="trbackground">
+            <td class="tdbackground"><span id="fontSectionsGeneral">MEN'S HOCKEY</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">U20 LEVEL</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">U18 LEVEL</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">OTHER</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">CLUB LEVEL</span></td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=65">World Cup 2016</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=61">WC</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=305">WC D1A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=541">WC D1B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=306">WC D2A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=542">WC D2B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=307">WC D3</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=591">WC D3Q</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=60">Olympics</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=590">OGQ</a></td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=64">U20 WJC</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=311">U20 WJC D1A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=536">U20 WJC D1B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=312">U20 WJC D2A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=537">U20 WJC D2B</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=313">U20 WJC D3</a></td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=63">U18 WJC</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=308">U18 WJC D1A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=538">U18 WJC D1B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=309">U18 WJC D2A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=539">U18 WJC D2B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=310">U18 WJC D3A</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=540">U18 WJC D3B</a></td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=543">YOG</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=321">U17 WHC</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=601">CCOA </a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=653">CCOA D1</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=603">CCOA U20 </a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=602">CCOA U18 </a></td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=657">Champions HL</a><br />
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=848">Continental Cup</a></td>
+          </tr>
+        </table>
+       <br>
+     <br><a name="europew"></a><span id="fontMainlink">EUROPE - WOMEN'S HOCKEY</span><br><br />
+<table width="100%" border="0" cellspacing="0" cellpadding="4" class="tableborder">
+          <tr class="trbackground">
+            <td class="tdbackground"><span id="fontSectionsGeneral">NORTHERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">WESTERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">EASTERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">SOUTHERN EU</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">OTHER</span></td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=710">SDHL</a><br />
+             <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /><a href="league_home.php?leagueid=814"> AllEttan</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=711">Division 1 </a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=712">Division 2</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=713">St&aring;lbucklan</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=714">U18 Region</a> <br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=894"> Liiga</a> <br>
+              
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=809"> Mestis</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" /><a href="league_home.php?leagueid=808"> Suomi-sarja</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/7.png" alt="flag" border="0" /><a href="league_home.php?leagueid=790"> Denmark</a><br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=791"> Norway</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/5.png" alt="flag" border="0" /><a href="league_home.php?leagueid=792"> Norway2</a><br>
+              <br>
+              <br>
+
+
+            <td valign="top">
+              <p><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=749"> SWHL A</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/10.png" alt="flag" border="0" /><a href="league_home.php?leagueid=779"> SWHL B </a><br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=736"> Frauen-Bundesliga</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=745"> Germany2</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=746"> Germany3</a> <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/21.png" alt="flag" border="0" /><a href="league_home.php?leagueid=747"> Germany4</a> <br>
+                <br>
+                <br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=812">EWHL</a><br />
+                <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /><a href="league_home.php?leagueid=780"> DEBL</a><br>
+                <img src="//files.eliteprospects.com/layout/flags_s/12.png" alt="flag" border="0" /><a href="league_home.php?leagueid=813"> DEBL2</a><br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" /><a href="league_home.php?leagueid=782"> France</a><br>
+                <br>
+                <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /><a href="league_home.php?leagueid=786"> Premier</a> <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=787">UK Division 1</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/15.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=788">UK U16</a> <br>
+              </p>
+            </td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" /><a href="league_home.php?leagueid=777"> Russia</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" /><a href="league_home.php?leagueid=825"> Extraliga</a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/4.png" alt="flag" border="0" /><a href="league_home.php?leagueid=826"> Extraliga</a> <br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/11.png" border="0" /><a href="league_home.php?leagueid=789"> Latvia </a><br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/17.png" alt="flag" border="0" /><a href="league_home.php?leagueid=816"> Poland</a> <br>
+<br>
+<img src="//files.eliteprospects.com/layout/flags_s/42.png" alt="flag" border="0" /><a href="league_home.php?leagueid=781"> Bulgaria</a> <br>
+<br>
+<br>
+
+<br></td>
+            <td valign="top"><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/19.png" alt="flag" border="0" /><a href="league_home.php?leagueid=783"> Italy</a><br>
+             <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/35.png" border="0" /> <a href="league_home.php?leagueid=784">Spain</a><br>
+            <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/37.png" border="0" /> <a href="league_home.php?leagueid=785">Turkey</a> </a></td>
+            <td valign="top"><br>-</td>
+          </tr>
+</table><br><br>
+       <a name="naw"></a><span id="fontMainlink">NORTH AMERICA - WOMEN'S HOCKEY</span> <br>
+        <br>
+<table width="100%" border="0" cellspacing="0" cellpadding="4" class="tableborder">
+          <tr class="trbackground">
+            <td class="tdbackground"><span id="fontSectionsGeneral">PROFESSIONAL</span></td>
+            <td class="tdbackground">OTHER</td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">COLLEGE</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">HS &amp; PREP</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">JUNIOR</span></td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=727">NWHL</a><br>
+           
+            <br>            <br>
+            
+            
+               
+            </td>
+            <td valign="top"><span id="fontSmall"><br>
+            </span><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=728">CWHL</a><br>
+             <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=737">MAWHL</a> <br>
+            <br>
+            <br><br>
+            
+            </td>
+            <td valign="top"><span id="fontSmall"><br>
+            </span>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=729">ACAC</a><br>
+            
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=730">USports</a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=731">NCAA</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=734">NCAA III</a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=807">QCHL</a><br>
+            <br></td>
+            <td valign="top"><span id="fontSmall"><br>
+            </span>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=794">CAHS</a><br> <img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=756">USHS</a> <br><br>
+            <br></td>
+            <td valign="top"><span id="fontSmall"><br>
+            </span> <img src="//files.eliteprospects.com/layout/flags_s/16.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=757">JWHL </a> <br>
+            <img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=759">PWHL</a><br> </td>
+          </tr>
+</table><br><br><a name="internationalw"></a><span id="fontMainlink">INTERNATIONAL - WOMEN'S HOCKEY</span><br><br>
+        <table width="100%" border="0" cellspacing="0" cellpadding="4" class="tableborder">
+          <tr class="trbackground">
+            <td class="tdbackground"><span id="fontSectionsGeneral">SENIOR HOCKEY</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">U20 LEVEL</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">U18 LEVEL</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">OTHER</span></td>
+            <td class="tdbackground"><span id="fontSectionsGeneral">CLUB LEVEL</span></td>
+          </tr>
+          <tr>
+            <td valign="top"><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=716">WC</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=717">WC D1A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=718">WC D1B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=719">WC D2A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=720">WC D2B</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=723">WCQ</a><br>
+              <br />
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=806">EC</a> <br>
+              <br />
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=725">Olympics</a> <br>
+       </td>
+            <td valign="top"><br>
+              -</td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=721">U18 WJC</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=722">U18 WJC D1A</a><br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=724">U18 WJC D1B</a><br></td>
+            <td valign="top"><br>
+<img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=811">YOG</a><br>
+<br>
+              <br>
+              <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=817">CCOA </a><br>
+            <img src="//files.eliteprospects.com/layout/flags_s/31.png" alt="flag" border="0" /> <a href="league_home.php?leagueid=818">CCOA D1</a></td>
+            <td valign="top"><br>
+</td>
+          </tr>
+        </table>
+        <p><BR>
+        </p>
+     
+           <div align="center">
+            <!-- /12393980/ep_elite_300x250_2 -->
+            <div id='div-gpt-ad-1510952279650-0' style='height:250px; width:300px;'>
+            <script>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1510952279650-0'); });
+            </script>
+            </div></div><br><br></td>
+     
+      <td width="10" bgcolor="white"></td>
+	  <td width="1" bgcolor="#999999"></td>  
+<td width="160" valign="top" bgcolor="white"><div style="width: 160px">
+    <div style="margin-bottom: 4px;" class="lastelement"></div>
+    <div id="stickyplaceholder">
+        <div id="stickybanner" class="banner">
+            <!-- /12393980/ep_elite_160x600_1 -->
+                        <div id='div-gpt-ad-1510952090357-0'>
+                        <script>
+                        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1510952090357-0'); });
+                        </script>
+                        </div>        </div>
+    </div>
+</div></TD>
+    </tr>
+  </table> 
+  <table width="1250" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+        <td width="1090" height="1" bgcolor="#999999"></td>
+        <td width="160" height="1" bgcolor="white"></td>
+    </tr>
+</table>
+</div>
+<script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
+
+<!-- Interstitial -->
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1725669531"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+</html>
