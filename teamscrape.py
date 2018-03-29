@@ -19,7 +19,7 @@ def scrape_html(url, file_name):
 
 def main():
     url = 'http://www.eliteprospects.com/league_central.php'
-    scrape_league_ids(url, 'league_page.txt')
+    scrape_html(url, 'league_page.txt')
 
 if __name__ == '__main__':
     main()
