@@ -1,3 +1,4 @@
+import re
 import time
 import bs4
 import pandas
@@ -40,6 +41,33 @@ def parse_league_ids(file_name):
 
     return league_dict
 
+def parse_team_ids(list_of_leagues):
+    '''
+    Function to parse the team ids for each team from the list of leagues 
+
+    Input:
+    list_of_leagues - a list containing leagues we need to parse for team ids
+
+    Output:
+    team_id_dict - JSON file containing every team and their ids
+    '''
+    teampages_dir = 'leaguepages\\'
+    team_id_dict = {}
+
+
+    for league in list_of_leagues:
+        with open('{}{}.txt'.format(teampages_dir, league)) as f:
+            soup = bs4.BeautifulSoup(f, 'lxml')
+            teams = soup.find_all('a', {'href': re.compile('(team\.php\?team=)\d{1,3}')})
+            for team in teams:
+                team_id_dict[team.text] = team.attrs['href']
+    
+    write_to_json(team_id_dict, 'teamids.json')
+    
+
+
+
+
 def write_to_json(dictionary, file_name):
     '''
     Quick function to write a dictionary to a json file
@@ -80,13 +108,16 @@ def main():
     leagues_to_scrape = ['AHL ', 'SHL', ' Allsvenskan', 
     ' KHL', ' Liiga', ' Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP']
 
+    leagues_to_parse = ['AHL', 'SHL', 'Allsvenskan', 
+    'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP']
     url_base = 'http://www.eliteprospects.com/'
     # leagues_url_end = 'league_central.php'
     # leagues_html_file = 'leaguepages\league_page.txt'
     # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
     # league_dict = parse_league_ids(leagues_html_file)
     # write_to_json(league_dict, "leagueids.json")
-    scrape_league_page(leagues_to_scrape, url_base)
+    # scrape_league_page(leagues_to_scrape, url_base)
+    parse_team_ids(leagues_to_parse)
 
 
 if __name__ == '__main__':
