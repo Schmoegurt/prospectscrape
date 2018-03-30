@@ -883,7 +883,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612413</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/6.gif" title="flag"> <a href="player.php?player=612413"><span style="font-size:10px;">Andy Kosowski</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612533</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/3.gif" title="flag"> <a href="player.php?player=612533"><span style="font-size:10px;">Rebecca Tait</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -977,50 +977,50 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
         <td align="right" bgcolor="#FFFFFF"><strong>A</strong></td>
         <td align="right" bgcolor="#FFFFFF"><strong>TP</strong></td>
       </tr>
-      NCAA
+      Allsvenskan
       <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">1.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=203361">Adam Gaudette</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>60</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=22269">Emil Molin</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">28</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>51</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">2.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=206777">Max Veronneau</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">36</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">17</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>55</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=212368">Jonathan Dahlén</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">44</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">21</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>44</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=146580">Dylan Sikura</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">35</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">22</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">32</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>54</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=14654">Éric Castonguay</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">20</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">24</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>44</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=247422">Ryan Kuffner</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">36</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=31568">Alex Friesen</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">15</font></div></td>
         <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>44</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">5.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=118332">Henrik Borgström</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">40</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=438">Axel Ottosson</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">17</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">26</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>43</strong></font></div></td>
       </tr>
           </table>
       <font size="1">
-                <a href="league.php?leagueid=NCAA
+                <a href="league.php?leagueid=Allsvenskan
 &amp;season=2017"><span id="fontSmallLink" style="float:right">SHOW MORE</span>  &nbsp;</a>
               </font> &nbsp;<br /></td>
   </tr>
@@ -2511,5 +2511,5 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1725669531"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=588507936"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>

@@ -1,3 +1,4 @@
+import time
 import bs4
 import pandas
 import requests
@@ -32,8 +33,8 @@ def parse_league_ids(file_name):
     '''
     league_dict = {}
     with open(file_name, 'r') as f:
-        soup = bs4.BeautifulSoup(f, 'html.parser')
-        leagues = soup.select('table[class=tableborder] a ')
+        soup = bs4.BeautifulSoup(f, 'lxml')
+        leagues = soup.select('table[class=tableborder] a')
         for link in leagues:
             league_dict[link.text] = link.attrs['href']
 
@@ -50,18 +51,42 @@ def write_to_json(dictionary, file_name):
     Outputs:
     JSON File - Writes JSON file to store the dictionary
     '''
-    json_data = json.dumps(dictionary)
-    with open(file_name, 'w') as f:
+    json_data = json.dumps(dictionary, ensure_ascii=True)
+    with open(file_name, 'w', encoding='UTF-8') as f:
         f.write(json_data)
 
+def scrape_league_page(league_scrape_list, url):
+    '''
+    function to scrape each league page and return each team in the league 
+    and their repsective url and id number as well 
+
+    Input:
+    league- the league to scrape the home page 
+    league_dict- dictionary containing urls of all the leagues 
+
+    Output:
+    home_page_html - File containing html of each league home page
+    '''
+    with open('leagueids.json', 'r') as f:
+        league_dict = json.load(f)
+    
+    for league in league_scrape_list:
+        print(league_dict[league])
+        scrape_html('{}{}'.format(url, league_dict[league]), '{}.txt'.format(league))
+        time.sleep(10)
+    
 
 def main():
+    leagues_to_scrape = ['AHL ', 'SHL', ' Allsvenskan', 
+    ' KHL', ' Liiga', ' Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP']
+
     url_base = 'http://www.eliteprospects.com/'
-    leagues_url_end = 'league_central.php'
-    leagues_html_file = 'league_page.txt'
+    # leagues_url_end = 'league_central.php'
+    # leagues_html_file = 'leaguepages\league_page.txt'
     # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
-    league_dict = parse_league_ids(leagues_html_file)
-    write_to_json(league_dict, "leagueids.json")
+    # league_dict = parse_league_ids(leagues_html_file)
+    # write_to_json(league_dict, "leagueids.json")
+    scrape_league_page(leagues_to_scrape, url_base)
 
 
 if __name__ == '__main__':
