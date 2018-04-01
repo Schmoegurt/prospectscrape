@@ -4,6 +4,7 @@ import bs4
 import pandas
 import requests
 import json
+from random import randint
 def scrape_html(url, file_name):
     '''
     Function to pull the html of a webpage and write the html to a text file
@@ -16,7 +17,7 @@ def scrape_html(url, file_name):
     text_file - file written to local directory containing html
     '''
     r = requests.get(url)
-    with open(file_name, 'w') as f:
+    with open(file_name, 'w', encoding="utf8") as f:
         f.write(r.text)
 
 def parse_league_ids(file_name):
@@ -37,9 +38,10 @@ def parse_league_ids(file_name):
         soup = bs4.BeautifulSoup(f, 'lxml')
         leagues = soup.select('table[class=tableborder] a')
         for link in leagues:
-            league_dict[link.text] = link.attrs['href']
+            key = str(link.text.strip()).replace('/', '')
+            league_dict[key] = link.attrs['href']
 
-    return league_dict
+    write_to_json(league_dict, "leagueids.json")
 
 def parse_team_ids(list_of_leagues):
     '''
@@ -52,22 +54,20 @@ def parse_team_ids(list_of_leagues):
     team_id_dict - JSON file containing every team and their ids
     '''
     teampages_dir = 'leaguepages\\'
-    team_id_dict = {}
+    league_team_dict = {}
 
 
     for league in list_of_leagues:
+        team_id_dict = {}
         with open('{}{}.txt'.format(teampages_dir, league)) as f:
             soup = bs4.BeautifulSoup(f, 'lxml')
-            teams = soup.find_all('a', {'href': re.compile('(team\.php\?team=)\d{1,3}')})
+            teams = soup.find_all('a', {'href': re.compile('(team\.php\?team=)\d{1,9}$')})
             for team in teams:
-                team_id_dict[team.text] = team.attrs['href']
+                team_id_dict[str(team.text).replace('/', '')] = team.attrs['href']
+        league_team_dict[league] = team_id_dict
     
-    write_to_json(team_id_dict, 'teamids.json')
+    write_to_json(league_team_dict, 'teamids.json')
     
-
-
-
-
 def write_to_json(dictionary, file_name):
     '''
     Quick function to write a dictionary to a json file
@@ -83,6 +83,40 @@ def write_to_json(dictionary, file_name):
     with open(file_name, 'w', encoding='UTF-8') as f:
         f.write(json_data)
 
+def scrape_team_page(url_base, leagues):
+    '''
+    Function to pull the html for each teams seasons and save it to the file
+
+    Inputs:
+    url_base - The Elite Prospects base url
+
+    Outputs:
+    text_files - a bunch of text files containing each teams roster and stats
+    pages html for the past 20 years
+    '''
+    # creates list of years to scrape for each team adjust as neccesary
+    years = list(range(2018, 2003, -1))
+    # opens team ids file and loads them in a dictionary
+    with open('teampages\\teamids.json', 'r') as f:
+        teams_dict = json.load(f)
+    # Use this is you get disconnected to set the list at the last team you 
+    # scraped so you don't have to parse the whole dictionary again
+    # teams = list(teams_dict.keys())[100:]
+
+    # Use the commented code if your connection gets lost along with the teams list 
+    # started at the team you got disconnected on 
+    for league in leagues:
+        for key, value in teams_dict[league].items():
+            for year in years:
+                # print(team)
+                print(key)
+                print(str(year))
+                scrape_html('{}{}&year0={}'.format(url_base, value, str(year)), 'teampages\\{}roster{}.txt'.format(str(key).replace(' ', '-'), year))
+                scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 'teampages\\{}{}stats.txt'.format(str(key).replace(' ', '-'), year))
+                # scrape_html('{}{}&year0={}'.format(url_base, teams_dict[team], str(year)), 'teampages\\{}roster{}.txt'.format(team.replace(' ', '-'), year))
+                # scrape_html('{}{}&year0={}&status=stats'.format(url_base, teams_dict[team], str(year)), 'teampages\\{}{}stats.txt'.format(team.replace(' ', '-'), year))
+                time.sleep(randint(1,15))
+
 def scrape_league_page(league_scrape_list, url):
     '''
     function to scrape each league page and return each team in the league 
@@ -95,29 +129,29 @@ def scrape_league_page(league_scrape_list, url):
     Output:
     home_page_html - File containing html of each league home page
     '''
-    with open('leagueids.json', 'r') as f:
+    # opens id json file and forms a dictionary
+    with open('leaguepages\\leagueids.json', 'r') as f:
         league_dict = json.load(f)
     
+    # using the list of leagues provided pulls the league url from 
+    # dictionary and scrapes that leagues home page
     for league in league_scrape_list:
-        print(league_dict[league])
         scrape_html('{}{}'.format(url, league_dict[league]), '{}.txt'.format(league))
         time.sleep(10)
     
 
 def main():
-    leagues_to_scrape = ['AHL ', 'SHL', ' Allsvenskan', 
-    ' KHL', ' Liiga', ' Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP']
-
-    leagues_to_parse = ['AHL', 'SHL', 'Allsvenskan', 
-    'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP']
+    leagues = ['AHL', 'SHL', 'Allsvenskan', 
+    'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP', 'Extraliga']
     url_base = 'http://www.eliteprospects.com/'
     # leagues_url_end = 'league_central.php'
-    # leagues_html_file = 'leaguepages\league_page.txt'
+    leagues_html_file = 'leaguepages\league_page.txt'
     # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
-    # league_dict = parse_league_ids(leagues_html_file)
-    # write_to_json(league_dict, "leagueids.json")
-    # scrape_league_page(leagues_to_scrape, url_base)
-    parse_team_ids(leagues_to_parse)
+    # parse_league_ids(leagues_html_file)
+    # scrape_league_page(leagues, url_base)
+    # parse_team_ids(leagues)
+    scrape_team_page(url_base, leagues)
+    
 
 
 if __name__ == '__main__':
