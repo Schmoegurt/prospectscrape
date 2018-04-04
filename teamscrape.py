@@ -112,24 +112,22 @@ def parse_team_stats(page_file):
     player_df = pd.DataFrame(player_stats, columns=player_header)
     goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
 
-
-
-        
-
-
-def scrape_team_page(url_base, leagues):
+def scrape_team_page(url_base, leagues, start_year, end_year):
     '''
     Function to pull the html for each teams seasons and save it to the file
 
     Inputs:
     url_base - The Elite Prospects base url
+    leagues - list of leagues to scrape
+    start_year - year to start scraping the teams pages
+    end_year - year to end scraping teams pages
 
     Outputs:
     text_files - a bunch of text files containing each teams roster and stats
     pages html for the past 20 years
     '''
     # creates list of years to scrape for each team adjust as neccesary
-    years = list(range(2018, 2003, -1))
+    years = list(range(start_year, end_year, 1))
     # opens team ids file and loads them in a dictionary
     with open('teampages\\teamids.json', 'r') as f:
         teams_dict = json.load(f)
@@ -184,7 +182,7 @@ def main():
     # parse_league_ids(leagues_html_file)
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
-    scrape_team_page(url_base, leagues)
+    scrape_team_page(url_base, leagues, 2003, 2018)
     
 
 
