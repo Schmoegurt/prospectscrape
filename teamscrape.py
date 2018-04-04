@@ -1,7 +1,7 @@
 import re
 import time
 import bs4
-import pandas
+import pandas as pd
 import requests
 import json
 from random import randint
@@ -61,7 +61,7 @@ def parse_team_ids(list_of_leagues):
         team_id_dict = {}
         with open('{}{}.txt'.format(teampages_dir, league)) as f:
             soup = bs4.BeautifulSoup(f, 'lxml')
-            teams = soup.find_all('a', {'href': re.compile('(team\.php\?team=)\d{1,9}$')})
+            teams = soup.find_all('a', {'href': re.compile(r'(team\.php\?team=)\d{1,9}$')})
             for team in teams:
                 team_id_dict[str(team.text).replace('/', '')] = team.attrs['href']
         league_team_dict[league] = team_id_dict
@@ -82,6 +82,40 @@ def write_to_json(dictionary, file_name):
     json_data = json.dumps(dictionary, ensure_ascii=True)
     with open(file_name, 'w', encoding='UTF-8') as f:
         f.write(json_data)
+
+def parse_team_stats(page_file):
+    '''
+    This function scrapes the teams roster and stats pages for each year
+    of the team that is scraped
+
+    Inputs:
+    web_page - web page to scrape
+
+    Outputs:
+    stats_df - data frame containing stats and data from the web page
+    '''
+    player_stats = []
+    goalie_stats = []
+    with open(page_file) as f:
+        soup = bs4.BeautifulSoup(f, 'lxml')
+    # code for parsing the stats page for that team's season
+    stats = soup.find_all('table')
+    # parsing player stats
+    for row in stats[15].find_all('tr'):
+        player_stats.append([x.text for x in row.find_all('td')])
+    # parsing goalie stats
+    for row in stats[16].find_all('tr'):
+        goalie_stats.append([x.text for x in row.find_all('td')])
+    
+    player_header = player_stats.pop(0)
+    goalie_header = goalie_stats.pop(0)
+    player_df = pd.DataFrame(player_stats, columns=player_header)
+    goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
+
+
+
+        
+
 
 def scrape_team_page(url_base, leagues):
     '''
@@ -145,7 +179,7 @@ def main():
     'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL ', 'WHL', 'USHL', 'USDP', 'Extraliga']
     url_base = 'http://www.eliteprospects.com/'
     # leagues_url_end = 'league_central.php'
-    leagues_html_file = 'leaguepages\league_page.txt'
+    # leagues_html_file = 'leaguepages\\league_page.txt'
     # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
     # parse_league_ids(leagues_html_file)
     # scrape_league_page(leagues, url_base)
