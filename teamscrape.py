@@ -112,6 +112,70 @@ def parse_team_stats(page_file):
     player_df = pd.DataFrame(player_stats, columns=player_header)
     goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
 
+def parse_team_roster(page_file):
+    '''
+    This function scrapes the teams roster page for each year
+    of the team that is scraped
+
+    Inputs:
+    page_file - web page to scrape
+
+    Outputs:
+    roster_df - data frame containing stats and data from the web page
+    '''
+    team_roster = []
+    player_ids = []
+    with open(page_file) as f:
+        soup = bs4.BeautifulSoup(f, 'lxml')
+    # code for parsing the stats page for that team's season
+    stats = soup.find_all('table')
+    # parsing team roster 
+    for row in stats[15].find_all('tr'):
+        team_roster.append([x.text for x in row.find_all('td')])
+    
+    roster_header = team_roster.pop(0)
+    roster_df = pd.DataFrame(roster_header, columns=roster_header)
+    roster_df['PLAYER'] = roster_df['PLAYER'].str.strip()
+    # create position column
+    roster_df['Position'] = roster_df['PLAYER'].str[-3:]
+    roster_df['Position'] = roster_df['Position'].str.replace('(', '')
+    roster_df['Position'] = roster_df['Position'].str.replace(')', '')
+    roster_df['Position'] = roster_df['Position'].str.replace('(', '')
+    roster_df['\\xa0#'] = roster_df['Position'].str.replace('#', '')
+    roster_df['PLAYER'] = roster_df['PLAYER'].str[:-4]
+    #rearrange columns and rename some
+    colnames = roster_df.columns.tolist()
+    colnames = colnames[:3] + colnames[-1:] + colnames[3:-1]
+    colnames.pop(0)
+    colnames.pop()
+    roster_df = roster_df[colnames]
+    colnames[0] = 'Number'
+    colnames[-1] = 'Shots'
+    roster_df.columns = colnames
+    # drop empty rows
+    roster_df = roster_df[~(roster_df['Player']=='')]
+    roster_df = roster_df.dropna(axis=0, how='all')
+
+    # getting player ids
+    id_href = []
+    player_ids = []
+    for row in stats[15].find_all('tr'):
+        id_href.append([x['href'] for x in row.find_all('a')])
+    id_href = id_href[1:]
+    for row in id_href:
+        if len(row) > 1:
+            player_ids.append(row[0])
+    roster_df['player_ids'] = player_ids
+    roster_df['player_ids'] = roster_df['player_ids'].str.replace('player.php\?player=', '')
+
+    return roster_df
+
+    
+    
+
+
+    
+    
 def scrape_team_page(url_base, leagues, start_year, end_year):
     '''
     Function to pull the html for each teams seasons and save it to the file
