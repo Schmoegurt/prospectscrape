@@ -4,3 +4,4 @@
 settings.json
 teampages/*.txt
 teamscrape.py~
+__pycache__

@@ -127,6 +127,12 @@ def parse_team_roster(page_file):
     player_ids = []
     with open(page_file) as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
+    # parse team code
+    team_code = soup.select('meta[property=og:url]')
+    team_id = team_code[0].attrs['content']
+    team_id = team_id[team_id.index('=')+1:]
+    # get season year from file name
+    season = page_file[-8:-4]
     # code for parsing the stats page for that team's season
     stats = soup.find_all('table')
     # parsing team roster 
@@ -134,7 +140,7 @@ def parse_team_roster(page_file):
         team_roster.append([x.text for x in row.find_all('td')])
     
     roster_header = team_roster.pop(0)
-    roster_df = pd.DataFrame(roster_header, columns=roster_header)
+    roster_df = pd.DataFrame(team_roster, columns=roster_header)
     roster_df['PLAYER'] = roster_df['PLAYER'].str.strip()
     # create position column
     roster_df['Position'] = roster_df['PLAYER'].str[-3:]
@@ -145,15 +151,18 @@ def parse_team_roster(page_file):
     roster_df['PLAYER'] = roster_df['PLAYER'].str[:-4]
     #rearrange columns and rename some
     colnames = roster_df.columns.tolist()
-    colnames = colnames[:3] + colnames[-1:] + colnames[3:-1]
+    # remove columns that have no data
+    colnames.pop(9)
     colnames.pop(0)
     colnames.pop()
+    colnames = colnames[:3] + colnames[-1:] + colnames[3:-1]
     roster_df = roster_df[colnames]
+    #rename columns in df
     colnames[0] = 'Number'
     colnames[-1] = 'Shots'
     roster_df.columns = colnames
     # drop empty rows
-    roster_df = roster_df[~(roster_df['Player']=='')]
+    roster_df = roster_df[~(roster_df['PLAYER']=='')]
     roster_df = roster_df.dropna(axis=0, how='all')
 
     # getting player ids
@@ -165,17 +174,15 @@ def parse_team_roster(page_file):
     for row in id_href:
         if len(row) > 1:
             player_ids.append(row[0])
+    # Clean up player nubers and ids
     roster_df['player_ids'] = player_ids
     roster_df['player_ids'] = roster_df['player_ids'].str.replace('player.php\?player=', '')
+    roster_df['Number'] = roster_df['Number'].str.replace('#', '')
+    roster_df['team_id'] = team_id
+    roster_df['season'] = season
 
     return roster_df
 
-    
-    
-
-
-    
-    
 def scrape_team_page(url_base, leagues, start_year, end_year):
     '''
     Function to pull the html for each teams seasons and save it to the file
