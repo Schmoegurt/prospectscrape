@@ -905,7 +905,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612548</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/3.gif" title="flag"> <a href="player.php?player=612548"><span style="font-size:10px;">Stacey Wilson</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>614304</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/36.gif" title="flag"> <a href="player.php?player=614304"><span style="font-size:10px;">Mikhail Guly</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -999,50 +999,50 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
         <td align="right" bgcolor="#FFFFFF"><strong>A</strong></td>
         <td align="right" bgcolor="#FFFFFF"><strong>TP</strong></td>
       </tr>
-      Czech
+      NHL
       <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">1.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=22577">Milan Gulas</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">48</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>61</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=183442">Connor McDavid</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">81</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">41</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">65</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>106</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">2.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=22578">Tomas Mertl</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">50</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">27</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>57</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=10437">Claude Giroux</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">82</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">34</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">68</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>102</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=23860">Martin Ruzicka</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">49</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">25</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>54</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=77237">Nikita Kucherov</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">79</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">39</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">61</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>100</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/11.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=11842">Roberts Bukarts</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">50</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">21</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">28</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>49</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/9.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=4231">Yevgeni Malkin</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">78</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">42</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">56</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>98</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">5.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=8611">Martin Erat</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">49</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">12</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">34</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>46</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=99204">Nathan MacKinnon</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">74</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">39</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">58</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>97</strong></font></div></td>
       </tr>
           </table>
       <font size="1">
-                <a href="league.php?leagueid=Czech
+                <a href="league.php?leagueid=NHL
 &amp;season=2017"><span id="fontSmallLink" style="float:right">SHOW MORE</span>  &nbsp;</a>
               </font> &nbsp;<br /></td>
   </tr>
@@ -1055,7 +1055,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
     <tr>
         <td valign="top">
             <table width="286" border="0" cellpadding="1" cellspacing="0">
-<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 05</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=299">The next batch &#8211; rookies that could rule the NHL in 2019</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 03</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=298">Rasmus Dahlin shut down for the season: &#8220;I need to recover&#8221;</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 01</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=296">Prospects get their shot with the Swedish national team</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr>            </table>
             <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
         </td>
     </tr>
@@ -1298,13 +1298,13 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Costa Rica	<option value="137"
 	>
-	Côte d'Ivoire	<option value="29"
+	CÃ´te d'Ivoire	<option value="29"
 	>
 	Croatia	<option value="138"
 	>
 	Cuba	<option value="139"
 	>
-	Curaçao	<option value="140"
+	CuraÃ§ao	<option value="140"
 	>
 	Cyprus	<option value="8"
 	>
@@ -1550,7 +1550,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Qatar	<option value="220"
 	>
-	Réunion	<option value="18"
+	RÃ©union	<option value="18"
 	>
 	Romania	<option value="9"
 	>
@@ -1558,7 +1558,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Rwanda	<option value="222"
 	>
-	Saint BarthÈlemy	<option value="223"
+	Saint BarthÃˆlemy	<option value="223"
 	>
 	Saint Helena	<option value="224"
 	>
@@ -1704,7 +1704,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Zimbabwe	<option value="268"
 	>
-	Åland Islands              </select>
+	Ã…land Islands              </select>
               &nbsp;&nbsp;<input type="submit" name="filter" id="filter" value="Show stats" /></td>
           </tr>
           <tr>
@@ -2013,121 +2013,121 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <tr bgcolor="white">
   <td align="right" class="input">1&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=17333&year0=2018">Lehigh Valley Phantoms </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">42</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">44</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">17</td>
+<td align="right" bgcolor="white" class="input">19</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">9</td>
-<td align="right" bgcolor="white" class="input">237</td>
-<td align="right" bgcolor="white" class="input">198</td>
-<td align="right" bgcolor="white" class="input">39</td>
-<td align="right" bgcolor="white" class="input"><strong>93</strong></td>
+<td align="right" bgcolor="white" class="input">245</td>
+<td align="right" bgcolor="white" class="input">209</td>
+<td align="right" bgcolor="white" class="input">36</td>
+<td align="right" bgcolor="white" class="input"><strong>97</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">2&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=106&year0=2018">Wilkes-Barre/Scranton Penguins </a></TD>
-<td align="right" bgcolor="white" class="input">67</td>
-<td align="right" bgcolor="white" class="input">39</td>
+<td align="right" bgcolor="white" class="input">71</td>
+<td align="right" bgcolor="white" class="input">41</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">20</td>
+<td align="right" bgcolor="white" class="input">22</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input">220</td>
-<td align="right" bgcolor="white" class="input">198</td>
+<td align="right" bgcolor="white" class="input">233</td>
+<td align="right" bgcolor="white" class="input">211</td>
 <td align="right" bgcolor="white" class="input">22</td>
-<td align="right" bgcolor="white" class="input"><strong>86</strong></td>
+<td align="right" bgcolor="white" class="input"><strong>90</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">3&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=88&year0=2018">Providence Bruins </a></TD>
-<td align="right" bgcolor="white" class="input">67</td>
-<td align="right" bgcolor="white" class="input">40</td>
+<td align="right" bgcolor="white" class="input">71</td>
+<td align="right" bgcolor="white" class="input">42</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">22</td>
+<td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">5</td>
-<td align="right" bgcolor="white" class="input">201</td>
-<td align="right" bgcolor="white" class="input">163</td>
-<td align="right" bgcolor="white" class="input">38</td>
-<td align="right" bgcolor="white" class="input"><strong>85</strong></td>
+<td align="right" bgcolor="white" class="input">212</td>
+<td align="right" bgcolor="white" class="input">172</td>
+<td align="right" bgcolor="white" class="input">40</td>
+<td align="right" bgcolor="white" class="input"><strong>89</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">4&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=234&year0=2018">Charlotte Checkers </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">39</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">42</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">26</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">3</td>
-<td align="right" bgcolor="white" class="input">227</td>
-<td align="right" bgcolor="white" class="input">197</td>
-<td align="right" bgcolor="white" class="input">30</td>
-<td align="right" bgcolor="white" class="input"><strong>81</strong></td>
+<td align="right" bgcolor="white" class="input">4</td>
+<td align="right" bgcolor="white" class="input">243</td>
+<td align="right" bgcolor="white" class="input">204</td>
+<td align="right" bgcolor="white" class="input">39</td>
+<td align="right" bgcolor="white" class="input"><strong>88</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">5&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=81&year0=2018">Bridgeport Sound Tigers </a></TD>
-<td align="right" bgcolor="white" class="input">67</td>
-<td align="right" bgcolor="white" class="input">33</td>
+<td align="right" bgcolor="white" class="input">71</td>
+<td align="right" bgcolor="white" class="input">36</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">26</td>
+<td align="right" bgcolor="white" class="input">27</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input">186</td>
-<td align="right" bgcolor="white" class="input">183</td>
-<td align="right" bgcolor="white" class="input">3</td>
-<td align="right" bgcolor="white" class="input"><strong>74</strong></td>
+<td align="right" bgcolor="white" class="input">198</td>
+<td align="right" bgcolor="white" class="input">194</td>
+<td align="right" bgcolor="white" class="input">4</td>
+<td align="right" bgcolor="white" class="input"><strong>80</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">6&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=83&year0=2018">Hartford Wolf Pack </a></TD>
-<td align="right" bgcolor="white" class="input">69</td>
+<td align="right" bgcolor="white" class="input">72</td>
 <td align="right" bgcolor="white" class="input">31</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">30</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input">192</td>
-<td align="right" bgcolor="white" class="input">230</td>
-<td align="right" bgcolor="white" class="input">-38</td>
-<td align="right" bgcolor="white" class="input"><strong>70</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
-</tr>
-<tr bgcolor="white">
-  <td align="right" class="input">7&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=98&year0=2018">Hershey Bears </a></TD>
-<td align="right" bgcolor="white" class="input">69</td>
-<td align="right" bgcolor="white" class="input">28</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">32</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">9</td>
-<td align="right" bgcolor="white" class="input">183</td>
-<td align="right" bgcolor="white" class="input">224</td>
-<td align="right" bgcolor="white" class="input">-41</td>
-<td align="right" bgcolor="white" class="input"><strong>65</strong></td>
+<td align="right" bgcolor="white" class="input">199</td>
+<td align="right" bgcolor="white" class="input">245</td>
+<td align="right" bgcolor="white" class="input">-46</td>
+<td align="right" bgcolor="white" class="input"><strong>71</strong></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
+</tr>
+<tr bgcolor="white">
+  <td align="right" class="input">7&nbsp;&nbsp;</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=3965&year0=2018">Springfield Thunderbirds </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">31</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">34</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">7</td>
+<td align="right" bgcolor="white" class="input">204</td>
+<td align="right" bgcolor="white" class="input">221</td>
+<td align="right" bgcolor="white" class="input">-17</td>
+<td align="right" bgcolor="white" class="input"><strong>69</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">8&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=3965&year0=2018">Springfield Thunderbirds </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">28</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=98&year0=2018">Hershey Bears </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">29</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">33</td>
+<td align="right" bgcolor="white" class="input">34</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">7</td>
-<td align="right" bgcolor="white" class="input">187</td>
-<td align="right" bgcolor="white" class="input">213</td>
-<td align="right" bgcolor="white" class="input">-26</td>
-<td align="right" bgcolor="white" class="input"><strong>63</strong></td>
+<td align="right" bgcolor="white" class="input">9</td>
+<td align="right" bgcolor="white" class="input">193</td>
+<td align="right" bgcolor="white" class="input">235</td>
+<td align="right" bgcolor="white" class="input">-42</td>
+<td align="right" bgcolor="white" class="input"><strong>67</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
@@ -2136,106 +2136,106 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <tr bgcolor="white">
   <td align="right" class="input">1&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=1336&year0=2018">Toronto Marlies </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">48</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">51</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">18</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">2</td>
-<td align="right" bgcolor="white" class="input">222</td>
-<td align="right" bgcolor="white" class="input">145</td>
-<td align="right" bgcolor="white" class="input">77</td>
-<td align="right" bgcolor="white" class="input"><strong>98</strong></td>
+<td align="right" bgcolor="white" class="input">3</td>
+<td align="right" bgcolor="white" class="input">235</td>
+<td align="right" bgcolor="white" class="input">156</td>
+<td align="right" bgcolor="white" class="input">79</td>
+<td align="right" bgcolor="white" class="input"><strong>105</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">2&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=104&year0=2018">Syracuse Crunch </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">42</td>
+<td align="right" bgcolor="white" class="input">71</td>
+<td align="right" bgcolor="white" class="input">43</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">19</td>
+<td align="right" bgcolor="white" class="input">20</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">7</td>
-<td align="right" bgcolor="white" class="input">218</td>
-<td align="right" bgcolor="white" class="input">171</td>
-<td align="right" bgcolor="white" class="input">47</td>
-<td align="right" bgcolor="white" class="input"><strong>91</strong></td>
+<td align="right" bgcolor="white" class="input">8</td>
+<td align="right" bgcolor="white" class="input">226</td>
+<td align="right" bgcolor="white" class="input">180</td>
+<td align="right" bgcolor="white" class="input">46</td>
+<td align="right" bgcolor="white" class="input"><strong>94</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">3&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=103&year0=2018">Rochester Americans </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">31</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=15223&year0=2018">Utica Comets </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">37</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">20</td>
+<td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">17</td>
+<td align="right" bgcolor="white" class="input">11</td>
 <td align="right" bgcolor="white" class="input">205</td>
-<td align="right" bgcolor="white" class="input">196</td>
-<td align="right" bgcolor="white" class="input">9</td>
-<td align="right" bgcolor="white" class="input"><strong>79</strong></td>
+<td align="right" bgcolor="white" class="input">207</td>
+<td align="right" bgcolor="white" class="input">-2</td>
+<td align="right" bgcolor="white" class="input"><strong>85</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">4&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=15223&year0=2018">Utica Comets </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=103&year0=2018">Rochester Americans </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
 <td align="right" bgcolor="white" class="input">34</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">24</td>
+<td align="right" bgcolor="white" class="input">21</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">10</td>
-<td align="right" bgcolor="white" class="input">191</td>
-<td align="right" bgcolor="white" class="input">196</td>
-<td align="right" bgcolor="white" class="input">-5</td>
-<td align="right" bgcolor="white" class="input"><strong>78</strong></td>
+<td align="right" bgcolor="white" class="input">17</td>
+<td align="right" bgcolor="white" class="input">218</td>
+<td align="right" bgcolor="white" class="input">209</td>
+<td align="right" bgcolor="white" class="input">9</td>
+<td align="right" bgcolor="white" class="input"><strong>85</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">5&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=22780&year0=2018">Belleville Senators </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">26</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">37</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">5</td>
-<td align="right" bgcolor="white" class="input">172</td>
-<td align="right" bgcolor="white" class="input">242</td>
-<td align="right" bgcolor="white" class="input">-70</td>
-<td align="right" bgcolor="white" class="input"><strong>57</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
-</tr>
-<tr bgcolor="white">
-  <td align="right" class="input">6&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=22280&year0=2018">Laval Rocket </a></TD>
-<td align="right" bgcolor="white" class="input">69</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=23381&year0=2018">Binghamton Devils </a></TD>
+<td align="right" bgcolor="white" class="input">71</td>
 <td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">36</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">9</td>
-<td align="right" bgcolor="white" class="input">191</td>
-<td align="right" bgcolor="white" class="input">251</td>
-<td align="right" bgcolor="white" class="input">-60</td>
-<td align="right" bgcolor="white" class="input"><strong>57</strong></td>
+<td align="right" bgcolor="white" class="input">11</td>
+<td align="right" bgcolor="white" class="input">179</td>
+<td align="right" bgcolor="white" class="input">228</td>
+<td align="right" bgcolor="white" class="input">-49</td>
+<td align="right" bgcolor="white" class="input"><strong>59</strong></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
+</tr>
+<tr bgcolor="white">
+  <td align="right" class="input">6&nbsp;&nbsp;</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=22780&year0=2018">Belleville Senators </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">27</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">40</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">5</td>
+<td align="right" bgcolor="white" class="input">181</td>
+<td align="right" bgcolor="white" class="input">253</td>
+<td align="right" bgcolor="white" class="input">-72</td>
+<td align="right" bgcolor="white" class="input"><strong>59</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">7&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=23381&year0=2018">Binghamton Devils </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">22</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=22280&year0=2018">Laval Rocket </a></TD>
+<td align="right" bgcolor="white" class="input">73</td>
+<td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">35</td>
+<td align="right" bgcolor="white" class="input">40</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">11</td>
-<td align="right" bgcolor="white" class="input">169</td>
-<td align="right" bgcolor="white" class="input">218</td>
-<td align="right" bgcolor="white" class="input">-49</td>
-<td align="right" bgcolor="white" class="input"><strong>55</strong></td>
+<td align="right" bgcolor="white" class="input">9</td>
+<td align="right" bgcolor="white" class="input">199</td>
+<td align="right" bgcolor="white" class="input">268</td>
+<td align="right" bgcolor="white" class="input">-69</td>
+<td align="right" bgcolor="white" class="input"><strong>57</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
@@ -2244,106 +2244,106 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <tr bgcolor="white">
   <td align="right" class="input">1&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=94&year0=2018">Chicago Wolves </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
+<td align="right" bgcolor="white" class="input">71</td>
 <td align="right" bgcolor="white" class="input">38</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">21</td>
+<td align="right" bgcolor="white" class="input">22</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">9</td>
-<td align="right" bgcolor="white" class="input">216</td>
-<td align="right" bgcolor="white" class="input">180</td>
-<td align="right" bgcolor="white" class="input">36</td>
-<td align="right" bgcolor="white" class="input"><strong>85</strong></td>
+<td align="right" bgcolor="white" class="input">11</td>
+<td align="right" bgcolor="white" class="input">223</td>
+<td align="right" bgcolor="white" class="input">193</td>
+<td align="right" bgcolor="white" class="input">30</td>
+<td align="right" bgcolor="white" class="input"><strong>87</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">2&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=86&year0=2018">Manitoba Moose </a></TD>
-<td align="right" bgcolor="white" class="input">69</td>
-<td align="right" bgcolor="white" class="input">39</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">22</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input">232</td>
-<td align="right" bgcolor="white" class="input">181</td>
-<td align="right" bgcolor="white" class="input">51</td>
-<td align="right" bgcolor="white" class="input"><strong>86</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
-</tr>
-<tr bgcolor="white">
-  <td align="right" class="input">3&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=97&year0=2018">Grand Rapids Griffins </a></TD>
-<td align="right" bgcolor="white" class="input">69</td>
-<td align="right" bgcolor="white" class="input">37</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">40</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input">210</td>
-<td align="right" bgcolor="white" class="input">193</td>
-<td align="right" bgcolor="white" class="input">17</td>
-<td align="right" bgcolor="white" class="input"><strong>82</strong></td>
+<td align="right" bgcolor="white" class="input">242</td>
+<td align="right" bgcolor="white" class="input">190</td>
+<td align="right" bgcolor="white" class="input">52</td>
+<td align="right" bgcolor="white" class="input"><strong>88</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
-  <td align="right" class="input">4&nbsp;&nbsp;</td>
+  <td align="right" class="input">3&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=825&year0=2018">Rockford IceHogs </a></TD>
-<td align="right" bgcolor="white" class="input">69</td>
-<td align="right" bgcolor="white" class="input">36</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">39</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">25</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input">211</td>
-<td align="right" bgcolor="white" class="input">209</td>
-<td align="right" bgcolor="white" class="input">2</td>
-<td align="right" bgcolor="white" class="input"><strong>80</strong></td>
+<td align="right" bgcolor="white" class="input">223</td>
+<td align="right" bgcolor="white" class="input">216</td>
+<td align="right" bgcolor="white" class="input">7</td>
+<td align="right" bgcolor="white" class="input"><strong>86</strong></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
+</tr>
+<tr bgcolor="white">
+  <td align="right" class="input">4&nbsp;&nbsp;</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=97&year0=2018">Grand Rapids Griffins </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">39</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">25</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">8</td>
+<td align="right" bgcolor="white" class="input">219</td>
+<td align="right" bgcolor="white" class="input">200</td>
+<td align="right" bgcolor="white" class="input">19</td>
+<td align="right" bgcolor="white" class="input"><strong>86</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">5&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=14907&year0=2018">Iowa Wild </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">30</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=100&year0=2018">Milwaukee Admirals </a></TD>
+<td align="right" bgcolor="white" class="input">71</td>
+<td align="right" bgcolor="white" class="input">37</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">23</td>
+<td align="right" bgcolor="white" class="input">29</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">15</td>
-<td align="right" bgcolor="white" class="input">206</td>
-<td align="right" bgcolor="white" class="input">219</td>
-<td align="right" bgcolor="white" class="input">-13</td>
-<td align="right" bgcolor="white" class="input"><strong>75</strong></td>
+<td align="right" bgcolor="white" class="input">5</td>
+<td align="right" bgcolor="white" class="input">207</td>
+<td align="right" bgcolor="white" class="input">217</td>
+<td align="right" bgcolor="white" class="input">-10</td>
+<td align="right" bgcolor="white" class="input"><strong>79</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">6&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=100&year0=2018">Milwaukee Admirals </a></TD>
-<td align="right" bgcolor="white" class="input">67</td>
-<td align="right" bgcolor="white" class="input">34</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=14907&year0=2018">Iowa Wild </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">31</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">28</td>
+<td align="right" bgcolor="white" class="input">26</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">5</td>
-<td align="right" bgcolor="white" class="input">190</td>
-<td align="right" bgcolor="white" class="input">202</td>
-<td align="right" bgcolor="white" class="input">-12</td>
-<td align="right" bgcolor="white" class="input"><strong>73</strong></td>
+<td align="right" bgcolor="white" class="input">15</td>
+<td align="right" bgcolor="white" class="input">220</td>
+<td align="right" bgcolor="white" class="input">236</td>
+<td align="right" bgcolor="white" class="input">-16</td>
+<td align="right" bgcolor="white" class="input"><strong>77</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">7&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=2243&year0=2018">Cleveland Monsters </a></TD>
-<td align="right" bgcolor="white" class="input">67</td>
-<td align="right" bgcolor="white" class="input">22</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">35</td>
+<td align="right" bgcolor="white" class="input">38</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">10</td>
-<td align="right" bgcolor="white" class="input">163</td>
-<td align="right" bgcolor="white" class="input">226</td>
+<td align="right" bgcolor="white" class="input">180</td>
+<td align="right" bgcolor="white" class="input">243</td>
 <td align="right" bgcolor="white" class="input">-63</td>
-<td align="right" bgcolor="white" class="input"><strong>54</strong></td>
+<td align="right" bgcolor="white" class="input"><strong>58</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
@@ -2352,121 +2352,121 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <tr bgcolor="white">
   <td align="right" class="input">1&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=21888&year0=2018">Tucson Roadrunners </a></TD>
-<td align="right" bgcolor="white" class="input">61</td>
-<td align="right" bgcolor="white" class="input">36</td>
+<td align="right" bgcolor="white" class="input">64</td>
+<td align="right" bgcolor="white" class="input">39</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">19</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">6</td>
-<td align="right" bgcolor="white" class="input">187</td>
-<td align="right" bgcolor="white" class="input">157</td>
-<td align="right" bgcolor="white" class="input">30</td>
-<td align="right" bgcolor="white" class="input"><strong>78</strong></td>
+<td align="right" bgcolor="white" class="input">200</td>
+<td align="right" bgcolor="white" class="input">164</td>
+<td align="right" bgcolor="white" class="input">36</td>
+<td align="right" bgcolor="white" class="input"><strong>84</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">2&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=2694&year0=2018">Ontario Reign </a></TD>
-<td align="right" bgcolor="white" class="input">60</td>
-<td align="right" bgcolor="white" class="input">33</td>
+<td align="right" bgcolor="white" class="input">64</td>
+<td align="right" bgcolor="white" class="input">36</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">21</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">6</td>
-<td align="right" bgcolor="white" class="input">176</td>
-<td align="right" bgcolor="white" class="input">167</td>
-<td align="right" bgcolor="white" class="input">9</td>
-<td align="right" bgcolor="white" class="input"><strong>72</strong></td>
+<td align="right" bgcolor="white" class="input">7</td>
+<td align="right" bgcolor="white" class="input">192</td>
+<td align="right" bgcolor="white" class="input">175</td>
+<td align="right" bgcolor="white" class="input">17</td>
+<td align="right" bgcolor="white" class="input"><strong>79</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">3&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=8516&year0=2018">San Diego Gulls </a></TD>
-<td align="right" bgcolor="white" class="input">60</td>
-<td align="right" bgcolor="white" class="input">34</td>
+<td align="right" bgcolor="white" class="input">64</td>
+<td align="right" bgcolor="white" class="input">35</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">22</td>
+<td align="right" bgcolor="white" class="input">25</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">4</td>
-<td align="right" bgcolor="white" class="input">188</td>
-<td align="right" bgcolor="white" class="input">172</td>
-<td align="right" bgcolor="white" class="input">16</td>
-<td align="right" bgcolor="white" class="input"><strong>72</strong></td>
+<td align="right" bgcolor="white" class="input">194</td>
+<td align="right" bgcolor="white" class="input">182</td>
+<td align="right" bgcolor="white" class="input">12</td>
+<td align="right" bgcolor="white" class="input"><strong>74</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">4&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=4516&year0=2018">Texas Stars </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
-<td align="right" bgcolor="white" class="input">34</td>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">35</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">23</td>
+<td align="right" bgcolor="white" class="input">24</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">11</td>
-<td align="right" bgcolor="white" class="input">199</td>
-<td align="right" bgcolor="white" class="input">207</td>
-<td align="right" bgcolor="white" class="input">-8</td>
-<td align="right" bgcolor="white" class="input"><strong>79</strong></td>
+<td align="right" bgcolor="white" class="input">13</td>
+<td align="right" bgcolor="white" class="input">209</td>
+<td align="right" bgcolor="white" class="input">220</td>
+<td align="right" bgcolor="white" class="input">-11</td>
+<td align="right" bgcolor="white" class="input"><strong>83</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">5&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=18602&year0=2018">Stockton Heat </a></TD>
-<td align="right" bgcolor="white" class="input">60</td>
-<td align="right" bgcolor="white" class="input">30</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">24</td>
-<td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">6</td>
-<td align="right" bgcolor="white" class="input">183</td>
-<td align="right" bgcolor="white" class="input">175</td>
-<td align="right" bgcolor="white" class="input">8</td>
-<td align="right" bgcolor="white" class="input"><strong>66</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
-</tr>
-<tr bgcolor="white">
-  <td align="right" class="input">6&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=848&year0=2018">San Antonio Rampage </a></TD>
-<td align="right" bgcolor="white" class="input">68</td>
+<td align="right" bgcolor="white" class="input">64</td>
 <td align="right" bgcolor="white" class="input">32</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">26</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">10</td>
-<td align="right" bgcolor="white" class="input">175</td>
-<td align="right" bgcolor="white" class="input">186</td>
-<td align="right" bgcolor="white" class="input">-11</td>
-<td align="right" bgcolor="white" class="input"><strong>74</strong></td>
+<td align="right" bgcolor="white" class="input">6</td>
+<td align="right" bgcolor="white" class="input">196</td>
+<td align="right" bgcolor="white" class="input">190</td>
+<td align="right" bgcolor="white" class="input">6</td>
+<td align="right" bgcolor="white" class="input"><strong>70</strong></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
+</tr>
+<tr bgcolor="white">
+  <td align="right" class="input">6&nbsp;&nbsp;</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=18741&year0=2018">San Jose Barracuda </a></TD>
+<td align="right" bgcolor="white" class="input">64</td>
+<td align="right" bgcolor="white" class="input">30</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">26</td>
+<td align="right" bgcolor="white" class="input">-</td>
+<td align="right" bgcolor="white" class="input">8</td>
+<td align="right" bgcolor="white" class="input">171</td>
+<td align="right" bgcolor="white" class="input">190</td>
+<td align="right" bgcolor="white" class="input">-19</td>
+<td align="right" bgcolor="white" class="input"><strong>68</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">7&nbsp;&nbsp;</td>
 <td align="left" bgcolor="white" class="input"><a href="team.php?team=724&year0=2018">Bakersfield Condors </a></TD>
-<td align="right" bgcolor="white" class="input">60</td>
-<td align="right" bgcolor="white" class="input">27</td>
+<td align="right" bgcolor="white" class="input">64</td>
+<td align="right" bgcolor="white" class="input">29</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">23</td>
+<td align="right" bgcolor="white" class="input">25</td>
 <td align="right" bgcolor="white" class="input">-</td>
 <td align="right" bgcolor="white" class="input">10</td>
-<td align="right" bgcolor="white" class="input">169</td>
-<td align="right" bgcolor="white" class="input">183</td>
-<td align="right" bgcolor="white" class="input">-14</td>
-<td align="right" bgcolor="white" class="input"><strong>64</strong></td>
+<td align="right" bgcolor="white" class="input">175</td>
+<td align="right" bgcolor="white" class="input">196</td>
+<td align="right" bgcolor="white" class="input">-21</td>
+<td align="right" bgcolor="white" class="input"><strong>68</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">8&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=18741&year0=2018">San Jose Barracuda </a></TD>
-<td align="right" bgcolor="white" class="input">60</td>
-<td align="right" bgcolor="white" class="input">28</td>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=848&year0=2018">San Antonio Rampage </a></TD>
+<td align="right" bgcolor="white" class="input">72</td>
+<td align="right" bgcolor="white" class="input">33</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">25</td>
+<td align="right" bgcolor="white" class="input">29</td>
 <td align="right" bgcolor="white" class="input">-</td>
-<td align="right" bgcolor="white" class="input">7</td>
-<td align="right" bgcolor="white" class="input">156</td>
-<td align="right" bgcolor="white" class="input">180</td>
-<td align="right" bgcolor="white" class="input">-24</td>
-<td align="right" bgcolor="white" class="input"><strong>63</strong></td>
+<td align="right" bgcolor="white" class="input">10</td>
+<td align="right" bgcolor="white" class="input">186</td>
+<td align="right" bgcolor="white" class="input">203</td>
+<td align="right" bgcolor="white" class="input">-17</td>
+<td align="right" bgcolor="white" class="input"><strong>76</strong></td>
 <td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;- </td>
 </tr>
 </TABLE>
@@ -2488,65 +2488,47 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=14370">Chris Terry</A><font color="#999999"> (F)</font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">55</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">28</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">37</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>65</strong></td>
-                  <td align="right" style="border: 1px solid #FFFFFF"class="input">43</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">59</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">30</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">38</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>68</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF"class="input">45</td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=15485">Phil Varone</A><font color="#999999"> (F)</font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">67</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">71</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">21</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">44</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>65</strong></td>
-                  <td align="right" style="border: 1px solid #FFFFFF"class="input">30</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">46</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>67</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF"class="input">36</td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=20707">Austin Czarnik</A><font color="#999999"> (F)</font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">56</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">21</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">40</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>61</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">60</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">22</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">43</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>65</strong></td>
                   <td align="right" style="border: 1px solid #FFFFFF"class="input">20</td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=266919">Mason Appleton</A><font color="#999999"> (F)</font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">69</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">20</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">40</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>60</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">72</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">21</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">41</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>62</strong></td>
                   <td align="right" style="border: 1px solid #FFFFFF"class="input">55</td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=15070">Carter Camper</A><font color="#999999"> (F)</font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">64</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">15</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">42</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>57</strong></td>
-                  <td align="right" style="border: 1px solid #FFFFFF"class="input">14</td>
-                </tr>
-                                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><font color="#999999">&nbsp; </font></td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><font color="#999999">&nbsp; </font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">53</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">13</td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/32.png" border="0" />&nbsp;<a href="player.php?player=231299">Daniel Sprong</A><font color="#999999"> (F)</font></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">60</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">29</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>42</strong></td>
-                  <td align="right" style="border: 1px solid #FFFFFF"class="input">10</td>
-                </tr>
-                                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><font color="#999999">&nbsp; </font></td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><font color="#999999">&nbsp; </font></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">11</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">2</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">13</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>15</strong></td>
-                  <td align="right" style="border: 1px solid #FFFFFF"class="input">4</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">31</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>60</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF"class="input">28</td>
                 </tr>
                             </TABLE></td>
             <td align="left" valign="top" scope="col"><span id="fontSections">GOALTENDING STATS</span><br>
@@ -2568,30 +2550,30 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=91267">Garret Sparks</A></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">40</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">1.76</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.938</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">42</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">1.81</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.936</strong></td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=14727">Michael Hutchinson</A></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">22</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">2.04</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.938</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">25</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">2.16</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.934</strong></td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=14872">John Muse</A></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">13</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">2.13</td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=45580">Jordan Binnington</A></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">26</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">1.94</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.931</strong></td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=11248">Eddie Pasquale</A></td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">11</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input">1.95</td>
-                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.929</strong></td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">13</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input">1.94</td>
+                  <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.931</strong></td>
                 </tr>
                             </TABLE></td>
           </tr>
@@ -2613,67 +2595,67 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
 			           
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/30/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=118646">Drew Melanson (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=633">Boston Univ.</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=83">Hartford Wolf Pack</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/07/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=199912">Jordy Stallard (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=687">Prince Albert Raiders</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=86">Manitoba Moose</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/MarkDivver/status/979727265020997632" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/MarkDivver/status/979727265020997632"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339709' st_title='Transaction: Drew Melanson (F) From: Boston Univ. To: Hartford Wolf Pack' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/ManitobaMoose/status/982686142914072577" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/ManitobaMoose/status/982686142914072577"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340604' st_title='Transaction: Jordy Stallard (F) From: Prince Albert Raiders To: Manitoba Moose' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339709' st_title='Transaction: Drew Melanson (F) From: Boston Univ. To: Hartford Wolf Pack'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340604' st_title='Transaction: Jordy Stallard (F) From: Prince Albert Raiders To: Manitoba Moose'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/30/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=55010">Trevor Owens (D)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=1465">Northeastern Univ.</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=22280">Laval Rocket</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/07/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=131926">Jason Salvaggio (F)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=1136">Univ. of New Hampshire</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=83">Hartford Wolf Pack</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/RocketLaval/status/979725048406736896" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/RocketLaval/status/979725048406736896"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339708' st_title='Transaction: Trevor Owens (D) From: Northeastern Univ. To: Laval Rocket' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="http://www.hartfordwolfpack.com/news/detail/pack-announce-roster-moves-3" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.hartfordwolfpack.com/news/detail/pack-announce-roster-moves-3"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340561' st_title='Transaction: Jason Salvaggio (F) From: Univ. of New Hampshire To: Hartford Wolf Pack' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339708' st_title='Transaction: Trevor Owens (D) From: Northeastern Univ. To: Laval Rocket'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340561' st_title='Transaction: Jason Salvaggio (F) From: Univ. of New Hampshire To: Hartford Wolf Pack'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/30/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=213610">Mark Auk (D)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=548">Michigan Tech</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=162926">Mason Shaw (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=859">Medicine Hat Tigers</a></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=14907">Iowa Wild</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/IAWild/status/979738516501532672" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/IAWild/status/979738516501532672"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339707' st_title='Transaction: Mark Auk (D) From: Michigan Tech To: Iowa Wild' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/IAWild/status/982293707083755521" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/IAWild/status/982293707083755521"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340526' st_title='Transaction: Mason Shaw (F) From: Medicine Hat Tigers To: Iowa Wild' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339707' st_title='Transaction: Mark Auk (D) From: Michigan Tech To: Iowa Wild'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340526' st_title='Transaction: Mason Shaw (F) From: Medicine Hat Tigers To: Iowa Wild'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/29/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=122424">Trevor Hamilton (D)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=2118">Penn State Univ.</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=97">Grand Rapids Griffins</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/05/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=108414">Tyson Helgesen (D)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=688">Spokane Chiefs</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=83">Hartford Wolf Pack</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<a href="https://griffinshockey.com/news-stats/?article_id=4031" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://griffinshockey.com/news-stats/?article_id=4031"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339630' st_title='Transaction: Trevor Hamilton (D) From: Penn State Univ. To: Grand Rapids Griffins' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="http://www.hartfordwolfpack.com/news/detail/wolf-pack-sign-defenseman-tyson-helgesen-to-ato" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.hartfordwolfpack.com/news/detail/wolf-pack-sign-defenseman-tyson-helgesen-to-ato"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340358' st_title='Transaction: Tyson Helgesen (D) From: Spokane Chiefs To: Hartford Wolf Pack' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339630' st_title='Transaction: Trevor Hamilton (D) From: Penn State Univ. To: Grand Rapids Griffins'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340358' st_title='Transaction: Tyson Helgesen (D) From: Spokane Chiefs To: Hartford Wolf Pack'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/29/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=128953">Trevor Yates (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=840">Cornell Univ.</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=97">Grand Rapids Griffins</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/05/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/7.png"> <a href="player.php?player=220307">Mathias From (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=1">AIK</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=825">Rockford IceHogs</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO for 17/18, AHL contract for 18/19" alt="ATO for 17/18, AHL contract for 18/19" width="16" height="16">&nbsp;<a href="https://griffinshockey.com/news-stats/?article_id=4031" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://griffinshockey.com/news-stats/?article_id=4031"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339629' st_title='Transaction: Trevor Yates (F) From: Cornell Univ. To: Grand Rapids Griffins' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="PTO" alt="PTO" width="16" height="16">&nbsp;<a href="https://twitter.com/goicehogs/status/981947183321755649" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/goicehogs/status/981947183321755649"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340349' st_title='Transaction: Mathias From (F) From: AIK To: Rockford IceHogs' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339629' st_title='Transaction: Trevor Yates (F) From: Cornell Univ. To: Grand Rapids Griffins'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340349' st_title='Transaction: Mathias From (F) From: AIK To: Rockford IceHogs'></span>
 </td>
 </tr>
 		          </table>
@@ -2724,11 +2706,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">Utica Comets</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=7084">Anton Rödin</A> <font color="#999999"> (F)</font></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=7084">Anton RÃ¶din</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">Charlotte Checkers</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=8311">Marcus Krüger</A> <font color="#999999"> (F)</font></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=8311">Marcus KrÃ¼ger</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">San Jose Barracuda</td>
@@ -2824,23 +2806,23 @@ Knee surgery, out until April/May</td>
          <span id="fontSections">PLAYER NATIONALITIES</span><br>
 <table width="100%"> <tr>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/3.png"> 400<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=3"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/3.png"> 411<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=3"> players</a>  </td>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/2.png"> 18<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=2"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/2.png"> 19<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=2"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/4.png"> 5<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=4"> players</a>  </td>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/7.png"> 3<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=7"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/7.png"> 4<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=7"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/32.png"> 1<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=32"> players</a>  </td>
  </tr>
  <tr>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/6.png"> 298<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=6"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/6.png"> 303<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=6"> players</a>  </td>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/8.png"> 15<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=8"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/9.png"> 19<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=9"> players</a>  </td>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/10.png"> 5<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=10"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/11.png"> 5<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=11"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/23.png"> 3<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=23"> players</a>  </td>
   <td width="20%">
@@ -2848,11 +2830,11 @@ Knee surgery, out until April/May</td>
  </tr>
  <tr>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/1.png"> 49<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=1"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/1.png"> 48<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=1"> players</a>  </td>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/9.png"> 13<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=9"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/8.png"> 16<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=8"> players</a>  </td>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/11.png"> 5<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=11"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/10.png"> 4<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=10"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/21.png"> 2<a href="player_nationalities_in_league.php?LeagueID=AHL&startdate=2017&NationID=21"> players</a>  </td>
   <td width="20%">
@@ -2883,270 +2865,270 @@ Knee surgery, out until April/May</td>
 <TR>
 <TD class="white">1</TD>
 <TD class="white"><a href="team.php?team=724">Bakersfield Condors</TD>
-<TD class="white" align=center>185.71 cm</TD>
-<TD class="white" align=center>89.86 kg</TD>
-<TD class="white" align=center>24.36 yrs</TD>
+<TD class="white" align=center>185.55 cm</TD>
+<TD class="white" align=center>89.76 kg</TD>
+<TD class="white" align=center>24.00 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">2</TD>
 <TD class="gray"><a href="team.php?team=22780">Belleville Senators</TD>
-<TD class="gray" align=center>186.25 cm</TD>
-<TD class="gray" align=center>88.71 kg</TD>
-<TD class="gray" align=center>24.86 yrs</TD>
+<TD class="gray" align=center>185.59 cm</TD>
+<TD class="gray" align=center>87.83 kg</TD>
+<TD class="gray" align=center>24.24 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">3</TD>
 <TD class="white"><a href="team.php?team=23381">Binghamton Devils</TD>
-<TD class="white" align=center>184.70 cm</TD>
-<TD class="white" align=center>89.13 kg</TD>
-<TD class="white" align=center>24.03 yrs</TD>
+<TD class="white" align=center>184.50 cm</TD>
+<TD class="white" align=center>88.80 kg</TD>
+<TD class="white" align=center>23.80 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">4</TD>
 <TD class="gray"><a href="team.php?team=81">Bridgeport Sound Tigers</TD>
-<TD class="gray" align=center>182.85 cm</TD>
-<TD class="gray" align=center>86.41 kg</TD>
-<TD class="gray" align=center>25.04 yrs</TD>
+<TD class="gray" align=center>183.14 cm</TD>
+<TD class="gray" align=center>86.10 kg</TD>
+<TD class="gray" align=center>25.52 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">5</TD>
 <TD class="white"><a href="team.php?team=234">Charlotte Checkers</TD>
-<TD class="white" align=center>184.29 cm</TD>
-<TD class="white" align=center>87.86 kg</TD>
-<TD class="white" align=center>23.93 yrs</TD>
+<TD class="white" align=center>184.26 cm</TD>
+<TD class="white" align=center>87.59 kg</TD>
+<TD class="white" align=center>24.04 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">6</TD>
 <TD class="gray"><a href="team.php?team=94">Chicago Wolves</TD>
-<TD class="gray" align=center>183.68 cm</TD>
-<TD class="gray" align=center>87.18 kg</TD>
-<TD class="gray" align=center>25.21 yrs</TD>
+<TD class="gray" align=center>184.14 cm</TD>
+<TD class="gray" align=center>87.52 kg</TD>
+<TD class="gray" align=center>25.07 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">7</TD>
 <TD class="white"><a href="team.php?team=2243">Cleveland Monsters</TD>
-<TD class="white" align=center>186.24 cm</TD>
-<TD class="white" align=center>88.69 kg</TD>
-<TD class="white" align=center>24.31 yrs</TD>
+<TD class="white" align=center>185.94 cm</TD>
+<TD class="white" align=center>88.48 kg</TD>
+<TD class="white" align=center>24.45 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">8</TD>
 <TD class="gray"><a href="team.php?team=97">Grand Rapids Griffins</TD>
-<TD class="gray" align=center>185.56 cm</TD>
-<TD class="gray" align=center>91.52 kg</TD>
-<TD class="gray" align=center>25.04 yrs</TD>
+<TD class="gray" align=center>185.07 cm</TD>
+<TD class="gray" align=center>90.93 kg</TD>
+<TD class="gray" align=center>24.70 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">9</TD>
 <TD class="white"><a href="team.php?team=83">Hartford Wolf Pack</TD>
-<TD class="white" align=center>184.38 cm</TD>
-<TD class="white" align=center>87.67 kg</TD>
-<TD class="white" align=center>24.29 yrs</TD>
+<TD class="white" align=center>183.56 cm</TD>
+<TD class="white" align=center>86.63 kg</TD>
+<TD class="white" align=center>23.78 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">10</TD>
 <TD class="gray"><a href="team.php?team=98">Hershey Bears</TD>
-<TD class="gray" align=center>184.14 cm</TD>
+<TD class="gray" align=center>184.27 cm</TD>
 <TD class="gray" align=center>87.54 kg</TD>
-<TD class="gray" align=center>24.79 yrs</TD>
+<TD class="gray" align=center>24.92 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">11</TD>
 <TD class="white"><a href="team.php?team=14907">Iowa Wild</TD>
-<TD class="white" align=center>182.96 cm</TD>
-<TD class="white" align=center>86.19 kg</TD>
-<TD class="white" align=center>24.89 yrs</TD>
+<TD class="white" align=center>182.89 cm</TD>
+<TD class="white" align=center>86.07 kg</TD>
+<TD class="white" align=center>24.70 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">12</TD>
 <TD class="gray"><a href="team.php?team=22280">Laval Rocket</TD>
-<TD class="gray" align=center>183.43 cm</TD>
-<TD class="gray" align=center>88.61 kg</TD>
-<TD class="gray" align=center>23.43 yrs</TD>
+<TD class="gray" align=center>182.96 cm</TD>
+<TD class="gray" align=center>87.54 kg</TD>
+<TD class="gray" align=center>23.18 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">13</TD>
 <TD class="white"><a href="team.php?team=17333">Lehigh Valley Phantoms</TD>
-<TD class="white" align=center>184.96 cm</TD>
-<TD class="white" align=center>88.38 kg</TD>
-<TD class="white" align=center>25.27 yrs</TD>
+<TD class="white" align=center>184.90 cm</TD>
+<TD class="white" align=center>88.45 kg</TD>
+<TD class="white" align=center>25.10 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">14</TD>
 <TD class="gray"><a href="team.php?team=86">Manitoba Moose</TD>
-<TD class="gray" align=center>185.62 cm</TD>
-<TD class="gray" align=center>87.69 kg</TD>
-<TD class="gray" align=center>24.28 yrs</TD>
+<TD class="gray" align=center>185.90 cm</TD>
+<TD class="gray" align=center>87.65 kg</TD>
+<TD class="gray" align=center>23.90 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">15</TD>
 <TD class="white"><a href="team.php?team=100">Milwaukee Admirals</TD>
-<TD class="white" align=center>184.92 cm</TD>
-<TD class="white" align=center>86.92 kg</TD>
-<TD class="white" align=center>25.36 yrs</TD>
+<TD class="white" align=center>184.73 cm</TD>
+<TD class="white" align=center>86.69 kg</TD>
+<TD class="white" align=center>25.38 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">16</TD>
 <TD class="gray"><a href="team.php?team=2694">Ontario Reign</TD>
-<TD class="gray" align=center>187.00 cm</TD>
-<TD class="gray" align=center>91.42 kg</TD>
-<TD class="gray" align=center>24.50 yrs</TD>
+<TD class="gray" align=center>186.92 cm</TD>
+<TD class="gray" align=center>91.04 kg</TD>
+<TD class="gray" align=center>23.92 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">17</TD>
 <TD class="white"><a href="team.php?team=88">Providence Bruins</TD>
-<TD class="white" align=center>185.59 cm</TD>
-<TD class="white" align=center>89.10 kg</TD>
-<TD class="white" align=center>23.97 yrs</TD>
+<TD class="white" align=center>185.73 cm</TD>
+<TD class="white" align=center>88.61 kg</TD>
+<TD class="white" align=center>23.79 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">18</TD>
 <TD class="gray"><a href="team.php?team=103">Rochester Americans</TD>
-<TD class="gray" align=center>184.92 cm</TD>
-<TD class="gray" align=center>88.65 kg</TD>
-<TD class="gray" align=center>25.15 yrs</TD>
+<TD class="gray" align=center>184.32 cm</TD>
+<TD class="gray" align=center>87.88 kg</TD>
+<TD class="gray" align=center>24.80 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">19</TD>
 <TD class="white"><a href="team.php?team=825">Rockford IceHogs</TD>
-<TD class="white" align=center>184.54 cm</TD>
-<TD class="white" align=center>87.92 kg</TD>
-<TD class="white" align=center>24.27 yrs</TD>
+<TD class="white" align=center>184.52 cm</TD>
+<TD class="white" align=center>87.84 kg</TD>
+<TD class="white" align=center>23.96 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">20</TD>
 <TD class="gray"><a href="team.php?team=848">San Antonio Rampage</TD>
-<TD class="gray" align=center>186.27 cm</TD>
-<TD class="gray" align=center>88.87 kg</TD>
-<TD class="gray" align=center>23.10 yrs</TD>
+<TD class="gray" align=center>186.79 cm</TD>
+<TD class="gray" align=center>88.97 kg</TD>
+<TD class="gray" align=center>22.59 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">21</TD>
 <TD class="white"><a href="team.php?team=8516">San Diego Gulls</TD>
-<TD class="white" align=center>185.54 cm</TD>
-<TD class="white" align=center>89.00 kg</TD>
-<TD class="white" align=center>25.15 yrs</TD>
+<TD class="white" align=center>185.20 cm</TD>
+<TD class="white" align=center>88.60 kg</TD>
+<TD class="white" align=center>24.96 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">22</TD>
 <TD class="gray"><a href="team.php?team=18741">San Jose Barracuda</TD>
-<TD class="gray" align=center>184.59 cm</TD>
-<TD class="gray" align=center>88.00 kg</TD>
-<TD class="gray" align=center>23.26 yrs</TD>
+<TD class="gray" align=center>184.63 cm</TD>
+<TD class="gray" align=center>87.67 kg</TD>
+<TD class="gray" align=center>22.78 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">23</TD>
 <TD class="white"><a href="team.php?team=3965">Springfield Thunderbirds</TD>
-<TD class="white" align=center>185.35 cm</TD>
-<TD class="white" align=center>88.15 kg</TD>
-<TD class="white" align=center>24.88 yrs</TD>
+<TD class="white" align=center>185.04 cm</TD>
+<TD class="white" align=center>87.48 kg</TD>
+<TD class="white" align=center>24.60 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">24</TD>
 <TD class="gray"><a href="team.php?team=18602">Stockton Heat</TD>
-<TD class="gray" align=center>186.39 cm</TD>
-<TD class="gray" align=center>90.21 kg</TD>
-<TD class="gray" align=center>24.75 yrs</TD>
+<TD class="gray" align=center>186.33 cm</TD>
+<TD class="gray" align=center>89.73 kg</TD>
+<TD class="gray" align=center>24.40 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">25</TD>
 <TD class="white"><a href="team.php?team=104">Syracuse Crunch</TD>
-<TD class="white" align=center>184.48 cm</TD>
-<TD class="white" align=center>86.36 kg</TD>
-<TD class="white" align=center>23.52 yrs</TD>
+<TD class="white" align=center>184.08 cm</TD>
+<TD class="white" align=center>85.64 kg</TD>
+<TD class="white" align=center>23.44 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">26</TD>
 <TD class="gray"><a href="team.php?team=4516">Texas Stars</TD>
-<TD class="gray" align=center>183.58 cm</TD>
-<TD class="gray" align=center>87.58 kg</TD>
-<TD class="gray" align=center>25.38 yrs</TD>
+<TD class="gray" align=center>183.96 cm</TD>
+<TD class="gray" align=center>87.92 kg</TD>
+<TD class="gray" align=center>25.31 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">27</TD>
 <TD class="white"><a href="team.php?team=1336">Toronto Marlies</TD>
-<TD class="white" align=center>184.77 cm</TD>
-<TD class="white" align=center>88.63 kg</TD>
-<TD class="white" align=center>24.00 yrs</TD>
+<TD class="white" align=center>185.03 cm</TD>
+<TD class="white" align=center>89.39 kg</TD>
+<TD class="white" align=center>24.03 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">28</TD>
 <TD class="gray"><a href="team.php?team=21888">Tucson Roadrunners</TD>
-<TD class="gray" align=center>185.79 cm</TD>
-<TD class="gray" align=center>87.50 kg</TD>
-<TD class="gray" align=center>23.79 yrs</TD>
+<TD class="gray" align=center>186.00 cm</TD>
+<TD class="gray" align=center>87.43 kg</TD>
+<TD class="gray" align=center>23.50 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">29</TD>
 <TD class="white"><a href="team.php?team=15223">Utica Comets</TD>
-<TD class="white" align=center>184.55 cm</TD>
-<TD class="white" align=center>87.93 kg</TD>
-<TD class="white" align=center>24.79 yrs</TD>
+<TD class="white" align=center>184.65 cm</TD>
+<TD class="white" align=center>87.35 kg</TD>
+<TD class="white" align=center>24.45 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">30</TD>
 <TD class="gray"><a href="team.php?team=106">Wilkes-Barre/Scranton Penguins</TD>
-<TD class="gray" align=center>185.10 cm</TD>
-<TD class="gray" align=center>88.31 kg</TD>
-<TD class="gray" align=center>25.24 yrs</TD>
+<TD class="gray" align=center>185.48 cm</TD>
+<TD class="gray" align=center>88.26 kg</TD>
+<TD class="gray" align=center>24.97 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr></table>
@@ -3160,8 +3142,8 @@ Knee surgery, out until April/May</td>
          </tr>
        <tr>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=9021">Tom&nbsp;Kostopoulos</a><font color="#666666" size="1"> (39 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=11551">Bracken&nbsp;Kearns</a><font color="#666666" size="1"> (36 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=8531">Michael&nbsp;Leighton</a><font color="#666666" size="1"> (36 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=11521">Greg&nbsp;Rallo</a><font color="#666666" size="1"> (36 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=11486">Jaime&nbsp;Sifers</a><font color="#666666" size="1"> (35 yrs)</font><br></td>
-         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=13538">Viktor&nbsp;Svedberg</a><font color="#666666" size="1"> (204 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=117322">Justin&nbsp;Auger</a><font color="#666666" size="1"> (201 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=31578">Chris&nbsp;Breen</a><font color="#666666" size="1"> (201 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/23.png" title="flag"> <a href="player.php?player=48315">Oleg&nbsp;Yevenko</a><font color="#666666" size="1"> (201 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/7.png" title="flag"> <a href="player.php?player=32609">Mathias&nbsp;Bau Hansen</a><font color="#666666" size="1"> (200 cm)</font><br></td>
-         <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=13538">Viktor&nbsp;Svedberg</a><font color="#666666" size="1"> (108 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/7.png" title="flag"> <a href="player.php?player=32609">Mathias&nbsp;Bau Hansen</a><font color="#666666" size="1"> (108 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=189639">Kyle&nbsp;Wood</a><font color="#666666" size="1"> (107 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=37170">Dylan&nbsp;McIlrath</a><font color="#666666" size="1"> (107 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=128500">Frédérik&nbsp;Gauthier</a><font color="#666666" size="1"> (107 kg)</font><br></td>
+         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=13538">Viktor&nbsp;Svedberg</a><font color="#666666" size="1"> (204 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=31578">Chris&nbsp;Breen</a><font color="#666666" size="1"> (201 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=117322">Justin&nbsp;Auger</a><font color="#666666" size="1"> (201 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/23.png" title="flag"> <a href="player.php?player=48315">Oleg&nbsp;Yevenko</a><font color="#666666" size="1"> (201 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/23.png" title="flag"> <a href="player.php?player=248808">Stepan&nbsp;Falkovsky</a><font color="#666666" size="1"> (200 cm)</font><br></td>
+         <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/7.png" title="flag"> <a href="player.php?player=32609">Mathias&nbsp;Bau Hansen</a><font color="#666666" size="1"> (108 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=13538">Viktor&nbsp;Svedberg</a><font color="#666666" size="1"> (108 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=189639">Kyle&nbsp;Wood</a><font color="#666666" size="1"> (107 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=128500">FrÃ©dÃ©rik&nbsp;Gauthier</a><font color="#666666" size="1"> (107 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=37170">Dylan&nbsp;McIlrath</a><font color="#666666" size="1"> (107 kg)</font><br></td>
          </tr>
           <tr>
          <td><strong>&nbsp;</strong></td>
@@ -3174,9 +3156,9 @@ Knee surgery, out until April/May</td>
          <td class="tdbackground"><span id="fontSectionsGeneral">LIGHTEST</span></td>
          </tr>
        <tr>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312824">Alexei&nbsp;Lipanov</a><font color="#666666" size="1"> (18 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312823">Klim&nbsp;Kostin</a><font color="#666666" size="1"> (18 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=224910">Timothy&nbsp;Liljegren</a><font color="#666666" size="1"> (18 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=275600">Alex&nbsp;D'Orio</a><font color="#666666" size="1"> (18 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/28.png" title="flag"> <a href="player.php?player=265944">Jan&nbsp;Drozg</a><font color="#666666" size="1"> (18 yrs)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=9216">Nathan&nbsp;Gerbe</a><font color="#666666" size="1"> (163 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=14685">Joe&nbsp;Whitney</a><font color="#666666" size="1"> (168 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=38622">Rocco&nbsp;Grimaldi</a><font color="#666666" size="1"> (168 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=151832">Tyler&nbsp;Kelleher</a><font color="#666666" size="1"> (168 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=151144">Anthony&nbsp;Beauregard</a><font color="#666666" size="1"> (170 cm)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=151833">Anthony&nbsp;Louis</a><font color="#666666" size="1"> (68 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=38239">Dustin&nbsp;Gazley</a><font color="#666666" size="1"> (70 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=219791">David&nbsp;Drake</a><font color="#666666" size="1"> (70 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=66296">Joonas&nbsp;Lyytinen</a><font color="#666666" size="1"> (72 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=40255">Ben&nbsp;Marshall</a><font color="#666666" size="1"> (73 kg)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=273622">Alex&nbsp;Formenton</a><font color="#666666" size="1"> (18 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=278859">Jaret&nbsp;Anderson-Dolan</a><font color="#666666" size="1"> (18 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=201450">Ivan&nbsp;Lodnia</a><font color="#666666" size="1"> (18 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312824">Alexei&nbsp;Lipanov</a><font color="#666666" size="1"> (18 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312819">Dmitri&nbsp;Samorukov</a><font color="#666666" size="1"> (18 yrs)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=9216">Nathan&nbsp;Gerbe</a><font color="#666666" size="1"> (163 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=38622">Rocco&nbsp;Grimaldi</a><font color="#666666" size="1"> (168 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=14685">Joe&nbsp;Whitney</a><font color="#666666" size="1"> (168 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=151832">Tyler&nbsp;Kelleher</a><font color="#666666" size="1"> (168 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=9397">Stephen&nbsp;Gionta</a><font color="#666666" size="1"> (170 cm)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=151833">Anthony&nbsp;Louis</a><font color="#666666" size="1"> (68 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=219791">David&nbsp;Drake</a><font color="#666666" size="1"> (70 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=38239">Dustin&nbsp;Gazley</a><font color="#666666" size="1"> (70 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=66296">Joonas&nbsp;Lyytinen</a><font color="#666666" size="1"> (72 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=20707">Austin&nbsp;Czarnik</a><font color="#666666" size="1"> (73 kg)</font><br></td>
          </tr>
      </table>
 
@@ -3473,11 +3455,11 @@ Knee surgery, out until April/May</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=8526">Ryan Getzlaf</a><font color="#999999"> (F)</font></td>
-            <td align="right" style="border: 1px solid #FFFFFF" class="input">17</td>
-            <td align="right" style="border: 1px solid #FFFFFF" class="input">8</td>
-            <td align="right" style="border: 1px solid #FFFFFF" class="input">33</td>
-            <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>1.941</strong></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/8.png" border="0" />&nbsp;<a href="player.php?player=213164">Lukas Jasek</a><font color="#999999"> (F)</font></td>
+            <td align="right" style="border: 1px solid #FFFFFF" class="input">3</td>
+            <td align="right" style="border: 1px solid #FFFFFF" class="input">2</td>
+            <td align="right" style="border: 1px solid #FFFFFF" class="input">6</td>
+            <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>2.000</strong></td>
           </tr>
                   </table>
       <a href="http://www.eliteprospects.com/league_total.php?league_sum_totals=yes&teamgroup=&timeperiod=&from=&to=&season=%&leagueid=AHL&pos=&leagueteam=&teamname=&nation=&nationname=&age=&order=PPG">View top 100 <img src="//files.eliteprospects.com/layout/stats_arrow.gif" border="0" /></a></td>
@@ -3510,7 +3492,7 @@ Knee surgery, out until April/May</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">112</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">Stéphan Lebeau</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">StÃ©phan Lebeau</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1988 - 1989</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">AHL</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">78</td>
@@ -3569,7 +3551,7 @@ Knee surgery, out until April/May</td>
           </tr>
           <tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">Stéphan Lebeau</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">StÃ©phan Lebeau</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1988 - 1989</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">AHL</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">78</td>
@@ -3994,7 +3976,7 @@ Knee surgery, out until April/May</td>
  </tr>
  <tr>
   <td width="50%">
-<a href="awards.php?award=AHL Best in Community (Yanick Dupré Memorial Award)">AHL Best in Community (Yanick Dupré Memorial Award)</a>  </td>
+<a href="awards.php?award=AHL Best in Community (Yanick DuprÃ© Memorial Award)">AHL Best in Community (Yanick DuprÃ© Memorial Award)</a>  </td>
   <td width="50%">
 <a href="awards.php?award=AHL Playoffs Most Assists by Rookie">AHL Playoffs Most Assists by Rookie</a>  </td>
  </tr>
@@ -4098,5 +4080,5 @@ Knee surgery, out until April/May</td>
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=832944251"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=465446901"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>

@@ -905,7 +905,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612548</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/3.gif" title="flag"> <a href="player.php?player=612548"><span style="font-size:10px;">Stacey Wilson</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>614304</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/36.gif" title="flag"> <a href="player.php?player=614304"><span style="font-size:10px;">Mikhail Guly</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -999,50 +999,50 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
         <td align="right" bgcolor="#FFFFFF"><strong>A</strong></td>
         <td align="right" bgcolor="#FFFFFF"><strong>TP</strong></td>
       </tr>
-      NLA
+      Allsvenskan
       <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">1.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=11115">Dustin Jeffrey</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">50</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">13</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">44</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>57</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=22269">Emil Molin</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">28</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>51</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">2.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=1715">Fredrik Pettersson</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">46</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">26</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">24</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>50</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=212368">Jonathan DahlÃ©n</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">44</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">21</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>44</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=610">Nicklas Danielsson</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">49</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">25</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">25</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>50</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=14654">Ã‰ric Castonguay</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">20</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">24</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>44</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=4202">Viktor Stålberg</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">46</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">22</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">28</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>50</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=31568">Alex Friesen</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">15</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>44</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">5.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=14867">Garrett Roe</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">44</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">12</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">37</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>49</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=438">Axel Ottosson</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">52</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">17</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">26</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>43</strong></font></div></td>
       </tr>
           </table>
       <font size="1">
-                <a href="league.php?leagueid=NLA
+                <a href="league.php?leagueid=Allsvenskan
 &amp;season=2017"><span id="fontSmallLink" style="float:right">SHOW MORE</span>  &nbsp;</a>
               </font> &nbsp;<br /></td>
   </tr>
@@ -1055,7 +1055,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
     <tr>
         <td valign="top">
             <table width="286" border="0" cellpadding="1" cellspacing="0">
-<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 05</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=299">The next batch &#8211; rookies that could rule the NHL in 2019</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 03</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=298">Rasmus Dahlin shut down for the season: &#8220;I need to recover&#8221;</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 01</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=296">Prospects get their shot with the Swedish national team</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr>            </table>
             <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
         </td>
     </tr>
@@ -1298,13 +1298,13 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Costa Rica	<option value="137"
 	>
-	Côte d'Ivoire	<option value="29"
+	CÃ´te d'Ivoire	<option value="29"
 	>
 	Croatia	<option value="138"
 	>
 	Cuba	<option value="139"
 	>
-	Curaçao	<option value="140"
+	CuraÃ§ao	<option value="140"
 	>
 	Cyprus	<option value="8"
 	>
@@ -1550,7 +1550,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Qatar	<option value="220"
 	>
-	Réunion	<option value="18"
+	RÃ©union	<option value="18"
 	>
 	Romania	<option value="9"
 	>
@@ -1558,7 +1558,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Rwanda	<option value="222"
 	>
-	Saint BarthÈlemy	<option value="223"
+	Saint BarthÃˆlemy	<option value="223"
 	>
 	Saint Helena	<option value="224"
 	>
@@ -1704,7 +1704,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Zimbabwe	<option value="268"
 	>
-	Åland Islands              </select>
+	Ã…land Islands              </select>
               &nbsp;&nbsp;<input type="submit" name="filter" id="filter" value="Show stats" /></td>
           </tr>
           <tr>
@@ -2411,67 +2411,67 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
 			           
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/30/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=245120">Maurizio Colella (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=18638">Flint Firebirds</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=21731">Worcester Railers</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=212893">Mathieu Foget (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=12595">Mississauga Steelheads</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=4558">Allen Americans</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/RailersHC/status/979455518744989697" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/RailersHC/status/979455518744989697"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339654' st_title='Transaction: Maurizio Colella (F) From: Flint Firebirds To: Worcester Railers' st_via='ep_transfers'></span>
+<a href="https://twitter.com/AllenAmericans/status/982006302112182273" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/AllenAmericans/status/982006302112182273"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340360' st_title='Transaction: Mathieu Foget (F) From: Mississauga Steelheads To: Allen Americans' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339654' st_title='Transaction: Maurizio Colella (F) From: Flint Firebirds To: Worcester Railers'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340360' st_title='Transaction: Mathieu Foget (F) From: Mississauga Steelheads To: Allen Americans'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/29/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=252446">Travis Barron (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=702">Ottawa 67's</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=57">Colorado Avalanche</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/04/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=251454">Joseph Raaymakers (G)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=206">London Knights</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=619">Cincinnati Cyclones</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/avalanche/news/avalanche-signs-josh-anderson-and-travis-barron/c-297450376" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/avalanche/news/avalanche-signs-josh-anderson-and-travis-barron/c-297450376"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339649' st_title='Transaction: Travis Barron (F) From: Ottawa 67's To: Colorado Avalanche' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/CincyCyclones/status/981898100108349442" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/CincyCyclones/status/981898100108349442"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340236' st_title='Transaction: Joseph Raaymakers (G) From: London Knights To: Cincinnati Cyclones' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339649' st_title='Transaction: Travis Barron (F) From: Ottawa 67's To: Colorado Avalanche'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340236' st_title='Transaction: Joseph Raaymakers (G) From: London Knights To: Cincinnati Cyclones'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/27/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=234452">Jeremy Helvig (G)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=869">Kingston Frontenacs</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=55">Carolina Hurricanes</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/04/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=201447">Alexander Chmelevski (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=702">Ottawa 67's</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=73">San Jose Sharks</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/hurricanes/news/canes-helvig-agree-to-terms-on-entry-level-deal/c-297374486" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/hurricanes/news/canes-helvig-agree-to-terms-on-entry-level-deal/c-297374486"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339360' st_title='Transaction: Jeremy Helvig (G) From: Kingston Frontenacs To: Carolina Hurricanes' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/sharks/news/sharks-sign-forward-alexander-chmelevski/c-297616522" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/sharks/news/sharks-sign-forward-alexander-chmelevski/c-297616522"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340143' st_title='Transaction: Alexander Chmelevski (F) From: Ottawa 67's To: San Jose Sharks' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339360' st_title='Transaction: Jeremy Helvig (G) From: Kingston Frontenacs To: Carolina Hurricanes'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340143' st_title='Transaction: Alexander Chmelevski (F) From: Ottawa 67's To: San Jose Sharks'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/26/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=245294">Logan DeNoble (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=875">Peterborough Petes</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=4800">Kansas City Mavericks</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/03/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=225297">Marcus Crawford (D)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=877">Saginaw Spirit</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=97">Grand Rapids Griffins</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<a href="https://twitter.com/kc_mavericks/status/978360598546202626" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/kc_mavericks/status/978360598546202626"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339261' st_title='Transaction: Logan DeNoble (F) From: Peterborough Petes To: Kansas City Mavericks' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO + 2 years" alt="ATO + 2 years" width="16" height="16">&nbsp;<a href="https://twitter.com/griffinshockey/status/981226325838049280" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/griffinshockey/status/981226325838049280"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340082' st_title='Transaction: Marcus Crawford (D) From: Saginaw Spirit To: Grand Rapids Griffins' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339261' st_title='Transaction: Logan DeNoble (F) From: Peterborough Petes To: Kansas City Mavericks'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340082' st_title='Transaction: Marcus Crawford (D) From: Saginaw Spirit To: Grand Rapids Griffins'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/25/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=241023">Hayden Verbeek (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=620">Sault Ste. Marie Greyhounds</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=64">Montréal Canadiens</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/03/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=251448">Tye Felhaber (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=702">Ottawa 67's</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=22280">Laval Rocket</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/canadiens/news/canadiens-agree-to-terms-with-free-agent-hayden-verbeek/c-297289242?tid=282289000" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/canadiens/news/canadiens-agree-to-terms-with-free-agent-hayden-verbeek/c-297289242?tid=282289000"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339115' st_title='Transaction: Hayden Verbeek (F) From: Sault Ste. Marie Greyhounds To: Montréal Canadiens' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/RocketLaval/status/981170173573971970" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/RocketLaval/status/981170173573971970"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340071' st_title='Transaction: Tye Felhaber (F) From: Ottawa 67's To: Laval Rocket' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339115' st_title='Transaction: Hayden Verbeek (F) From: Sault Ste. Marie Greyhounds To: Montréal Canadiens'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340071' st_title='Transaction: Tye Felhaber (F) From: Ottawa 67's To: Laval Rocket'></span>
 </td>
 </tr>
 		          </table>
@@ -2551,7 +2551,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
          <span id="fontSections">PLAYER NATIONALITIES</span><br>
 <table width="100%"> <tr>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/3.png"> 389<a href="player_nationalities_in_league.php?LeagueID=OHL&startdate=2017&NationID=3"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/3.png"> 382<a href="player_nationalities_in_league.php?LeagueID=OHL&startdate=2017&NationID=3"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/1.png"> 5<a href="player_nationalities_in_league.php?LeagueID=OHL&startdate=2017&NationID=1"> players</a>  </td>
   <td width="20%">
@@ -2612,7 +2612,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=865">Barrie Colts</TD>
 <TD class="white" align=center>181.96 cm</TD>
 <TD class="white" align=center>81.91 kg</TD>
-<TD class="white" align=center>18.35 yrs</TD>
+<TD class="white" align=center>18.39 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2630,7 +2630,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=18638">Flint Firebirds</TD>
 <TD class="white" align=center>185.70 cm</TD>
 <TD class="white" align=center>85.04 kg</TD>
-<TD class="white" align=center>18.09 yrs</TD>
+<TD class="white" align=center>18.13 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2657,7 +2657,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=869">Kingston Frontenacs</TD>
 <TD class="gray" align=center>186.12 cm</TD>
 <TD class="gray" align=center>87.76 kg</TD>
-<TD class="gray" align=center>18.84 yrs</TD>
+<TD class="gray" align=center>18.88 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2666,25 +2666,25 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=870">Kitchener Rangers</TD>
 <TD class="white" align=center>184.00 cm</TD>
 <TD class="white" align=center>83.37 kg</TD>
-<TD class="white" align=center>18.52 yrs</TD>
+<TD class="white" align=center>18.56 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">8</TD>
 <TD class="gray"><a href="team.php?team=206">London Knights</TD>
-<TD class="gray" align=center>183.42 cm</TD>
-<TD class="gray" align=center>79.63 kg</TD>
-<TD class="gray" align=center>17.88 yrs</TD>
+<TD class="gray" align=center>182.78 cm</TD>
+<TD class="gray" align=center>79.30 kg</TD>
+<TD class="gray" align=center>18.04 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">9</TD>
 <TD class="white"><a href="team.php?team=12595">Mississauga Steelheads</TD>
-<TD class="white" align=center>184.92 cm</TD>
-<TD class="white" align=center>83.46 kg</TD>
-<TD class="white" align=center>18.46 yrs</TD>
+<TD class="white" align=center>184.91 cm</TD>
+<TD class="white" align=center>83.61 kg</TD>
+<TD class="white" align=center>18.52 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2693,33 +2693,33 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=2231">Niagara IceDogs</TD>
 <TD class="gray" align=center>182.13 cm</TD>
 <TD class="gray" align=center>82.25 kg</TD>
-<TD class="gray" align=center>18.46 yrs</TD>
+<TD class="gray" align=center>18.50 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">11</TD>
 <TD class="white"><a href="team.php?team=14839">North Bay Battalion</TD>
-<TD class="white" align=center>186.56 cm</TD>
-<TD class="white" align=center>83.92 kg</TD>
-<TD class="white" align=center>18.40 yrs</TD>
+<TD class="white" align=center>186.57 cm</TD>
+<TD class="white" align=center>84.39 kg</TD>
+<TD class="white" align=center>18.48 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">12</TD>
 <TD class="gray"><a href="team.php?team=873">Oshawa Generals</TD>
-<TD class="gray" align=center>186.19 cm</TD>
-<TD class="gray" align=center>85.58 kg</TD>
-<TD class="gray" align=center>18.46 yrs</TD>
+<TD class="gray" align=center>186.12 cm</TD>
+<TD class="gray" align=center>85.56 kg</TD>
+<TD class="gray" align=center>18.44 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">13</TD>
 <TD class="white"><a href="team.php?team=702">Ottawa 67's</TD>
-<TD class="white" align=center>184.30 cm</TD>
-<TD class="white" align=center>81.74 kg</TD>
+<TD class="white" align=center>184.52 cm</TD>
+<TD class="white" align=center>82.09 kg</TD>
 <TD class="white" align=center>17.96 yrs</TD>
 
 <td width=1 bgcolor=white></td>
@@ -2738,7 +2738,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=875">Peterborough Petes</TD>
 <TD class="white" align=center>183.96 cm</TD>
 <TD class="white" align=center>81.64 kg</TD>
-<TD class="white" align=center>18.20 yrs</TD>
+<TD class="white" align=center>18.24 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2747,7 +2747,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=877">Saginaw Spirit</TD>
 <TD class="gray" align=center>184.31 cm</TD>
 <TD class="gray" align=center>82.69 kg</TD>
-<TD class="gray" align=center>17.85 yrs</TD>
+<TD class="gray" align=center>17.88 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2774,16 +2774,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=551">Sudbury Wolves</TD>
 <TD class="white" align=center>184.35 cm</TD>
 <TD class="white" align=center>82.13 kg</TD>
-<TD class="white" align=center>18.04 yrs</TD>
+<TD class="white" align=center>18.09 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">20</TD>
 <TD class="gray"><a href="team.php?team=879">Windsor Spitfires</TD>
-<TD class="gray" align=center>183.32 cm</TD>
-<TD class="gray" align=center>80.20 kg</TD>
-<TD class="gray" align=center>17.84 yrs</TD>
+<TD class="gray" align=center>183.35 cm</TD>
+<TD class="gray" align=center>80.70 kg</TD>
+<TD class="gray" align=center>17.96 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr></table>
@@ -2797,8 +2797,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
          </tr>
        <tr>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=245111">Ted&nbsp;Nichol</a><font color="#666666" size="1"> (21 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=234470">Jesse&nbsp;Saban</a><font color="#666666" size="1"> (21 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=234873">Kole&nbsp;Sherwood</a><font color="#666666" size="1"> (21 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=224988">Ethan&nbsp;Szypula</a><font color="#666666" size="1"> (21 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=207915">Zach&nbsp;Shankar</a><font color="#666666" size="1"> (21 yrs)</font><br></td>
-         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=351462">Curtis&nbsp;Douglas</a><font color="#666666" size="1"> (203 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=302228">Eemeli&nbsp;Räsänen</a><font color="#666666" size="1"> (200 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=240108">Logan&nbsp;Stanley</a><font color="#666666" size="1"> (200 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=245105">Riley&nbsp;Bruce</a><font color="#666666" size="1"> (200 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=394770">Lev&nbsp;Starikov</a><font color="#666666" size="1"> (199 cm)</font><br></td>
-         <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=300595">Aidan&nbsp;Hughes</a><font color="#666666" size="1"> (112 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=249597">Keaton&nbsp;Middleton</a><font color="#666666" size="1"> (106 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=228106">Sean&nbsp;Day</a><font color="#666666" size="1"> (105 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=284087">Christopher&nbsp;Cameron</a><font color="#666666" size="1"> (105 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=240108">Logan&nbsp;Stanley</a><font color="#666666" size="1"> (103 kg)</font><br></td>
+         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=351462">Curtis&nbsp;Douglas</a><font color="#666666" size="1"> (203 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=302228">Eemeli&nbsp;RÃ¤sÃ¤nen</a><font color="#666666" size="1"> (200 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=240108">Logan&nbsp;Stanley</a><font color="#666666" size="1"> (200 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=245105">Riley&nbsp;Bruce</a><font color="#666666" size="1"> (200 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=394770">Lev&nbsp;Starikov</a><font color="#666666" size="1"> (199 cm)</font><br></td>
+         <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=300595">Aidan&nbsp;Hughes</a><font color="#666666" size="1"> (112 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=249597">Keaton&nbsp;Middleton</a><font color="#666666" size="1"> (106 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=284087">Christopher&nbsp;Cameron</a><font color="#666666" size="1"> (105 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=228106">Sean&nbsp;Day</a><font color="#666666" size="1"> (105 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=240108">Logan&nbsp;Stanley</a><font color="#666666" size="1"> (103 kg)</font><br></td>
          </tr>
           <tr>
          <td><strong>&nbsp;</strong></td>
@@ -2812,8 +2812,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
          </tr>
        <tr>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=418351">Aidan&nbsp;Prueter</a><font color="#666666" size="1"> (16 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=438091">Anthony&nbsp;Tabak</a><font color="#666666" size="1"> (16 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=452005">Brandon&nbsp;Coe</a><font color="#666666" size="1"> (16 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=418063">Igor&nbsp;Chibrikov</a><font color="#666666" size="1"> (16 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=418415">Mark&nbsp;Woolley</a><font color="#666666" size="1"> (16 yrs)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=268666">Lucas&nbsp;Chiodo</a><font color="#666666" size="1"> (168 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=418069">Mike&nbsp;Petizian</a><font color="#666666" size="1"> (169 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=201653">Joseph&nbsp;Garreffa</a><font color="#666666" size="1"> (171 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=359539">Nicholas&nbsp;Robertson</a><font color="#666666" size="1"> (171 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=348180">Aidan&nbsp;Dudas</a><font color="#666666" size="1"> (171 cm)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=299500">Marshall&nbsp;Frappier</a><font color="#666666" size="1"> (59 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=359539">Nicholas&nbsp;Robertson</a><font color="#666666" size="1"> (65 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=418488">Grayson&nbsp;Ladd</a><font color="#666666" size="1"> (66 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=387330">Mathew&nbsp;Hill</a><font color="#666666" size="1"> (66 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=336828">Jack&nbsp;Quinn</a><font color="#666666" size="1"> (66 kg)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=268666">Lucas&nbsp;Chiodo</a><font color="#666666" size="1"> (168 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=418069">Mike&nbsp;Petizian</a><font color="#666666" size="1"> (169 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=201653">Joseph&nbsp;Garreffa</a><font color="#666666" size="1"> (171 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=186409">Ryan&nbsp;Moore</a><font color="#666666" size="1"> (171 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=348180">Aidan&nbsp;Dudas</a><font color="#666666" size="1"> (171 cm)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=299500">Marshall&nbsp;Frappier</a><font color="#666666" size="1"> (59 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=359539">Nicholas&nbsp;Robertson</a><font color="#666666" size="1"> (65 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=336828">Jack&nbsp;Quinn</a><font color="#666666" size="1"> (66 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=418488">Grayson&nbsp;Ladd</a><font color="#666666" size="1"> (66 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=387330">Mathew&nbsp;Hill</a><font color="#666666" size="1"> (66 kg)</font><br></td>
          </tr>
      </table>
 
@@ -3647,5 +3647,5 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=274648097"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1996673538"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>

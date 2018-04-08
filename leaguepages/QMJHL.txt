@@ -1,16 +1,16 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
 <html>
 <head>
-<title>Elite Prospects - Québec Major Junior Hockey League (QMJHL)</title>
-<META  name="description" content="Québec Major Junior Hockey League (QMJHL) - Complete rosters, stats, standings, awards and facts from Eliteprospects.com.">
+<title>Elite Prospects - QuÃ©bec Major Junior Hockey League (QMJHL)</title>
+<META  name="description" content="QuÃ©bec Major Junior Hockey League (QMJHL) - Complete rosters, stats, standings, awards and facts from Eliteprospects.com.">
 <link href="//files.eliteprospects.com/style_main.css" rel="stylesheet" type="text/css">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta property="og:title" content="Québec Major Junior Hockey League"/>
+<meta property="og:title" content="QuÃ©bec Major Junior Hockey League"/>
 <meta property="og:type" content="sports_league"/>
 <meta property="og:image" content="http://files.eliteprospects.com/layout/leagues/qmjhl_2016-17.png"/>
 <meta property="og:url" content="http://eliteprospects.com/league_home.php?leagueid=68"/>
 <meta property="og:description"
-          content="This is the Québec Major Junior Hockey League league page at www.eliteprospects.com"/>
+          content="This is the QuÃ©bec Major Junior Hockey League league page at www.eliteprospects.com"/>
 <meta property="og:site_name" content="Elite Prospects"/>
 <meta property="fb:admins" content="715555949,627527788"/>
 <style type="text/css">
@@ -905,7 +905,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612548</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/3.gif" title="flag"> <a href="player.php?player=612548"><span style="font-size:10px;">Stacey Wilson</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>614304</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/36.gif" title="flag"> <a href="player.php?player=614304"><span style="font-size:10px;">Mikhail Guly</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -1018,7 +1018,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=229">Joakim Lindström</a> <font color="#999999">(F)</font></font></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=229">Joakim LindstrÃ¶m</a> <font color="#999999">(F)</font></font></td>
         <td align="right" class="input"><div align="center"><font size="1">46</font></div></td>
         <td align="right" class="input"><div align="center"><font size="1">16</font></div></td>
         <td align="right" class="input"><div align="center"><font size="1">34</font></div></td>
@@ -1026,7 +1026,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=13091">Pär Lindholm</a> <font color="#999999">(F)</font></font></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=13091">PÃ¤r Lindholm</a> <font color="#999999">(F)</font></font></td>
         <td align="right" class="input"><div align="center"><font size="1">49</font></div></td>
         <td align="right" class="input"><div align="center"><font size="1">18</font></div></td>
         <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
@@ -1055,7 +1055,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
     <tr>
         <td valign="top">
             <table width="286" border="0" cellpadding="1" cellspacing="0">
-<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 05</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=299">The next batch &#8211; rookies that could rule the NHL in 2019</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 03</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=298">Rasmus Dahlin shut down for the season: &#8220;I need to recover&#8221;</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 01</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=296">Prospects get their shot with the Swedish national team</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr>            </table>
             <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
         </td>
     </tr>
@@ -1298,13 +1298,13 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Costa Rica	<option value="137"
 	>
-	Côte d'Ivoire	<option value="29"
+	CÃ´te d'Ivoire	<option value="29"
 	>
 	Croatia	<option value="138"
 	>
 	Cuba	<option value="139"
 	>
-	Curaçao	<option value="140"
+	CuraÃ§ao	<option value="140"
 	>
 	Cyprus	<option value="8"
 	>
@@ -1550,7 +1550,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Qatar	<option value="220"
 	>
-	Réunion	<option value="18"
+	RÃ©union	<option value="18"
 	>
 	Romania	<option value="9"
 	>
@@ -1558,7 +1558,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Rwanda	<option value="222"
 	>
-	Saint BarthÈlemy	<option value="223"
+	Saint BarthÃˆlemy	<option value="223"
 	>
 	Saint Helena	<option value="224"
 	>
@@ -1704,7 +1704,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Zimbabwe	<option value="268"
 	>
-	Åland Islands              </select>
+	Ã…land Islands              </select>
               &nbsp;&nbsp;<input type="submit" name="filter" id="filter" value="Show stats" /></td>
           </tr>
           <tr>
@@ -1747,7 +1747,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
       
       <table width="100%" border="0" cellspacing="2" cellpadding="0">
   <tr>
-    <td><span id="fontHeader">QUÉBEC MAJOR JUNIOR HOCKEY LEAGUE</span> <img src="//files.eliteprospects.com/layout/flagsmedium/3.png" align="absmiddle"></td>
+    <td><span id="fontHeader">QUÃ‰BEC MAJOR JUNIOR HOCKEY LEAGUE</span> <img src="//files.eliteprospects.com/layout/flagsmedium/3.png" align="absmiddle"></td>
     <td>
     
             <a href="http://www.lhjmq.qc.ca" target="_blank"><img src="//files.eliteprospects.com/layout/team_homepage.png" border="0" title="Official league website"></a>&nbsp;&nbsp;</a><a href="https://www.facebook.com/qmjhl" target="_blank"><img src="//files.eliteprospects.com/layout/team_facebook.png" border="0" title="League Facebook page"></a>&nbsp;&nbsp;<a href="https://twitter.com/qmjhl" target="_blank"><img src="//files.eliteprospects.com/layout/team_twitter.png" border="0" title="League Twitter"></a>&nbsp;&nbsp;<a href="http://instagram.com/lhjmq_qmjhl_" target="_blank"><img src="//files.eliteprospects.com/layout/team_instagram.png" border="0" title="League instagram"></a>&nbsp;&nbsp;<a href="http://hfboards.hockeysfuture.com/forumdisplay.php?f=147" target="_blank"><img src="//files.eliteprospects.com/layout/team_forum.png" border="0" title="League messageboard"></a>&nbsp;&nbsp;    
@@ -1766,7 +1766,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	  
 	
               
-            <img src="//files.eliteprospects.com/layout/leagues/qmjhl_2016-17.png" alt="Québec Major Junior Hockey League">   
+            <img src="//files.eliteprospects.com/layout/leagues/qmjhl_2016-17.png" alt="QuÃ©bec Major Junior Hockey League">   
 
         
                            <br>
@@ -1801,9 +1801,9 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=881">Acadie-Bathurst Titan</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=533">Chicoutimi Saguenéens</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=533">Chicoutimi SaguenÃ©ens</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=888">Québec Remparts</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=888">QuÃ©bec Remparts</a>  </td>
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=11366">Sherbrooke Phoenix</a>  </td>
  </tr>
@@ -1813,7 +1813,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=883">Drummondville Voltigeurs</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=889">Rimouski Océanic</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=889">Rimouski OcÃ©anic</a>  </td>
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0"> <a href="team.php?team=892">Val-d'Or Foreurs</a>  </td>
  </tr>
@@ -1953,7 +1953,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">1&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=889&year0=2018">Rimouski Océanic </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=889&year0=2018">Rimouski OcÃ©anic </a></TD>
 <td align="right" bgcolor="white" class="input">68</td>
 <td align="right" bgcolor="white" class="input">42</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -1983,7 +1983,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">3&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=888&year0=2018">Québec Remparts </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=888&year0=2018">QuÃ©bec Remparts </a></TD>
 <td align="right" bgcolor="white" class="input">68</td>
 <td align="right" bgcolor="white" class="input">40</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -2013,7 +2013,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">5&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=533&year0=2018">Chicoutimi Saguenéens </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=533&year0=2018">Chicoutimi SaguenÃ©ens </a></TD>
 <td align="right" bgcolor="white" class="input">68</td>
 <td align="right" bgcolor="white" class="input">28</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -2245,7 +2245,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=227670">Alex Barré-Boulet</A><font color="#999999"> (F)</font></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=227670">Alex BarrÃ©-Boulet</A><font color="#999999"> (F)</font></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">65</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">53</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">63</td>
@@ -2318,7 +2318,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=213447">Étienne Montpetit</A></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=213447">Ã‰tienne Montpetit</A></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">17</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">1.82</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.935</strong></td>
@@ -2339,7 +2339,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=213447">Étienne Montpetit</A></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=213447">Ã‰tienne Montpetit</A></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">27</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">3.03</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.920</strong></td>
@@ -2354,8 +2354,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                             </TABLE></td>
           </tr>
           <tr>
-            <td align="left" valign="top" scope="col"><a href="league.php?leagueid=QMJHL&season=2017">see <strong>REGULAR</strong> season stats from Québec Major Junior Hockey League <img src="//files.eliteprospects.com/layout/stats_arrow.gif" alt="stats" width="8" height="8" border="0" /> </a></td>
-            <td align="left" valign="top" scope="col"><a href="postseason.php?leagueid=QMJHL&postseasonid=Playoffs&season=2017">see <strong>PLAYOFFS</strong> stats Québec Major Junior Hockey League <img src="//files.eliteprospects.com/layout/stats_arrow.gif" alt="stats" width="8" height="8" border="0" /></a></td>
+            <td align="left" valign="top" scope="col"><a href="league.php?leagueid=QMJHL&season=2017">see <strong>REGULAR</strong> season stats from QuÃ©bec Major Junior Hockey League <img src="//files.eliteprospects.com/layout/stats_arrow.gif" alt="stats" width="8" height="8" border="0" /> </a></td>
+            <td align="left" valign="top" scope="col"><a href="postseason.php?leagueid=QMJHL&postseasonid=Playoffs&season=2017">see <strong>PLAYOFFS</strong> stats QuÃ©bec Major Junior Hockey League <img src="//files.eliteprospects.com/layout/stats_arrow.gif" alt="stats" width="8" height="8" border="0" /></a></td>
           </tr>
         </table>
         <br>
@@ -2371,74 +2371,74 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
 			           
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/27/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=223483">Bailey Webster (D)</a></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=2065">Saint John Sea Dogs</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=22280">Laval Rocket</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=15059">Brampton Beast</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/RocketLaval/status/978627126348996608" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/RocketLaval/status/978627126348996608"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339342' st_title='Transaction: Bailey Webster (D) From: Saint John Sea Dogs To: Laval Rocket' st_via='ep_transfers'></span>
+<a href="https://www.echl.com/echl-transactions-april-5-2018" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.echl.com/echl-transactions-april-5-2018"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340367' st_title='Transaction: Bailey Webster (D) From: Saint John Sea Dogs To: Brampton Beast' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339342' st_title='Transaction: Bailey Webster (D) From: Saint John Sea Dogs To: Laval Rocket'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340367' st_title='Transaction: Bailey Webster (D) From: Saint John Sea Dogs To: Brampton Beast'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/27/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/28.png"> <a href="player.php?player=265944">Jan Drozg (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=891">Shawinigan Cataractes</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=106">Wilkes-Barre/Scranton Penguins</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/04/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/9.png"> <a href="player.php?player=333786">Ivan Chekhovich (F)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=882">Baie-Comeau Drakkar</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=18741">San Jose Barracuda</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="http://www.wbspenguins.com/2018/03/27/penguins-sign-alex-dorio-jan-drozg-atos/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.wbspenguins.com/2018/03/27/penguins-sign-alex-dorio-jan-drozg-atos/"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339337' st_title='Transaction: Jan Drozg (F) From: Shawinigan Cataractes To: Wilkes-Barre/Scranton Penguins' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/sjbarracuda/status/981294854255788032" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/sjbarracuda/status/981294854255788032"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340142' st_title='Transaction: Ivan Chekhovich (F) From: Baie-Comeau Drakkar To: San Jose Barracuda' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339337' st_title='Transaction: Jan Drozg (F) From: Shawinigan Cataractes To: Wilkes-Barre/Scranton Penguins'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340142' st_title='Transaction: Ivan Chekhovich (F) From: Baie-Comeau Drakkar To: San Jose Barracuda'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/21/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/03/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=254780">PhÃ©lix Martineau (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=893">Cape Breton Screaming Eagles</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=613">Fort Wayne Komets</a></td>
+<td valign="top" align="right" style="border: 1px solid #FFFFFF">
+<a href="https://twitter.com/FWKomets/status/981870333836910593" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/FWKomets/status/981870333836910593"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340128' st_title='Transaction: PhÃ©lix Martineau (F) From: Cape Breton Screaming Eagles To: Fort Wayne Komets' st_via='ep_transfers'></span>
+                
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340128' st_title='Transaction: PhÃ©lix Martineau (F) From: Cape Breton Screaming Eagles To: Fort Wayne Komets'></span>
+</td>
+</tr>
+		             
+<tr bgcolor="#F0F0F0">
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/02/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=307537">D'Artagnan Joly (F)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=882">Baie-Comeau Drakkar</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=18602">Stockton Heat</a></td>
+<td valign="top" align="right" style="border: 1px solid #F0F0F0">
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="http://stocktonheat.com/news/flames-assign-dube/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://stocktonheat.com/news/flames-assign-dube/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339974' st_title='Transaction: D'Artagnan Joly (F) From: Baie-Comeau Drakkar To: Stockton Heat' st_via='ep_transfers'></span>
+                
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339974' st_title='Transaction: D'Artagnan Joly (F) From: Baie-Comeau Drakkar To: Stockton Heat'></span>
+</td>
+</tr>
+		             
+<tr bgcolor="#FFFFFF">
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/02/2018</font></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png"> <a href="player.php?player=313721">Vasili Glotov (F)</a></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=891">Shawinigan Cataractes</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=619">Cincinnati Cyclones</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=103">Rochester Americans</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/CincyCyclones/status/976838750096494594" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/CincyCyclones/status/976838750096494594"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=338817' st_title='Transaction: Vasili Glotov (F) From: Shawinigan Cataractes To: Cincinnati Cyclones' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="ATO" alt="ATO" width="16" height="16">&nbsp;<a href="https://twitter.com/AmerksHockey/status/980872105393876992" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/AmerksHockey/status/980872105393876992"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339957' st_title='Transaction: Vasili Glotov (F) From: Shawinigan Cataractes To: Rochester Americans' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=338817' st_title='Transaction: Vasili Glotov (F) From: Shawinigan Cataractes To: Cincinnati Cyclones'></span>
-</td>
-</tr>
-		             
-<tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/06/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/8.png"> <a href="player.php?player=272770">Ostap Safin (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=2065">Saint John Sea Dogs</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=61">Edmonton Oilers</a></td>
-<td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/oilers/news/release-oilers-sign-safin/c-296672662" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/oilers/news/release-oilers-sign-safin/c-296672662"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=337721' st_title='Transaction: Ostap Safin (F) From: Saint John Sea Dogs To: Edmonton Oilers' st_via='ep_transfers'></span>
-                
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=337721' st_title='Transaction: Ostap Safin (F) From: Saint John Sea Dogs To: Edmonton Oilers'></span>
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/04/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/6.png"> <a href="player.php?player=178534">Luke Kirwan (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=882">Baie-Comeau Drakkar</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF">Unknown</td>
-<td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Personal reasons" alt="Personal reasons" width="16" height="16">&nbsp;<a href="http://www.journaldequebec.com/2018/03/03/luke-kirwan-quitte-le-drakkar" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.journaldequebec.com/2018/03/03/luke-kirwan-quitte-le-drakkar"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=337604' st_title='Transaction: Luke Kirwan (F) From: Baie-Comeau Drakkar To: Unknown' st_via='ep_transfers'></span>
-                
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=337604' st_title='Transaction: Luke Kirwan (F) From: Baie-Comeau Drakkar To: Unknown'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339957' st_title='Transaction: Vasili Glotov (F) From: Shawinigan Cataractes To: Rochester Americans'></span>
 </td>
 </tr>
 		          </table>
         <table width="100%" border="0" cellspacing="0" cellpadding="2">
           <tr>
             <td width="50%" align="left" valign="top" scope="col">&nbsp;</td>
-            <td width="50%" align="left" valign="top" scope="col"><a href="index.php?status=league&leagueid=68">more transactions from Québec Major Junior Hockey League <img src="//files.eliteprospects.com/layout/stats_arrow.gif" alt="stats" width="8" height="8" border="0" /></a></td>
+            <td width="50%" align="left" valign="top" scope="col"><a href="index.php?status=league&leagueid=68">more transactions from QuÃ©bec Major Junior Hockey League <img src="//files.eliteprospects.com/layout/stats_arrow.gif" alt="stats" width="8" height="8" border="0" /></a></td>
           </tr>
         </table>         <br>       
 <table width="100%" border="0" cellspacing="0" cellpadding="2">
@@ -2450,8 +2450,12 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                   <td align="left" class="tdbackground"><span id="fontSectionsGeneral">PLAYER</span></td>
                 </tr>
                                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">Québec Remparts</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">QuÃ©bec Remparts</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=213477">Matthew Boucher</A> <font color="#999999"> (F)</font></td>
+                </tr>
+                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">Saint John Sea Dogs</td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=223483">Bailey Webster</A> <font color="#999999"> (D)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">Val-d'Or Foreurs</td>
@@ -2464,10 +2468,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">Sherbrooke Phoenix</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=213755">Nicolas Poulin</A> <font color="#999999"> (F)</font></td>
-                </tr>
-                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">Shawinigan Cataractes</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=252461">Gabriel Sylvestre</A> <font color="#999999"> (D)</font></td>
                 </tr>
             </TABLE></td>
             <td align="left" valign="top" scope="col"><span id="fontSections">2019/20 FREE AGENTS</span><br>
@@ -2506,7 +2506,7 @@ Out for the rest of the season</td>
          <span id="fontSections">PLAYER NATIONALITIES</span><br>
 <table width="100%"> <tr>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/3.png"> 401<a href="player_nationalities_in_league.php?LeagueID=QMJHL&startdate=2017&NationID=3"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/3.png"> 388<a href="player_nationalities_in_league.php?LeagueID=QMJHL&startdate=2017&NationID=3"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/6.png"> 16<a href="player_nationalities_in_league.php?LeagueID=QMJHL&startdate=2017&NationID=6"> players</a>  </td>
   <td width="20%">
@@ -2555,16 +2555,16 @@ Out for the rest of the season</td>
 <TD class="white"><a href="team.php?team=881">Acadie-Bathurst Titan</TD>
 <TD class="white" align=center>183.65 cm</TD>
 <TD class="white" align=center>83.65 kg</TD>
-<TD class="white" align=center>18.92 yrs</TD>
+<TD class="white" align=center>18.96 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">2</TD>
 <TD class="gray"><a href="team.php?team=882">Baie-Comeau Drakkar</TD>
-<TD class="gray" align=center>181.24 cm</TD>
-<TD class="gray" align=center>81.64 kg</TD>
-<TD class="gray" align=center>18.20 yrs</TD>
+<TD class="gray" align=center>181.29 cm</TD>
+<TD class="gray" align=center>81.42 kg</TD>
+<TD class="gray" align=center>18.33 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2582,7 +2582,7 @@ Out for the rest of the season</td>
 <TD class="gray"><a href="team.php?team=893">Cape Breton Screaming Eagles</TD>
 <TD class="gray" align=center>181.52 cm</TD>
 <TD class="gray" align=center>83.00 kg</TD>
-<TD class="gray" align=center>18.13 yrs</TD>
+<TD class="gray" align=center>18.17 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2597,10 +2597,10 @@ Out for the rest of the season</td>
  </tr>
 <TR>
 <TD class="gray">6</TD>
-<TD class="gray"><a href="team.php?team=533">Chicoutimi Saguenéens</TD>
-<TD class="gray" align=center>179.54 cm</TD>
-<TD class="gray" align=center>77.25 kg</TD>
-<TD class="gray" align=center>18.39 yrs</TD>
+<TD class="gray"><a href="team.php?team=533">Chicoutimi SaguenÃ©ens</TD>
+<TD class="gray" align=center>179.58 cm</TD>
+<TD class="gray" align=center>77.69 kg</TD>
+<TD class="gray" align=center>18.46 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2616,9 +2616,9 @@ Out for the rest of the season</td>
 <TR>
 <TD class="gray">8</TD>
 <TD class="gray"><a href="team.php?team=1748">Gatineau Olympiques</TD>
-<TD class="gray" align=center>183.12 cm</TD>
-<TD class="gray" align=center>79.00 kg</TD>
-<TD class="gray" align=center>18.44 yrs</TD>
+<TD class="gray" align=center>183.48 cm</TD>
+<TD class="gray" align=center>79.26 kg</TD>
+<TD class="gray" align=center>18.48 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2642,28 +2642,28 @@ Out for the rest of the season</td>
  </tr>
 <TR>
 <TD class="white">11</TD>
-<TD class="white"><a href="team.php?team=888">Québec Remparts</TD>
-<TD class="white" align=center>183.08 cm</TD>
-<TD class="white" align=center>81.25 kg</TD>
-<TD class="white" align=center>18.50 yrs</TD>
+<TD class="white"><a href="team.php?team=888">QuÃ©bec Remparts</TD>
+<TD class="white" align=center>182.48 cm</TD>
+<TD class="white" align=center>80.65 kg</TD>
+<TD class="white" align=center>18.61 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">12</TD>
-<TD class="gray"><a href="team.php?team=889">Rimouski Océanic</TD>
-<TD class="gray" align=center>182.43 cm</TD>
-<TD class="gray" align=center>79.04 kg</TD>
-<TD class="gray" align=center>18.04 yrs</TD>
+<TD class="gray"><a href="team.php?team=889">Rimouski OcÃ©anic</TD>
+<TD class="gray" align=center>182.58 cm</TD>
+<TD class="gray" align=center>79.46 kg</TD>
+<TD class="gray" align=center>18.15 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">13</TD>
 <TD class="white"><a href="team.php?team=890">Rouyn-Noranda Huskies</TD>
-<TD class="white" align=center>179.07 cm</TD>
-<TD class="white" align=center>77.93 kg</TD>
-<TD class="white" align=center>18.17 yrs</TD>
+<TD class="white" align=center>179.40 cm</TD>
+<TD class="white" align=center>78.64 kg</TD>
+<TD class="white" align=center>18.44 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2672,7 +2672,7 @@ Out for the rest of the season</td>
 <TD class="gray"><a href="team.php?team=2065">Saint John Sea Dogs</TD>
 <TD class="gray" align=center>184.56 cm</TD>
 <TD class="gray" align=center>83.11 kg</TD>
-<TD class="gray" align=center>18.33 yrs</TD>
+<TD class="gray" align=center>18.41 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2681,7 +2681,7 @@ Out for the rest of the season</td>
 <TD class="white"><a href="team.php?team=891">Shawinigan Cataractes</TD>
 <TD class="white" align=center>180.46 cm</TD>
 <TD class="white" align=center>79.00 kg</TD>
-<TD class="white" align=center>18.04 yrs</TD>
+<TD class="white" align=center>18.08 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2699,7 +2699,7 @@ Out for the rest of the season</td>
 <TD class="white"><a href="team.php?team=892">Val-d'Or Foreurs</TD>
 <TD class="white" align=center>182.26 cm</TD>
 <TD class="white" align=center>80.78 kg</TD>
-<TD class="white" align=center>18.04 yrs</TD>
+<TD class="white" align=center>18.17 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2722,7 +2722,7 @@ Out for the rest of the season</td>
          </tr>
        <tr>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=213705">Mathieu&nbsp;Nadeau</a><font color="#666666" size="1"> (21 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=193822">Chase&nbsp;Harwell</a><font color="#666666" size="1"> (21 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=239032">Stephen&nbsp;Templeton</a><font color="#666666" size="1"> (21 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=213441">Jeffrey&nbsp;Truchon-Viel</a><font color="#666666" size="1"> (21 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=213820">Tobie&nbsp;Paquette-Bisson</a><font color="#666666" size="1"> (21 yrs)</font><br></td>
-         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=252460">Andrew&nbsp;Smith</a><font color="#666666" size="1"> (200 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=267106">Oliver&nbsp;Troop</a><font color="#666666" size="1"> (197 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=275589">Shawn&nbsp;Boudrias</a><font color="#666666" size="1"> (195 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/8.png" title="flag"> <a href="player.php?player=272770">Ostap&nbsp;Safin</a><font color="#666666" size="1"> (195 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=284904">Déreck&nbsp;Baribeau</a><font color="#666666" size="1"> (195 cm)</font><br></td>
+         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=252460">Andrew&nbsp;Smith</a><font color="#666666" size="1"> (200 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=275589">Shawn&nbsp;Boudrias</a><font color="#666666" size="1"> (195 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=254627">Tyler&nbsp;Higgins</a><font color="#666666" size="1"> (195 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/8.png" title="flag"> <a href="player.php?player=272770">Ostap&nbsp;Safin</a><font color="#666666" size="1"> (195 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=284904">DÃ©reck&nbsp;Baribeau</a><font color="#666666" size="1"> (195 cm)</font><br></td>
          <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=200997">Chase&nbsp;Stewart</a><font color="#666666" size="1"> (102 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=354282">Tommy&nbsp;Beaudoin</a><font color="#666666" size="1"> (102 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=375742">Yegor&nbsp;Sokolov</a><font color="#666666" size="1"> (101 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=254627">Tyler&nbsp;Higgins</a><font color="#666666" size="1"> (100 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312553">Maxim&nbsp;Mizyurin</a><font color="#666666" size="1"> (100 kg)</font><br></td>
          </tr>
           <tr>
@@ -2736,9 +2736,9 @@ Out for the rest of the season</td>
          <td class="tdbackground"><span id="fontSectionsGeneral">LIGHTEST</span></td>
          </tr>
        <tr>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=305092">Ryan&nbsp;Francis</a><font color="#666666" size="1"> (16 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=320283">Jérémie&nbsp;Hébert</a><font color="#666666" size="1"> (16 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=294613">Justin&nbsp;Barron</a><font color="#666666" size="1"> (16 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=320305">Dawson&nbsp;Mercer</a><font color="#666666" size="1"> (16 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=296697">Alexis&nbsp;Lafrenière</a><font color="#666666" size="1"> (16 yrs)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=353977">Nicolas&nbsp;Ouellet</a><font color="#666666" size="1"> (166 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=376443">Xavier&nbsp;Simoneau</a><font color="#666666" size="1"> (167 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=320283">Jérémie&nbsp;Hébert</a><font color="#666666" size="1"> (168 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=296341">Samuel&nbsp;Desgroseilliers</a><font color="#666666" size="1"> (168 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=353835">Derek&nbsp;Dicaire</a><font color="#666666" size="1"> (170 cm)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=473464">Charles-Antoine&nbsp;Roy</a><font color="#666666" size="1"> (54 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=266569">Jarrett&nbsp;Baker</a><font color="#666666" size="1"> (55 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=327634">William&nbsp;Cyr</a><font color="#666666" size="1"> (59 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=414619">Charles&nbsp;Tremblay</a><font color="#666666" size="1"> (62 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=353977">Nicolas&nbsp;Ouellet</a><font color="#666666" size="1"> (62 kg)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=305092">Ryan&nbsp;Francis</a><font color="#666666" size="1"> (16 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=320283">JÃ©rÃ©mie&nbsp;HÃ©bert</a><font color="#666666" size="1"> (16 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=294613">Justin&nbsp;Barron</a><font color="#666666" size="1"> (16 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=320305">Dawson&nbsp;Mercer</a><font color="#666666" size="1"> (16 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=296697">Alexis&nbsp;LafreniÃ¨re</a><font color="#666666" size="1"> (16 yrs)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=353977">Nicolas&nbsp;Ouellet</a><font color="#666666" size="1"> (166 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=376443">Xavier&nbsp;Simoneau</a><font color="#666666" size="1"> (167 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=320283">JÃ©rÃ©mie&nbsp;HÃ©bert</a><font color="#666666" size="1"> (168 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=296341">Samuel&nbsp;Desgroseilliers</a><font color="#666666" size="1"> (168 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=353835">Derek&nbsp;Dicaire</a><font color="#666666" size="1"> (170 cm)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=473464">Charles-Antoine&nbsp;Roy</a><font color="#666666" size="1"> (54 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=266569">Jarrett&nbsp;Baker</a><font color="#666666" size="1"> (55 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=327634">William&nbsp;Cyr</a><font color="#666666" size="1"> (59 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=353977">Nicolas&nbsp;Ouellet</a><font color="#666666" size="1"> (62 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/3.png" title="flag"> <a href="player.php?player=414619">Charles&nbsp;Tremblay</a><font color="#666666" size="1"> (62 kg)</font><br></td>
          </tr>
      </table>
 
@@ -2764,14 +2764,14 @@ Out for the rest of the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>595</strong></td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">Stéphan Lebeau</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">StÃ©phan Lebeau</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">270</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">281</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">299</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>580</strong></td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=39887">Patrick Émond</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=39887">Patrick Ã‰mond</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">340</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">229</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">347</td>
@@ -2810,7 +2810,7 @@ Out for the rest of the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">532</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">Stéphan Lebeau</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=19323">StÃ©phan Lebeau</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">270</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>281</strong></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">299</td>
@@ -2859,7 +2859,7 @@ Out for the rest of the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">595</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=39887">Patrick Émond</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=39887">Patrick Ã‰mond</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">340</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">229</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>347</strong></td>
@@ -2950,7 +2950,7 @@ Out for the rest of the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=65116">Éric Bétournay</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=65116">Ã‰ric BÃ©tournay</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>352</strong></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">91</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">185</td>
@@ -2958,7 +2958,7 @@ Out for the rest of the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=183129">Sébastien Laprise</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=183129">SÃ©bastien Laprise</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>347</strong></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">106</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">149</td>
@@ -2966,7 +2966,7 @@ Out for the rest of the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=33123">Pierre-André Bureau</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=33123">Pierre-AndrÃ© Bureau</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>346</strong></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">87</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">152</td>
@@ -2982,7 +2982,7 @@ Out for the rest of the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=282730">Jérôme Tremblay</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=282730">JÃ©rÃ´me Tremblay</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>344</strong></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">136</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">278</td>
@@ -3092,7 +3092,7 @@ Out for the rest of the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">10</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=94283">Michel Déziel</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=94283">Michel DÃ©ziel</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1973 - 1974</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">QMJHL</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">69</td>
@@ -3102,7 +3102,7 @@ Out for the rest of the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">69</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=54224">Réal Cloutier</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=54224">RÃ©al Cloutier</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1973 - 1974</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">QMJHL</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">69</td>
@@ -3227,7 +3227,7 @@ Out for the rest of the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">142</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=94283">Michel Déziel</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=94283">Michel DÃ©ziel</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1973 - 1974</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">QMJHL</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">69</td>
@@ -3262,7 +3262,7 @@ Out for the rest of the season</td>
           </tr>
           <tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=28376">Marc-André Roy</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=28376">Marc-AndrÃ© Roy</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2002 - 2003</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">QMJHL</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">68</td>
@@ -3318,7 +3318,7 @@ Out for the rest of the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=2016">2017</a></strong> <a href="team.php?year0=2017&team=2065">Saint John Sea Dogs</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=2004">2005</a></strong> <a href="team.php?year0=2005&team=889">Rimouski Océanic</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=2004">2005</a></strong> <a href="team.php?year0=2005&team=889">Rimouski OcÃ©anic</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1992">1993</a></strong> <a href="team.php?year0=1993&team=754">Laval Titan</a>  </td>
   <td width="25%">
@@ -3336,13 +3336,13 @@ Out for the rest of the season</td>
  </tr>
  <tr>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=2014">2015</a></strong> <a href="team.php?year0=2015&team=889">Rimouski Océanic</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=2014">2015</a></strong> <a href="team.php?year0=2015&team=889">Rimouski OcÃ©anic</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=2002">2003</a></strong> <a href="team.php?year0=2003&team=1748">Hull Olympiques</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1990">1991</a></strong> <a href="team.php?year0=1991&team=533">Chicoutimi Saguenéens</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1990">1991</a></strong> <a href="team.php?year0=1991&team=533">Chicoutimi SaguenÃ©ens</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1978">1979</a></strong> <a href="team.php?year0=1979&team=534">Trois-Rivières Draveurs</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1978">1979</a></strong> <a href="team.php?year0=1979&team=534">Trois-RiviÃ¨res Draveurs</a>  </td>
  </tr>
  <tr>
   <td width="25%">
@@ -3352,7 +3352,7 @@ Out for the rest of the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1989">1990</a></strong> <a href="team.php?year0=1990&team=754">Laval Titan</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1977">1978</a></strong> <a href="team.php?year0=1978&team=534">Trois-Rivières Draveurs</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1977">1978</a></strong> <a href="team.php?year0=1978&team=534">Trois-RiviÃ¨res Draveurs</a>  </td>
  </tr>
  <tr>
   <td width="25%">
@@ -3368,11 +3368,11 @@ Out for the rest of the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=2011">2012</a></strong> <a href="team.php?year0=2012&team=2065">Saint John Sea Dogs</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1999">2000</a></strong> <a href="team.php?year0=2000&team=889">Rimouski Océanic</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1999">2000</a></strong> <a href="team.php?year0=2000&team=889">Rimouski OcÃ©anic</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1987">1988</a></strong> <a href="team.php?year0=1988&team=1748">Hull Olympiques</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1975">1976</a></strong> <a href="team.php?year0=1976&team=13664">Québec Remparts</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1975">1976</a></strong> <a href="team.php?year0=1976&team=13664">QuÃ©bec Remparts</a>  </td>
  </tr>
  <tr>
   <td width="25%">
@@ -3392,7 +3392,7 @@ Out for the rest of the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1985">1986</a></strong> <a href="team.php?year0=1986&team=1748">Hull Olympiques</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1973">1974</a></strong> <a href="team.php?year0=1974&team=13664">Québec Remparts</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1973">1974</a></strong> <a href="team.php?year0=1974&team=13664">QuÃ©bec Remparts</a>  </td>
  </tr>
  <tr>
   <td width="25%">
@@ -3402,13 +3402,13 @@ Out for the rest of the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1984">1985</a></strong> <a href="team.php?year0=1985&team=3376">Verdun Jr. Canadiens</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1972">1973</a></strong> <a href="team.php?year0=1973&team=13664">Québec Remparts</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1972">1973</a></strong> <a href="team.php?year0=1973&team=13664">QuÃ©bec Remparts</a>  </td>
  </tr>
  <tr>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=2007">2008</a></strong> <a href="team.php?year0=2008&team=1748">Gatineau Olympiques</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1995">1996</a></strong> <a href="team.php?year0=1996&team=1249">Granby Prédateurs</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1995">1996</a></strong> <a href="team.php?year0=1996&team=1249">Granby PrÃ©dateurs</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1983">1984</a></strong> <a href="team.php?year0=1984&team=754">Laval Voisins</a>  </td>
   <td width="25%">
@@ -3422,17 +3422,17 @@ Out for the rest of the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1982">1983</a></strong> <a href="team.php?year0=1983&team=2238">Verdun Juniors</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1970">1971</a></strong> <a href="team.php?year0=1971&team=13664">Québec Remparts</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1970">1971</a></strong> <a href="team.php?year0=1971&team=13664">QuÃ©bec Remparts</a>  </td>
  </tr>
  <tr>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=2005">2006</a></strong> <a href="team.php?year0=2006&team=887">Moncton Wildcats</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1993">1994</a></strong> <a href="team.php?year0=1994&team=533">Chicoutimi Saguenéens</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1993">1994</a></strong> <a href="team.php?year0=1994&team=533">Chicoutimi SaguenÃ©ens</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=QMJHL&startdate=1981">1982</a></strong> <a href="team.php?year0=1982&team=912">Sherbrooke Castors</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=QMJHL&startdate=1969">1970</a></strong> <a href="team.php?year0=1970&team=13664">Québec Remparts</a>  </td>
+ <strong><a href="standings.php?league=QMJHL&startdate=1969">1970</a></strong> <a href="team.php?year0=1970&team=13664">QuÃ©bec Remparts</a>  </td>
  </tr>
 </table> <font color="#666666" size="1">(regular season champions are listed if there are no playoffs held)</font><br>
  <br>
@@ -3478,7 +3478,7 @@ Out for the rest of the season</td>
   <td width="50%">
 <a href="awards.php?award=QMJHL Best SVS%">QMJHL Best SVS%</a>  </td>
   <td width="50%">
-<a href="awards.php?award=QMJHL Most Valuable Player (Michel Brière Trophy)">QMJHL Most Valuable Player (Michel Brière Trophy)</a>  </td>
+<a href="awards.php?award=QMJHL Most Valuable Player (Michel BriÃ¨re Trophy)">QMJHL Most Valuable Player (Michel BriÃ¨re Trophy)</a>  </td>
  </tr>
  <tr>
   <td width="50%">
@@ -3494,7 +3494,7 @@ Out for the rest of the season</td>
  </tr>
  <tr>
   <td width="50%">
-<a href="awards.php?award=QMJHL Defensive Rookie of the Year (Raymond Lagacé Trophy)">QMJHL Defensive Rookie of the Year (Raymond Lagacé Trophy)</a>  </td>
+<a href="awards.php?award=QMJHL Defensive Rookie of the Year (Raymond LagacÃ© Trophy)">QMJHL Defensive Rookie of the Year (Raymond LagacÃ© Trophy)</a>  </td>
   <td width="50%">
 <a href="awards.php?award=QMJHL Playoffs Most Assists">QMJHL Playoffs Most Assists</a>  </td>
  </tr>
@@ -3574,5 +3574,5 @@ Out for the rest of the season</td>
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1279357565"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1104171064"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>

@@ -905,7 +905,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612548</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/3.gif" title="flag"> <a href="player.php?player=612548"><span style="font-size:10px;">Stacey Wilson</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>614304</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/36.gif" title="flag"> <a href="player.php?player=614304"><span style="font-size:10px;">Mikhail Guly</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -999,50 +999,50 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
         <td align="right" bgcolor="#FFFFFF"><strong>A</strong></td>
         <td align="right" bgcolor="#FFFFFF"><strong>TP</strong></td>
       </tr>
-      Czech
+      NCAA
       <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">1.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=22577">Milan Gulas</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">48</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/6.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=203361">Adam Gaudette</a> <font color="#999999">(F)</font></font></td>
         <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>61</strong></font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>60</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">2.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=22578">Tomas Mertl</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">50</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">30</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">27</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>57</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=206777">Max Veronneau</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">36</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">17</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>55</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=23860">Martin Ruzicka</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">49</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">25</font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=146580">Dylan Sikura</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">35</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">22</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">32</font></div></td>
         <td align="right" class="input"><div align="center"><font size="1"><strong>54</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/11.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=11842">Roberts Bukarts</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">50</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">21</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">28</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>49</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=247422">Ryan Kuffner</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">36</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">5.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/8.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=8611">Martin Erat</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">49</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">12</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">34</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>46</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=118332">Henrik BorgstrÃ¶m</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">40</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">23</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
       </tr>
           </table>
       <font size="1">
-                <a href="league.php?leagueid=Czech
+                <a href="league.php?leagueid=NCAA
 &amp;season=2017"><span id="fontSmallLink" style="float:right">SHOW MORE</span>  &nbsp;</a>
               </font> &nbsp;<br /></td>
   </tr>
@@ -1055,7 +1055,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
     <tr>
         <td valign="top">
             <table width="286" border="0" cellpadding="1" cellspacing="0">
-<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 05</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=299">The next batch &#8211; rookies that could rule the NHL in 2019</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 03</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=298">Rasmus Dahlin shut down for the season: &#8220;I need to recover&#8221;</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 01</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=296">Prospects get their shot with the Swedish national team</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr>            </table>
             <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
         </td>
     </tr>
@@ -1298,13 +1298,13 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Costa Rica	<option value="137"
 	>
-	Côte d'Ivoire	<option value="29"
+	CÃ´te d'Ivoire	<option value="29"
 	>
 	Croatia	<option value="138"
 	>
 	Cuba	<option value="139"
 	>
-	Curaçao	<option value="140"
+	CuraÃ§ao	<option value="140"
 	>
 	Cyprus	<option value="8"
 	>
@@ -1550,7 +1550,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Qatar	<option value="220"
 	>
-	Réunion	<option value="18"
+	RÃ©union	<option value="18"
 	>
 	Romania	<option value="9"
 	>
@@ -1558,7 +1558,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Rwanda	<option value="222"
 	>
-	Saint BarthÈlemy	<option value="223"
+	Saint BarthÃˆlemy	<option value="223"
 	>
 	Saint Helena	<option value="224"
 	>
@@ -1704,7 +1704,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Zimbabwe	<option value="268"
 	>
-	Åland Islands              </select>
+	Ã…land Islands              </select>
               &nbsp;&nbsp;<input type="submit" name="filter" id="filter" value="Show stats" /></td>
           </tr>
           <tr>
@@ -1801,9 +1801,9 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=1">AIK</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=15">IF Björklöven</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=15">IF BjÃ¶rklÃ¶ven</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=28">Leksands IF</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=509">Karlskrona HK</a>  </td>
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=33">Tingsryds AIF</a>  </td>
  </tr>
@@ -1813,9 +1813,9 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=35">IF Troja-Ljungby</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=9">MODO Hockey</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=28">Leksands IF</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=500">Västerviks IK</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=500">VÃ¤sterviks IK</a>  </td>
  </tr>
  <tr>
   <td width="25%">
@@ -1823,17 +1823,17 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=31">IK Oskarshamn</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=10">Södertälje SK</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=9">MODO Hockey</a>  </td>
   <td width="25%">
   </td>
  </tr>
  <tr>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=322">HC Vita Hästen</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=322">HC Vita HÃ¤sten</a>  </td>
   <td width="25%">
 <img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=337">IK Pantern</a>  </td>
   <td width="25%">
-<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=11">Timrå IK</a>  </td>
+<img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0"> <a href="team.php?team=10">SÃ¶dertÃ¤lje SK</a>  </td>
   <td width="25%">
   </td>
  </tr>
@@ -1927,7 +1927,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 
 <tr bgcolor="white">
   <td align="right" class="input"><strong>Champion</strong>&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=11&year0=2018">Timrå IK </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=11&year0=2018">TimrÃ¥ IK </a></TD>
 <td align="right" bgcolor="white" class="input">52</td>
 <td align="right" bgcolor="white" class="input">26</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -1938,7 +1938,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">99</td>
 <td align="right" bgcolor="white" class="input">35</td>
 <td align="right" bgcolor="white" class="input"><strong>99</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="vs Karlskrona"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;<strong>Promoted</strong> &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Win against Karlskrona 4-3 in games"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">2&nbsp;&nbsp;</td>
@@ -1953,7 +1953,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">114</td>
 <td align="right" bgcolor="white" class="input">33</td>
 <td align="right" bgcolor="white" class="input"><strong>91</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Loss against Timrå and win against Oskarshamn in playoff"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Loss against TimrÃ¥ and win against Oskarshamn in playoff. And loss against Mora"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">3&nbsp;&nbsp;</td>
@@ -1968,7 +1968,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">128</td>
 <td align="right" bgcolor="white" class="input">21</td>
 <td align="right" bgcolor="white" class="input"><strong>85</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make förkvalet"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make fÃ¶rkvalet"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">4&nbsp;&nbsp;</td>
@@ -1983,11 +1983,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">143</td>
 <td align="right" bgcolor="white" class="input">-8</td>
 <td align="right" bgcolor="white" class="input"><strong>82</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make förkvalet"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make fÃ¶rkvalet"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">5&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=15&year0=2018">IF Björklöven </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=15&year0=2018">IF BjÃ¶rklÃ¶ven </a></TD>
 <td align="right" bgcolor="white" class="input">52</td>
 <td align="right" bgcolor="white" class="input">20</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -1998,7 +1998,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">133</td>
 <td align="right" bgcolor="white" class="input">3</td>
 <td align="right" bgcolor="white" class="input"><strong>80</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make förkvalet"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make fÃ¶rkvalet"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">6&nbsp;&nbsp;</td>
@@ -2013,7 +2013,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">140</td>
 <td align="right" bgcolor="white" class="input">-2</td>
 <td align="right" bgcolor="white" class="input"><strong>79</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make förkvalet"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make fÃ¶rkvalet"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">7&nbsp;&nbsp;</td>
@@ -2032,7 +2032,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">8&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=10&year0=2018">Södertälje SK </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=10&year0=2018">SÃ¶dertÃ¤lje SK </a></TD>
 <td align="right" bgcolor="white" class="input">52</td>
 <td align="right" bgcolor="white" class="input">19</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -2043,11 +2043,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td align="right" bgcolor="white" class="input">141</td>
 <td align="right" bgcolor="white" class="input">-11</td>
 <td align="right" bgcolor="white" class="input"><strong>75</strong></td>
-<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make förkvalet"></td>
+<td align="left" bgcolor="white" class="input">&nbsp;&nbsp;&nbsp;Promotion Play &nbsp;<img src="//files.eliteprospects.com/layout/info_icon.gif" title="Did not make fÃ¶rkvalet"></td>
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">9&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=322&year0=2018">HC Vita Hästen </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=322&year0=2018">HC Vita HÃ¤sten </a></TD>
 <td align="right" bgcolor="white" class="input">52</td>
 <td align="right" bgcolor="white" class="input">18</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -2107,7 +2107,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </tr>
 <tr bgcolor="white">
   <td align="right" class="input">13&nbsp;&nbsp;</td>
-<td align="left" bgcolor="white" class="input"><a href="team.php?team=500&year0=2018">Västerviks IK </a></TD>
+<td align="left" bgcolor="white" class="input"><a href="team.php?team=500&year0=2018">VÃ¤sterviks IK </a></TD>
 <td align="right" bgcolor="white" class="input">52</td>
 <td align="right" bgcolor="white" class="input">19</td>
 <td align="right" bgcolor="white" class="input">-</td>
@@ -2162,7 +2162,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=212368">Jonathan Dahlén</A><font color="#999999"> (F)</font></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=212368">Jonathan DahlÃ©n</A><font color="#999999"> (F)</font></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">44</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">23</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">21</td>
@@ -2171,7 +2171,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=14654">Éric Castonguay</A><font color="#999999"> (F)</font></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" />&nbsp;<a href="player.php?player=14654">Ã‰ric Castonguay</A><font color="#999999"> (F)</font></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">52</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">20</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">24</td>
@@ -2222,14 +2222,14 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/7.png" border="0" />&nbsp;<a href="player.php?player=68185">George Sørensen</A></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/7.png" border="0" />&nbsp;<a href="player.php?player=68185">George SÃ¸rensen</A></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">43</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">2.47</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.921</strong></td>
                 </tr>
                                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=3455">Pontus Sjögren</A></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=3455">Pontus SjÃ¶gren</A></td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">40</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input">2.29</td>
                   <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>.920</strong></td>
@@ -2261,67 +2261,67 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
 			           
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/29/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/1.png"> <a href="player.php?player=2635">Linus Morin (D)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=31">IK Oskarshamn</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF">Unknown</td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/7.png"> <a href="player.php?player=211283">Oliver Joakim Larsen (D)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=460">Leksands IF J20</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=337">IK Pantern</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<a href="http://www.ikoskarshamn.se/artikel/iverajfce-2egc1/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.ikoskarshamn.se/artikel/iverajfce-2egc1/"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339540' st_title='Transaction: Linus Morin (D) From: IK Oskarshamn To: Unknown' st_via='ep_transfers'></span>
+<a href="http://www.panternhockey.se/artikel/pg6aajfo3-3d8md/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.panternhockey.se/artikel/pg6aajfo3-3d8md/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340472' st_title='Transaction: Oliver Joakim Larsen (D) From: Leksands IF J20 To: IK Pantern' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339540' st_title='Transaction: Linus Morin (D) From: IK Oskarshamn To: Unknown'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340472' st_title='Transaction: Oliver Joakim Larsen (D) From: Leksands IF J20 To: IK Pantern'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/29/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/4.png"> <a href="player.php?player=274991">Martin Fehérváry (D)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=31">IK Oskarshamn</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=5">HV71</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/21.png"> <a href="player.php?player=9275">Marcel MÃ¼ller (F)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=28">Leksands IF</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=128">KÃ¶lner Haie</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<a href="http://www.hv71.se/artikel/en84ajfc8-3iaijd/martin-fehervary-blir-sasongens-forsta-nyforvarv" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.hv71.se/artikel/en84ajfc8-3iaijd/martin-fehervary-blir-sasongens-forsta-nyforvarv"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339509' st_title='Transaction: Martin Fehérváry (D) From: IK Oskarshamn To: HV71' st_via='ep_transfers'></span>
+<a href="http://www.haie.de/news/malla-kehrt-nach-koeln-zurueck" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.haie.de/news/malla-kehrt-nach-koeln-zurueck"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340429' st_title='Transaction: Marcel MÃ¼ller (F) From: Leksands IF To: KÃ¶lner Haie' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339509' st_title='Transaction: Martin Fehérváry (D) From: IK Oskarshamn To: HV71'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340429' st_title='Transaction: Marcel MÃ¼ller (F) From: Leksands IF To: KÃ¶lner Haie'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/28/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/1.png"> <a href="player.php?player=32070">Erik Nyström (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/1.png"> <a href="player.php?player=19832">Marcus Oskarsson (D)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=9">MODO Hockey</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=10">SÃ¶dertÃ¤lje SK</a></td>
+<td valign="top" align="right" style="border: 1px solid #FFFFFF">
+<a href="http://www.sodertaljesk.se/artikel/a529ajfnu-41461/ssk-varvar-back-fran-modo-marcus-oskarsson-klar-for-tva-sasonger" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.sodertaljesk.se/artikel/a529ajfnu-41461/ssk-varvar-back-fran-modo-marcus-oskarsson-klar-for-tva-sasonger"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340415' st_title='Transaction: Marcus Oskarsson (D) From: MODO Hockey To: SÃ¶dertÃ¤lje SK' st_via='ep_transfers'></span>
+                
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340415' st_title='Transaction: Marcus Oskarsson (D) From: MODO Hockey To: SÃ¶dertÃ¤lje SK'></span>
+</td>
+</tr>
+		             
+<tr bgcolor="#F0F0F0">
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/05/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/1.png"> <a href="player.php?player=185504">Alexander Leandersson (D)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=4">FÃ¤rjestad BK</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=25">BIK Karlskoga</a></td>
+<td valign="top" align="right" style="border: 1px solid #F0F0F0">
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Try-out" alt="Try-out" width="16" height="16">&nbsp;<a href="http://www.bikkarlskoga.se/artikel/7kagajfmb-1eki1/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.bikkarlskoga.se/artikel/7kagajfmb-1eki1/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340352' st_title='Transaction: Alexander Leandersson (D) From: FÃ¤rjestad BK To: BIK Karlskoga' st_via='ep_transfers'></span>
+                
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340352' st_title='Transaction: Alexander Leandersson (D) From: FÃ¤rjestad BK To: BIK Karlskoga'></span>
+</td>
+</tr>
+		             
+<tr bgcolor="#FFFFFF">
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/05/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/7.png"> <a href="player.php?player=220307">Mathias From (F)</a></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=1">AIK</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF">Unknown</td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=825">Rockford IceHogs</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<a href="https://www.aikhockey.se/artikel/ytpmajfb1-1bbi1/aik-hockey-forlanger-med-simon-fernholm" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.aikhockey.se/artikel/ytpmajfb1-1bbi1/aik-hockey-forlanger-med-simon-fernholm"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339451' st_title='Transaction: Erik Nyström (F) From: AIK To: Unknown' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="PTO" alt="PTO" width="16" height="16">&nbsp;<a href="https://twitter.com/goicehogs/status/981947183321755649" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/goicehogs/status/981947183321755649"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340349' st_title='Transaction: Mathias From (F) From: AIK To: Rockford IceHogs' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339451' st_title='Transaction: Erik Nyström (F) From: AIK To: Unknown'></span>
-</td>
-</tr>
-		             
-<tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/28/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=21214">Roope Talaja (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=15">IF Björklöven</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=423">Sport</a></td>
-<td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<a href="https://vaasansport.fi/fi-fi/article/uutinen/talaja-ja-foster-vahvistavat-sportin-hyokkaysta/4487/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://vaasansport.fi/fi-fi/article/uutinen/talaja-ja-foster-vahvistavat-sportin-hyokkaysta/4487/"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339428' st_title='Transaction: Roope Talaja (F) From: IF Björklöven To: Sport' st_via='ep_transfers'></span>
-                
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339428' st_title='Transaction: Roope Talaja (F) From: IF Björklöven To: Sport'></span>
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/28/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/1.png"> <a href="player.php?player=23587">David Lindquist (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=15">IF Björklöven</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=7">Luleå HF</a></td>
-<td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<a href="http://www.luleahockey.se/artikel/8amuajfay-30c4d/fyra-nya-spelare-till-lulea-hockey" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.luleahockey.se/artikel/8amuajfay-30c4d/fyra-nya-spelare-till-lulea-hockey"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339424' st_title='Transaction: David Lindquist (F) From: IF Björklöven To: Luleå HF' st_via='ep_transfers'></span>
-                
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339424' st_title='Transaction: David Lindquist (F) From: IF Björklöven To: Luleå HF'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340349' st_title='Transaction: Mathias From (F) From: AIK To: Rockford IceHogs'></span>
 </td>
 </tr>
 		          </table>
@@ -2340,23 +2340,23 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                   <td align="left" class="tdbackground"><span id="fontSectionsGeneral">PLAYER</span></td>
                 </tr>
                                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">HC Vita Hästen</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">HC Vita HÃ¤sten</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=119">Daniel Josefsson</A> <font color="#999999"> (D)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">HC Vita Hästen</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">HC Vita HÃ¤sten</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=6931">Rickard Palmberg</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF BjÃ¶rklÃ¶ven</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=2579">Stefan Andersson</A> <font color="#999999"> (D)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF BjÃ¶rklÃ¶ven</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=99865">Austin Farley</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF BjÃ¶rklÃ¶ven</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=19783">Mattias Granlund</A> <font color="#999999"> (F)</font></td>
                 </tr>
             </TABLE></td>
@@ -2367,24 +2367,24 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                   <td align="left" class="tdbackground"><span id="fontSectionsGeneral">PLAYER</span></td>
                 </tr>
                                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">HC Vita Hästen</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">HC Vita HÃ¤sten</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=37040">Mattias Kalin</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF BjÃ¶rklÃ¶ven</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/6.png" border="0" />&nbsp;<a href="player.php?player=37795">Cody Murphy</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IK Oskarshamn</td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=43992">Robin SÃ¶derqvist</A> <font color="#999999"> (F)</font></td>
+                </tr>
+                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF BjÃ¶rklÃ¶ven</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=14413">Jonas Emmerdahl</A> <font color="#999999"> (D)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
+                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF BjÃ¶rklÃ¶ven</td>
                   <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/2.png" border="0" />&nbsp;<a href="player.php?player=7593">Mikko Pukka</A> <font color="#999999"> (D)</font></td>
-                </tr>
-                <tr style="border: 1px solid #FFFFFF" bgcolor="white">
-                  <td align="left" class="input" style="border: 1px solid #FFFFFF">IF Björklöven</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=33397">Niklas Pavel</A> <font color="#999999"> (D)</font></td>
                 </tr>
  
             </TABLE></td>
@@ -2405,14 +2405,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
             <td width="35%" class="tdbackground"><span id="fontSectionsGeneral">PLAYER</span></td>
             <td width="43%"  class="tdbackground"><span id="fontSectionsGeneral">INFORMATION</span></td>
           </tr>
-			           
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Södertälje SK</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" /> <a href="player.php?player=21654">Sebastian Höglund</a><font color="#999999"> (F)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-Upper body injury, out for the season</td>
-</tr>
-		          </table>        <br>
+			        </table>        <br>
          <span id="fontSections">PLAYER NATIONALITIES</span><br>
 <table width="100%"> <tr>
   <td width="20%">
@@ -2477,7 +2470,7 @@ Upper body injury, out for the season</td>
 <TD class="white"><a href="team.php?team=1">AIK</TD>
 <TD class="white" align=center>182.88 cm</TD>
 <TD class="white" align=center>84.62 kg</TD>
-<TD class="white" align=center>25.58 yrs</TD>
+<TD class="white" align=center>25.62 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2486,7 +2479,7 @@ Upper body injury, out for the season</td>
 <TD class="gray"><a href="team.php?team=13">Almtuna IS</TD>
 <TD class="gray" align=center>183.64 cm</TD>
 <TD class="gray" align=center>84.86 kg</TD>
-<TD class="gray" align=center>23.32 yrs</TD>
+<TD class="gray" align=center>23.36 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2501,16 +2494,16 @@ Upper body injury, out for the season</td>
  </tr>
 <TR>
 <TD class="gray">4</TD>
-<TD class="gray"><a href="team.php?team=322">HC Vita Hästen</TD>
+<TD class="gray"><a href="team.php?team=322">HC Vita HÃ¤sten</TD>
 <TD class="gray" align=center>182.78 cm</TD>
 <TD class="gray" align=center>84.15 kg</TD>
-<TD class="gray" align=center>24.59 yrs</TD>
+<TD class="gray" align=center>24.70 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">5</TD>
-<TD class="white"><a href="team.php?team=15">IF Björklöven</TD>
+<TD class="white"><a href="team.php?team=15">IF BjÃ¶rklÃ¶ven</TD>
 <TD class="white" align=center>183.69 cm</TD>
 <TD class="white" align=center>85.00 kg</TD>
 <TD class="white" align=center>25.07 yrs</TD>
@@ -2522,7 +2515,7 @@ Upper body injury, out for the season</td>
 <TD class="gray"><a href="team.php?team=35">IF Troja-Ljungby</TD>
 <TD class="gray" align=center>183.71 cm</TD>
 <TD class="gray" align=center>85.68 kg</TD>
-<TD class="gray" align=center>24.39 yrs</TD>
+<TD class="gray" align=center>24.46 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2546,37 +2539,37 @@ Upper body injury, out for the season</td>
  </tr>
 <TR>
 <TD class="white">9</TD>
-<TD class="white"><a href="team.php?team=28">Leksands IF</TD>
-<TD class="white" align=center>183.41 cm</TD>
-<TD class="white" align=center>84.44 kg</TD>
-<TD class="white" align=center>24.78 yrs</TD>
+<TD class="white"><a href="team.php?team=509">Karlskrona HK</TD>
+<TD class="white" align=center>185.26 cm</TD>
+<TD class="white" align=center>88.87 kg</TD>
+<TD class="white" align=center>27.74 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">10</TD>
-<TD class="gray"><a href="team.php?team=9">MODO Hockey</TD>
-<TD class="gray" align=center>184.00 cm</TD>
-<TD class="gray" align=center>85.74 kg</TD>
-<TD class="gray" align=center>23.96 yrs</TD>
+<TD class="gray"><a href="team.php?team=28">Leksands IF</TD>
+<TD class="gray" align=center>183.41 cm</TD>
+<TD class="gray" align=center>84.44 kg</TD>
+<TD class="gray" align=center>24.81 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">11</TD>
-<TD class="white"><a href="team.php?team=10">Södertälje SK</TD>
-<TD class="white" align=center>182.75 cm</TD>
-<TD class="white" align=center>84.50 kg</TD>
-<TD class="white" align=center>25.33 yrs</TD>
+<TD class="white"><a href="team.php?team=9">MODO Hockey</TD>
+<TD class="white" align=center>184.00 cm</TD>
+<TD class="white" align=center>85.74 kg</TD>
+<TD class="white" align=center>23.96 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="gray">12</TD>
-<TD class="gray"><a href="team.php?team=11">Timrå IK</TD>
-<TD class="gray" align=center>182.50 cm</TD>
-<TD class="gray" align=center>85.17 kg</TD>
-<TD class="gray" align=center>23.00 yrs</TD>
+<TD class="gray"><a href="team.php?team=10">SÃ¶dertÃ¤lje SK</TD>
+<TD class="gray" align=center>182.75 cm</TD>
+<TD class="gray" align=center>84.50 kg</TD>
+<TD class="gray" align=center>25.38 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2591,10 +2584,10 @@ Upper body injury, out for the season</td>
  </tr>
 <TR>
 <TD class="gray">14</TD>
-<TD class="gray"><a href="team.php?team=500">Västerviks IK</TD>
+<TD class="gray"><a href="team.php?team=500">VÃ¤sterviks IK</TD>
 <TD class="gray" align=center>185.00 cm</TD>
 <TD class="gray" align=center>86.30 kg</TD>
-<TD class="gray" align=center>26.35 yrs</TD>
+<TD class="gray" align=center>26.39 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr></table>
@@ -2607,8 +2600,8 @@ Upper body injury, out for the season</td>
          <td class="tdbackground"><span id="fontSectionsGeneral">HEAVIEST</span></td>
          </tr>
        <tr>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=335">Jonas&nbsp;Fransson</a><font color="#666666" size="1"> (38 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=119">Daniel&nbsp;Josefsson</a><font color="#666666" size="1"> (36 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=512">Emil&nbsp;Lundberg</a><font color="#666666" size="1"> (36 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=552">Stefan&nbsp;Gråhns</a><font color="#666666" size="1"> (35 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=7593">Mikko&nbsp;Pukka</a><font color="#666666" size="1"> (35 yrs)</font><br></td>
-         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=3570">Tom&nbsp;Linder</a><font color="#666666" size="1"> (200 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=16875">Dan&nbsp;Pettersson</a><font color="#666666" size="1"> (198 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=37054">Simon&nbsp;Fernholm</a><font color="#666666" size="1"> (198 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=228848">Henrik&nbsp;Malmström</a><font color="#666666" size="1"> (198 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/7.png" title="flag"> <a href="player.php?player=265424">Malte&nbsp;Setkov</a><font color="#666666" size="1"> (198 cm)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=335">Jonas&nbsp;Fransson</a><font color="#666666" size="1"> (38 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=119">Daniel&nbsp;Josefsson</a><font color="#666666" size="1"> (36 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=512">Emil&nbsp;Lundberg</a><font color="#666666" size="1"> (36 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=552">Stefan&nbsp;GrÃ¥hns</a><font color="#666666" size="1"> (35 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=7593">Mikko&nbsp;Pukka</a><font color="#666666" size="1"> (35 yrs)</font><br></td>
+         <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=3570">Tom&nbsp;Linder</a><font color="#666666" size="1"> (200 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=16875">Dan&nbsp;Pettersson</a><font color="#666666" size="1"> (198 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=37054">Simon&nbsp;Fernholm</a><font color="#666666" size="1"> (198 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=228848">Henrik&nbsp;MalmstrÃ¶m</a><font color="#666666" size="1"> (198 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/7.png" title="flag"> <a href="player.php?player=265424">Malte&nbsp;Setkov</a><font color="#666666" size="1"> (198 cm)</font><br></td>
          <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=1767">Niklas&nbsp;Lihagen</a><font color="#666666" size="1"> (105 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=212720">Gustav&nbsp;Olhaver</a><font color="#666666" size="1"> (102 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=7036">Oscar&nbsp;Holst</a><font color="#666666" size="1"> (102 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=21651">Ludwig&nbsp;Blomstrand</a><font color="#666666" size="1"> (102 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=33397">Niklas&nbsp;Pavel</a><font color="#666666" size="1"> (100 kg)</font><br></td>
          </tr>
           <tr>
@@ -2622,8 +2615,8 @@ Upper body injury, out for the season</td>
          <td class="tdbackground"><span id="fontSectionsGeneral">LIGHTEST</span></td>
          </tr>
        <tr>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=311906">Nils&nbsp;Höglander</a><font color="#666666" size="1"> (17 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=350782">Christian&nbsp;Lindberg</a><font color="#666666" size="1"> (17 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=293387">Filip&nbsp;Hållander</a><font color="#666666" size="1"> (17 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=316794">Filip&nbsp;Johansson</a><font color="#666666" size="1"> (18 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=316535">Jacob&nbsp;Olofsson</a><font color="#666666" size="1"> (18 yrs)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=21452">Alexander&nbsp;Lindqvist Hansen</a><font color="#666666" size="1"> (168 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=139612">Oskar&nbsp;Lang</a><font color="#666666" size="1"> (170 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=244701">Oliver&nbsp;Hadzinikolic</a><font color="#666666" size="1"> (170 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=231406">Adam&nbsp;Dahlin</a><font color="#666666" size="1"> (170 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=12856">Jonathan&nbsp;Tholander</a><font color="#666666" size="1"> (171 cm)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=311906">Nils&nbsp;HÃ¶glander</a><font color="#666666" size="1"> (17 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=350782">Christian&nbsp;Lindberg</a><font color="#666666" size="1"> (17 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=293387">Filip&nbsp;HÃ¥llander</a><font color="#666666" size="1"> (17 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=316794">Filip&nbsp;Johansson</a><font color="#666666" size="1"> (18 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=316535">Jacob&nbsp;Olofsson</a><font color="#666666" size="1"> (18 yrs)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=21452">Alexander&nbsp;Lindqvist Hansen</a><font color="#666666" size="1"> (168 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=244701">Oliver&nbsp;Hadzinikolic</a><font color="#666666" size="1"> (170 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=139612">Oskar&nbsp;Lang</a><font color="#666666" size="1"> (170 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=231406">Adam&nbsp;Dahlin</a><font color="#666666" size="1"> (170 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=12856">Jonathan&nbsp;Tholander</a><font color="#666666" size="1"> (171 cm)</font><br></td>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=139612">Oskar&nbsp;Lang</a><font color="#666666" size="1"> (68 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=350782">Christian&nbsp;Lindberg</a><font color="#666666" size="1"> (73 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=264479">Erik&nbsp;Rainersson</a><font color="#666666" size="1"> (73 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=10388">Fredric&nbsp;Weigel</a><font color="#666666" size="1"> (73 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/1.png" title="flag"> <a href="player.php?player=30250">Tobias&nbsp;Ekberg</a><font color="#666666" size="1"> (74 kg)</font><br></td>
          </tr>
      </table>
@@ -2643,7 +2636,7 @@ Upper body injury, out for the season</td>
           </tr>
           <tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=771">Kristofer Näslund</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=771">Kristofer NÃ¤slund</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">568</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">179</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">238</td>
@@ -2657,7 +2650,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>396</strong></td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=876">Jens Bergenström</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=876">Jens BergenstrÃ¶m</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">454</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">189</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">190</td>
@@ -2689,7 +2682,7 @@ Upper body injury, out for the season</td>
           </tr>
           <tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=876">Jens Bergenström</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=876">Jens BergenstrÃ¶m</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">454</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>189</strong></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">190</td>
@@ -2703,7 +2696,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">365</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=771">Kristofer Näslund</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=771">Kristofer NÃ¤slund</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">568</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>179</strong></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">238</td>
@@ -2738,7 +2731,7 @@ Upper body injury, out for the season</td>
           </tr>
           <tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1252">Conny Strömberg</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1252">Conny StrÃ¶mberg</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">365</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">86</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>267</strong></td>
@@ -2752,7 +2745,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">331</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=771">Kristofer Näslund</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=771">Kristofer NÃ¤slund</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">568</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">179</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>238</strong></td>
@@ -2806,7 +2799,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>912</strong></td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=552">Stefan Gråhns</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=552">Stefan GrÃ¥hns</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">443</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">86</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">236</td>
@@ -2836,7 +2829,7 @@ Upper body injury, out for the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=2080">Fredrik Höggren</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=2080">Fredrik HÃ¶ggren</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>674</strong></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">130</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">111</td>
@@ -2868,7 +2861,7 @@ Upper body injury, out for the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1218">Marcus Söderkvist</a><font color="#999999"> (D)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1218">Marcus SÃ¶derkvist</a><font color="#999999"> (D)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>597</strong></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">45</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">105</td>
@@ -2889,7 +2882,7 @@ Upper body injury, out for the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1527">Håkan Loob</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1527">HÃ¥kan Loob</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">17</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">13</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">34</td>
@@ -2913,7 +2906,7 @@ Upper body injury, out for the season</td>
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1861">Johan Strömwall</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1861">Johan StrÃ¶mwall</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">9</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">6</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">17</td>
@@ -2948,7 +2941,7 @@ Upper body injury, out for the season</td>
           </tr>
           <tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">Pär Arlbrandt</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">PÃ¤r Arlbrandt</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2008 - 2009</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">42</td>
@@ -2968,7 +2961,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">90</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">Pär Arlbrandt</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">PÃ¤r Arlbrandt</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2006 - 2007</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">45</td>
@@ -2988,7 +2981,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">44</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=228">Peter Högardh</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=228">Peter HÃ¶gardh</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1999 - 2000</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">43</td>
@@ -3027,7 +3020,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">71</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=228">Peter Högardh</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=228">Peter HÃ¶gardh</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">1999 - 2000</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">43</td>
@@ -3057,7 +3050,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">20</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=978">Johan Tellström</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=978">Johan TellstrÃ¶m</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2001 - 2002</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">46</td>
@@ -3093,7 +3086,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">44</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">Pär Arlbrandt</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">PÃ¤r Arlbrandt</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2008 - 2009</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">42</td>
@@ -3103,7 +3096,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">52</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1252">Conny Strömberg</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1252">Conny StrÃ¶mberg</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2011 - 2012</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">51</td>
@@ -3113,7 +3106,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">12</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">4.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">Pär Arlbrandt</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=825">PÃ¤r Arlbrandt</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2006 - 2007</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">45</td>
@@ -3123,7 +3116,7 @@ Upper body injury, out for the season</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">14</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">5.&nbsp;</td>
-<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1252">Conny Strömberg</A><font color="#999999"> (F)</font></td>
+<td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=1252">Conny StrÃ¶mberg</A><font color="#999999"> (F)</font></td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">2009 - 2010</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input">Allsvenskan</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">51</td>
@@ -3202,7 +3195,7 @@ Upper body injury, out for the season</td>
 <span id="fontSections">LIST OF CHAMPIONS</span><br>
  <table width="100%"> <tr>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2017">2018</a></strong> <a href="team.php?year0=2018&team=11">Timrå IK</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2017">2018</a></strong> <a href="team.php?year0=2018&team=11">TimrÃ¥ IK</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2012">2013</a></strong> <a href="team.php?year0=2013&team=28">Leksands IF</a>  </td>
   <td width="25%">
@@ -3214,9 +3207,9 @@ Upper body injury, out for the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2016">2017</a></strong> <a href="team.php?year0=2017&team=29">Mora IK</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2011">2012</a></strong> <a href="team.php?year0=2012&team=36">Örebro HK</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2011">2012</a></strong> <a href="team.php?year0=2012&team=36">Ã–rebro HK</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2006">2007</a></strong> <a href="team.php?year0=2007&team=10">Södertälje SK</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2006">2007</a></strong> <a href="team.php?year0=2007&team=10">SÃ¶dertÃ¤lje SK</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2001">2002</a></strong> <a href="team.php?year0=2002&team=28">Leksands IF</a>  </td>
  </tr>
@@ -3224,25 +3217,25 @@ Upper body injury, out for the season</td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2015">2016</a></strong> <a href="team.php?year0=2016&team=1">AIK</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2010">2011</a></strong> <a href="team.php?year0=2011&team=339">Växjö Lakers HC</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2010">2011</a></strong> <a href="team.php?year0=2011&team=339">VÃ¤xjÃ¶ Lakers HC</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2005">2006</a></strong> <a href="team.php?year0=2006&team=8">Malmö Redhawks</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2005">2006</a></strong> <a href="team.php?year0=2006&team=8">MalmÃ¶ Redhawks</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2000">2001</a></strong> <a href="team.php?year0=2001&team=10">Södertälje SK</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2000">2001</a></strong> <a href="team.php?year0=2001&team=10">SÃ¶dertÃ¤lje SK</a>  </td>
  </tr>
  <tr>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2014">2015</a></strong> <a href="team.php?year0=2015&team=308">VIK Västerås HK</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2014">2015</a></strong> <a href="team.php?year0=2015&team=308">VIK VÃ¤sterÃ¥s HK</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2009">2010</a></strong> <a href="team.php?year0=2010&team=28">Leksands IF</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2004">2005</a></strong> <a href="team.php?year0=2005&team=28">Leksands IF</a>  </td>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=1999">2000</a></strong> <a href="team.php?year0=2000&team=11">Timrå IK</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=1999">2000</a></strong> <a href="team.php?year0=2000&team=11">TimrÃ¥ IK</a>  </td>
  </tr>
  <tr>
   <td width="25%">
- <strong><a href="standings.php?league=Allsvenskan&startdate=2013">2014</a></strong> <a href="team.php?year0=2014&team=8">Malmö Redhawks</a>  </td>
+ <strong><a href="standings.php?league=Allsvenskan&startdate=2013">2014</a></strong> <a href="team.php?year0=2014&team=8">MalmÃ¶ Redhawks</a>  </td>
   <td width="25%">
  <strong><a href="standings.php?league=Allsvenskan&startdate=2008">2009</a></strong> <a href="team.php?year0=2009&team=28">Leksands IF</a>  </td>
   <td width="25%">
@@ -3360,5 +3353,5 @@ Upper body injury, out for the season</td>
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1968835808"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1730436761"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>

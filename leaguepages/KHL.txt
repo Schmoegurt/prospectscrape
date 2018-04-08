@@ -905,7 +905,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612548</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/3.gif" title="flag"> <a href="player.php?player=612548"><span style="font-size:10px;">Stacey Wilson</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>614304</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/36.gif" title="flag"> <a href="player.php?player=614304"><span style="font-size:10px;">Mikhail Guly</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -999,50 +999,50 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
         <td align="right" bgcolor="#FFFFFF"><strong>A</strong></td>
         <td align="right" bgcolor="#FFFFFF"><strong>TP</strong></td>
       </tr>
-      Liiga
+      Norway
       <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">1.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=73292">Antti Suomela</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">59</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">21</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">39</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>60</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=15393">Garry Nunn</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">45</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">24</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>62</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">2.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=2092">Tomi Kallio</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">58</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">15</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">40</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>55</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=4365">Tobias LindstrÃ¶m</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">44</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">28</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">33</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>61</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">3.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=7504">Jani Tuppurainen</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">57</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">21</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">33</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>54</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/1.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=7055">Rasmus Ahlholm</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">45</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">26</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">34</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>60</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">4.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/2.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=40471">Julius Junttila</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">53</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">13</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">39</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>52</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=37742">David Morley</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">45</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">22</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">38</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>60</strong></font></div></td>
       </tr>
             <tr bordercolor="#FFFFFF" bgcolor="white">
         <td align="right" class="input"><div align="center"><font size="1">5.&nbsp;</font></div></td>
-        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/14.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=32965">Charles Bertrand</a> <font color="#999999">(F)</font></font></td>
-        <td align="right" class="input"><div align="center"><font size="1">60</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">32</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1">19</font></div></td>
-        <td align="right" class="input"><div align="center"><font size="1"><strong>51</strong></font></div></td>
+        <td align="left" class="input"><font size="1"><img src="//files.eliteprospects.com/layout/flags_s/3.png" alt="flag" border="0" />&nbsp;<a href="player.php?player=31614">Stephan Vigier</a> <font color="#999999">(F)</font></font></td>
+        <td align="right" class="input"><div align="center"><font size="1">45</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">27</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1">29</font></div></td>
+        <td align="right" class="input"><div align="center"><font size="1"><strong>56</strong></font></div></td>
       </tr>
           </table>
       <font size="1">
-                <a href="league.php?leagueid=Liiga
+                <a href="league.php?leagueid=Norway
 &amp;season=2017"><span id="fontSmallLink" style="float:right">SHOW MORE</span>  &nbsp;</a>
               </font> &nbsp;<br /></td>
   </tr>
@@ -1055,7 +1055,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
     <tr>
         <td valign="top">
             <table width="286" border="0" cellpadding="1" cellspacing="0">
-<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 05</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=299">The next batch &#8211; rookies that could rule the NHL in 2019</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 03</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=298">Rasmus Dahlin shut down for the season: &#8220;I need to recover&#8221;</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 01</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=296">Prospects get their shot with the Swedish national team</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr>            </table>
             <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
         </td>
     </tr>
@@ -1298,13 +1298,13 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Costa Rica	<option value="137"
 	>
-	Côte d'Ivoire	<option value="29"
+	CÃ´te d'Ivoire	<option value="29"
 	>
 	Croatia	<option value="138"
 	>
 	Cuba	<option value="139"
 	>
-	Curaçao	<option value="140"
+	CuraÃ§ao	<option value="140"
 	>
 	Cyprus	<option value="8"
 	>
@@ -1550,7 +1550,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Qatar	<option value="220"
 	>
-	Réunion	<option value="18"
+	RÃ©union	<option value="18"
 	>
 	Romania	<option value="9"
 	selected>
@@ -1558,7 +1558,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Rwanda	<option value="222"
 	>
-	Saint BarthÈlemy	<option value="223"
+	Saint BarthÃˆlemy	<option value="223"
 	>
 	Saint Helena	<option value="224"
 	>
@@ -1704,7 +1704,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 	>
 	Zimbabwe	<option value="268"
 	>
-	Åland Islands              </select>
+	Ã…land Islands              </select>
               &nbsp;&nbsp;<input type="submit" name="filter" id="filter" value="Show stats" /></td>
           </tr>
           <tr>
@@ -2472,67 +2472,67 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
 			           
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/29/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=249730">Eeli Tolvanen (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=41">Jokerit</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=65">Nashville Predators</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png"> <a href="player.php?player=12300">Denis Kulyash (D)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=1724">Avtomobilist Yekaterinburg</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF">Unknown</td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/predators/news/nashville-predators-sign-eeli-tolvanen-to-three-year-entry-level-contract/c-297439760" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/predators/news/nashville-predators-sign-eeli-tolvanen-to-three-year-entry-level-contract/c-297439760"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339621' st_title='Transaction: Eeli Tolvanen (F) From: Jokerit To: Nashville Predators' st_via='ep_transfers'></span>
+<a href="http://www.hc-avto.ru/news/4855/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.hc-avto.ru/news/4855/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340467' st_title='Transaction: Denis Kulyash (D) From: Avtomobilist Yekaterinburg To: Unknown' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339621' st_title='Transaction: Eeli Tolvanen (F) From: Jokerit To: Nashville Predators'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340467' st_title='Transaction: Denis Kulyash (D) From: Avtomobilist Yekaterinburg To: Unknown'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/27/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/9.png"> <a href="player.php?player=9263">Nikolai Lemtyugov (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=186">Avangard Omsk</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0">Unknown</td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=16446">Jaakko Rissanen (F)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=22214">Kunlun Red Star</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=536">KalPa</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Released" alt="Released" width="16" height="16">&nbsp;<a href="https://twitter.com/hcavangardomsk/status/978557578987917313" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://twitter.com/hcavangardomsk/status/978557578987917313"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339331' st_title='Transaction: Nikolai Lemtyugov (F) From: Avangard Omsk To: Unknown' st_via='ep_transfers'></span>
+<a href="https://kalpa.fi/fi-fi/article/uutiset/jaakko-rissanen-palaa-kalpa-paitaan-viiden-vuoden-sopimuksella/4004/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://kalpa.fi/fi-fi/article/uutiset/jaakko-rissanen-palaa-kalpa-paitaan-viiden-vuoden-sopimuksella/4004/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340394' st_title='Transaction: Jaakko Rissanen (F) From: Kunlun Red Star To: KalPa' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339331' st_title='Transaction: Nikolai Lemtyugov (F) From: Avangard Omsk To: Unknown'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340394' st_title='Transaction: Jaakko Rissanen (F) From: Kunlun Red Star To: KalPa'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/16/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png"> <a href="player.php?player=13644">Renat Mamashev (D)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=15082">Admiral Vladivostok</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF">Unknown</td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/04/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/8.png"> <a href="player.php?player=70379">Tomas Filippi (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=700">Bili Tygri Liberec</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=185">Amur Khabarovsk</a></td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Contract terminated by league" alt="Contract terminated by league" width="16" height="16">&nbsp;<a href="https://www.championat.com/hockey/news-3376261-khl-rastorgla-kontrakty-zhafjarova-sen-pera-i-eschjo-trjoh-igrokov-s-admiralom.html" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.championat.com/hockey/news-3376261-khl-rastorgla-kontrakty-zhafjarova-sen-pera-i-eschjo-trjoh-igrokov-s-admiralom.html"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=338378' st_title='Transaction: Renat Mamashev (D) From: Admiral Vladivostok To: Unknown' st_via='ep_transfers'></span>
+<a href="http://www.hcbilitygri.cz/clanek.asp?id=Tomas-Filippi-miri-do-ruskeho-Amuru-Chabarovsk-12583" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="http://www.hcbilitygri.cz/clanek.asp?id=Tomas-Filippi-miri-do-ruskeho-Amuru-Chabarovsk-12583"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340161' st_title='Transaction: Tomas Filippi (F) From: Bili Tygri Liberec To: Amur Khabarovsk' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=338378' st_title='Transaction: Renat Mamashev (D) From: Admiral Vladivostok To: Unknown'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340161' st_title='Transaction: Tomas Filippi (F) From: Bili Tygri Liberec To: Amur Khabarovsk'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/16/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=8961">Shaone Morrisonn (D)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=15082">Admiral Vladivostok</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0">Unknown</td>
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/04/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/8.png"> <a href="player.php?player=22785">Lukas Radil (F)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=775">Spartak Moskva</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=73">San Jose Sharks</a></td>
 <td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Contract terminated by league" alt="Contract terminated by league" width="16" height="16">&nbsp;<a href="https://www.championat.com/hockey/news-3376261-khl-rastorgla-kontrakty-zhafjarova-sen-pera-i-eschjo-trjoh-igrokov-s-admiralom.html" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.championat.com/hockey/news-3376261-khl-rastorgla-kontrakty-zhafjarova-sen-pera-i-eschjo-trjoh-igrokov-s-admiralom.html"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=338377' st_title='Transaction: Shaone Morrisonn (D) From: Admiral Vladivostok To: Unknown' st_via='ep_transfers'></span>
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="1 year" alt="1 year" width="16" height="16">&nbsp;<a href="https://www.nhl.com/sharks/news/sharks-sign-forward-lukas-radil/c-297613316" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/sharks/news/sharks-sign-forward-lukas-radil/c-297613316"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340140' st_title='Transaction: Lukas Radil (F) From: Spartak Moskva To: San Jose Sharks' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=338377' st_title='Transaction: Shaone Morrisonn (D) From: Admiral Vladivostok To: Unknown'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340140' st_title='Transaction: Lukas Radil (F) From: Spartak Moskva To: San Jose Sharks'></span>
 </td>
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/16/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/36.png"> <a href="player.php?player=10668">Martin St-Pierre (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=15082">Admiral Vladivostok</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/03/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=25777">Ben Scrivens (G)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=197">Salavat Yulaev Ufa</a></td>
 <td valign="top" style="border: 1px solid #FFFFFF">Unknown</td>
 <td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Contract terminated by league" alt="Contract terminated by league" width="16" height="16">&nbsp;<a href="https://www.championat.com/hockey/news-3376261-khl-rastorgla-kontrakty-zhafjarova-sen-pera-i-eschjo-trjoh-igrokov-s-admiralom.html" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.championat.com/hockey/news-3376261-khl-rastorgla-kontrakty-zhafjarova-sen-pera-i-eschjo-trjoh-igrokov-s-admiralom.html"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=338376' st_title='Transaction: Martin St-Pierre (F) From: Admiral Vladivostok To: Unknown' st_via='ep_transfers'></span>
+<a href="https://hcsalavat.ru/news/salavat-yulaev/khk-salavat-yulaev-prinyal-reshenie-rasstatsya-s-mikhailom-yunkovym/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://hcsalavat.ru/news/salavat-yulaev/khk-salavat-yulaev-prinyal-reshenie-rasstatsya-s-mikhailom-yunkovym/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340057' st_title='Transaction: Ben Scrivens (G) From: Salavat Yulaev Ufa To: Unknown' st_via='ep_transfers'></span>
                 
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=338376' st_title='Transaction: Martin St-Pierre (F) From: Admiral Vladivostok To: Unknown'></span>
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340057' st_title='Transaction: Ben Scrivens (G) From: Salavat Yulaev Ufa To: Unknown'></span>
 </td>
 </tr>
 		          </table>
@@ -2556,7 +2556,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">Sibir Novosibirsk</td>
-                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=2074">Alexander Bergström</A> <font color="#999999"> (F)</font></td>
+                  <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=2074">Alexander BergstrÃ¶m</A> <font color="#999999"> (F)</font></td>
                 </tr>
                 <tr style="border: 1px solid #FFFFFF" bgcolor="white">
                   <td align="left" class="input" style="border: 1px solid #FFFFFF">Vityaz Podolsk</td>
@@ -2674,27 +2674,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 </tr>
 		             
 <tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Salavat Yulaev Ufa</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png" border="0" /> <a href="player.php?player=20368">Yevgeni Korotkov</a><font color="#999999"> (F)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Salavat Yulaev Ufa</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png" border="0" /> <a href="player.php?player=9591">Igor Makarov</a><font color="#999999"> (F)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Salavat Yulaev Ufa</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png" border="0" /> <a href="player.php?player=158499">Maxim Osipov</a><font color="#999999"> (D)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
   <td valign="top" style="border: 1px solid #FFFFFF">SKA St. Petersburg</td>
 <td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png" border="0" /> <a href="player.php?player=28106">Dinar Khafizullin</a><font color="#999999"> (D)</font></td>
 <td valign="top" align="left" style="border: 1px solid #FFFFFF">
@@ -2707,32 +2686,11 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <td valign="top" align="left" style="border: 1px solid #FFFFFF">
 </td>
 </tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Spartak Moskva</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/3.png" border="0" /> <a href="player.php?player=9337">Ben Maxwell</a><font color="#999999"> (F)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Spartak Moskva</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png" border="0" /> <a href="player.php?player=19013">Anatoli Nikontsev</a><font color="#999999"> (F)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Spartak Moskva</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/9.png" border="0" /> <a href="player.php?player=186589">Dmitri Yudin</a><font color="#999999"> (D)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-</td>
-</tr>
 		          </table>        <br>
          <span id="fontSections">PLAYER NATIONALITIES</span><br>
 <table width="100%"> <tr>
   <td width="20%">
- <img src="//files.eliteprospects.com/layout/flags_s/9.png"> 560<a href="player_nationalities_in_league.php?LeagueID=KHL&startdate=2017&NationID=9"> players</a>  </td>
+ <img src="//files.eliteprospects.com/layout/flags_s/9.png"> 555<a href="player_nationalities_in_league.php?LeagueID=KHL&startdate=2017&NationID=9"> players</a>  </td>
   <td width="20%">
  <img src="//files.eliteprospects.com/layout/flags_s/36.png"> 30<a href="player_nationalities_in_league.php?LeagueID=KHL&startdate=2017&NationID=36"> players</a>  </td>
   <td width="20%">
@@ -2804,8 +2762,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white">1</TD>
 <TD class="white"><a href="team.php?team=15082">Admiral Vladivostok</TD>
 <TD class="white" align=center>183.44 cm</TD>
-<TD class="white" align=center>85.66 kg</TD>
-<TD class="white" align=center>25.66 yrs</TD>
+<TD class="white" align=center>85.63 kg</TD>
+<TD class="white" align=center>25.72 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2814,7 +2772,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=184">Ak Bars Kazan</TD>
 <TD class="gray" align=center>185.70 cm</TD>
 <TD class="gray" align=center>91.12 kg</TD>
-<TD class="gray" align=center>27.03 yrs</TD>
+<TD class="gray" align=center>27.06 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2823,7 +2781,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=185">Amur Khabarovsk</TD>
 <TD class="white" align=center>183.24 cm</TD>
 <TD class="white" align=center>87.32 kg</TD>
-<TD class="white" align=center>26.91 yrs</TD>
+<TD class="white" align=center>26.97 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2832,7 +2790,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=186">Avangard Omsk</TD>
 <TD class="gray" align=center>184.48 cm</TD>
 <TD class="gray" align=center>86.76 kg</TD>
-<TD class="gray" align=center>25.88 yrs</TD>
+<TD class="gray" align=center>25.91 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2841,7 +2799,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=1724">Avtomobilist Yekaterinburg</TD>
 <TD class="white" align=center>183.26 cm</TD>
 <TD class="white" align=center>90.03 kg</TD>
-<TD class="white" align=center>28.10 yrs</TD>
+<TD class="white" align=center>28.13 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2850,7 +2808,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=2498">Barys Astana</TD>
 <TD class="gray" align=center>183.94 cm</TD>
 <TD class="gray" align=center>86.94 kg</TD>
-<TD class="gray" align=center>26.39 yrs</TD>
+<TD class="gray" align=center>26.42 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2859,7 +2817,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=187">CSKA Moskva</TD>
 <TD class="white" align=center>185.00 cm</TD>
 <TD class="white" align=center>90.47 kg</TD>
-<TD class="white" align=center>24.86 yrs</TD>
+<TD class="white" align=center>24.89 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2875,8 +2833,8 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TR>
 <TD class="white">9</TD>
 <TD class="white"><a href="team.php?team=673">Dinamo Riga</TD>
-<TD class="white" align=center>185.86 cm</TD>
-<TD class="white" align=center>86.72 kg</TD>
+<TD class="white" align=center>185.69 cm</TD>
+<TD class="white" align=center>86.17 kg</TD>
 <TD class="white" align=center>26.79 yrs</TD>
 
 <td width=1 bgcolor=white></td>
@@ -2886,7 +2844,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=6815">Dynamo Moskva</TD>
 <TD class="gray" align=center>181.62 cm</TD>
 <TD class="gray" align=center>88.24 kg</TD>
-<TD class="gray" align=center>28.34 yrs</TD>
+<TD class="gray" align=center>28.41 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2895,7 +2853,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=169">HC Slovan Bratislava</TD>
 <TD class="white" align=center>184.40 cm</TD>
 <TD class="white" align=center>87.84 kg</TD>
-<TD class="white" align=center>25.64 yrs</TD>
+<TD class="white" align=center>25.68 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2904,16 +2862,16 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=17166">HK Sochi</TD>
 <TD class="gray" align=center>185.63 cm</TD>
 <TD class="gray" align=center>88.67 kg</TD>
-<TD class="gray" align=center>26.83 yrs</TD>
+<TD class="gray" align=center>26.87 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
 <TR>
 <TD class="white">13</TD>
 <TD class="white"><a href="team.php?team=41">Jokerit</TD>
-<TD class="white" align=center>184.71 cm</TD>
-<TD class="white" align=center>88.39 kg</TD>
-<TD class="white" align=center>28.39 yrs</TD>
+<TD class="white" align=center>184.79 cm</TD>
+<TD class="white" align=center>88.36 kg</TD>
+<TD class="white" align=center>28.43 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2922,7 +2880,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=22214">Kunlun Red Star</TD>
 <TD class="gray" align=center>186.00 cm</TD>
 <TD class="gray" align=center>91.15 kg</TD>
-<TD class="gray" align=center>28.12 yrs</TD>
+<TD class="gray" align=center>28.15 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2931,7 +2889,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=189">Lada Togliatti</TD>
 <TD class="white" align=center>182.50 cm</TD>
 <TD class="white" align=center>89.10 kg</TD>
-<TD class="white" align=center>27.57 yrs</TD>
+<TD class="white" align=center>27.63 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2940,7 +2898,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=191">Lokomotiv Yaroslavl</TD>
 <TD class="gray" align=center>184.09 cm</TD>
 <TD class="gray" align=center>86.29 kg</TD>
-<TD class="gray" align=center>24.68 yrs</TD>
+<TD class="gray" align=center>24.71 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2967,7 +2925,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=197">Salavat Yulaev Ufa</TD>
 <TD class="white" align=center>186.00 cm</TD>
 <TD class="white" align=center>89.79 kg</TD>
-<TD class="white" align=center>27.00 yrs</TD>
+<TD class="white" align=center>27.03 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2976,7 +2934,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="gray"><a href="team.php?team=198">Severstal Cherepovets</TD>
 <TD class="gray" align=center>181.45 cm</TD>
 <TD class="gray" align=center>87.55 kg</TD>
-<TD class="gray" align=center>28.14 yrs</TD>
+<TD class="gray" align=center>28.17 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2985,7 +2943,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=1003">Sibir Novosibirsk</TD>
 <TD class="white" align=center>185.06 cm</TD>
 <TD class="white" align=center>88.24 kg</TD>
-<TD class="white" align=center>25.70 yrs</TD>
+<TD class="white" align=center>25.76 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -3003,7 +2961,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TD class="white"><a href="team.php?team=775">Spartak Moskva</TD>
 <TD class="white" align=center>184.77 cm</TD>
 <TD class="white" align=center>88.29 kg</TD>
-<TD class="white" align=center>27.52 yrs</TD>
+<TD class="white" align=center>27.55 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -3019,9 +2977,9 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <TR>
 <TD class="white">25</TD>
 <TD class="white"><a href="team.php?team=1679">Traktor Chelyabinsk</TD>
-<TD class="white" align=center>182.89 cm</TD>
-<TD class="white" align=center>85.86 kg</TD>
-<TD class="white" align=center>26.81 yrs</TD>
+<TD class="white" align=center>182.74 cm</TD>
+<TD class="white" align=center>85.81 kg</TD>
+<TD class="white" align=center>27.71 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -3052,7 +3010,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
          <td class="tdbackground"><span id="fontSectionsGeneral">HEAVIEST</span></td>
          </tr>
        <tr>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=8615">Pavel&nbsp;Datsyuk</a><font color="#666666" size="1"> (39 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=8579">Andrei&nbsp;Markov</a><font color="#666666" size="1"> (39 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=21166">Maxim&nbsp;Solovyov</a><font color="#666666" size="1"> (39 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=16738">Alexei&nbsp;Simakov</a><font color="#666666" size="1"> (38 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=12453">Vitali&nbsp;Atyushov</a><font color="#666666" size="1"> (38 yrs)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=8615">Pavel&nbsp;Datsyuk</a><font color="#666666" size="1"> (39 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=8579">Andrei&nbsp;Markov</a><font color="#666666" size="1"> (39 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=21166">Maxim&nbsp;Solovyov</a><font color="#666666" size="1"> (39 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=16738">Alexei&nbsp;Simakov</a><font color="#666666" size="1"> (39 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=12453">Vitali&nbsp;Atyushov</a><font color="#666666" size="1"> (38 yrs)</font><br></td>
          <td>     1. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=4283">Marko&nbsp;Anttila</a><font color="#666666" size="1"> (203 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=12247">Vasili&nbsp;Koshechkin</a><font color="#666666" size="1"> (200 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=12807">Mikko&nbsp;Koskinen</a><font color="#666666" size="1"> (200 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=155387">Dmitri&nbsp;Ogurtsov</a><font color="#666666" size="1"> (200 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=123119">Nikita&nbsp;Tryamkin</a><font color="#666666" size="1"> (200 cm)</font><br></td>
          <td> 1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=123119">Nikita&nbsp;Tryamkin</a><font color="#666666" size="1"> (120 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=8635">Yevgeni&nbsp;Artyukhin</a><font color="#666666" size="1"> (119 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=155387">Dmitri&nbsp;Ogurtsov</a><font color="#666666" size="1"> (118 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=15679">Dmitri&nbsp;Megalinsky</a><font color="#666666" size="1"> (114 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=8650">Alexei&nbsp;Semyonov</a><font color="#666666" size="1"> (113 kg)</font><br></td>
          </tr>
@@ -3069,7 +3027,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
        <tr>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312827">Grigori&nbsp;Denisenko</a><font color="#666666" size="1"> (17 yrs)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=340087">Danila&nbsp;Galenyuk</a><font color="#666666" size="1"> (18 yrs)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=339599">Bulat&nbsp;Shafigullin</a><font color="#666666" size="1"> (18 yrs)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=379749">Vitali&nbsp;Kravtsov</a><font color="#666666" size="1"> (18 yrs)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=339499">Nikolai&nbsp;Kovalenko</a><font color="#666666" size="1"> (18 yrs)</font><br></td>
          <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=313587">Igor&nbsp;Geraskin</a><font color="#666666" size="1"> (164 cm)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=16738">Alexei&nbsp;Simakov</a><font color="#666666" size="1"> (167 cm)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=262840">Tigran&nbsp;Manukyan</a><font color="#666666" size="1"> (168 cm)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/6.png" title="flag"> <a href="player.php?player=15670">Greg&nbsp;Squires</a><font color="#666666" size="1"> (169 cm)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312221">Artyom&nbsp;Manukyan</a><font color="#666666" size="1"> (170 cm)</font><br></td>
-         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312221">Artyom&nbsp;Manukyan</a><font color="#666666" size="1"> (63 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=266251">Yegor&nbsp;Baranov</a><font color="#666666" size="1"> (67 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=11375">Juha&nbsp;Metsola</a><font color="#666666" size="1"> (69 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=313587">Igor&nbsp;Geraskin</a><font color="#666666" size="1"> (69 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=300920">Maxim&nbsp;Shipin</a><font color="#666666" size="1"> (70 kg)</font><br></td>
+         <td>1. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=312221">Artyom&nbsp;Manukyan</a><font color="#666666" size="1"> (63 kg)</font><br>2. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=266251">Yegor&nbsp;Baranov</a><font color="#666666" size="1"> (67 kg)</font><br>3. <img src="//files.eliteprospects.com/layout/flags_s/11.png" title="flag"> <a href="player.php?player=250301">Antons&nbsp;Naumovs</a><font color="#666666" size="1"> (67 kg)</font><br>4. <img src="//files.eliteprospects.com/layout/flags_s/9.png" title="flag"> <a href="player.php?player=313587">Igor&nbsp;Geraskin</a><font color="#666666" size="1"> (69 kg)</font><br>5. <img src="//files.eliteprospects.com/layout/flags_s/2.png" title="flag"> <a href="player.php?player=11375">Juha&nbsp;Metsola</a><font color="#666666" size="1"> (69 kg)</font><br></td>
          </tr>
      </table>
 
@@ -3342,7 +3300,7 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
                     <tr style="border: 1px solid #FFFFFF" bgcolor="white">
             <td align="left" style="border: 1px solid #FFFFFF" class="input">2.&nbsp;</td>
-            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=3682">Nicklas Bäckström</a><font color="#999999"> (F)</font></td>
+            <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/1.png" border="0" />&nbsp;<a href="player.php?player=3682">Nicklas BÃ¤ckstrÃ¶m</a><font color="#999999"> (F)</font></td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">19</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">10</td>
             <td align="right" style="border: 1px solid #FFFFFF" class="input">25</td>
@@ -3881,5 +3839,5 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1481466403"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1333395526"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>

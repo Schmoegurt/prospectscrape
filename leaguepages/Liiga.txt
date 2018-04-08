@@ -905,7 +905,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
 
 </div>
 
- <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>612771</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/6.gif" title="flag"> <a href="player.php?player=612771"><span style="font-size:10px;">Konner Wagner</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
+ <span style="float:left;padding-left:15px;font-size:10px;">Database: <strong>614304</strong> players</span><br><span style="float:left;padding-left:15px;font-size:10px;padding-bottom:10px">Last added: <img src="//files.eliteprospects.com/layout/flags/36.gif" title="flag"> <a href="player.php?player=614304"><span style="font-size:10px;">Mikhail Guly</span></a></span><span style="float: right"><a href="https://twitter.com/eliteprospects" target="_blank"><img src="//files.eliteprospects.com/layout/player_twitter.png" border="0" title="Follow Elite Prospects on Twitter" alt="Follow Elite Prospects on Twitter" /></a>&nbsp;<a href="https://www.facebook.com/Eliteprospectscom" target="_blank"><img src="//files.eliteprospects.com/layout/player_facebook.png" border="0" title="Follow Elite Prospects on Facebook" alt="Follow Elite Prospects on Facebook" /></a>&nbsp;<a href="https://instagram.com/eliteprospectshockey" target="_blank"><img src="//files.eliteprospects.com/layout/player_instagram.png" border="0" title="Follow Elite Prospects on Instagram" alt="Follow Elite Prospects on Instagram" /></a>&nbsp;</span><br><div style="clear: both"></div>
 <table width="300" border="0" cellspacing="0" cellpadding="2">
 <tr bgcolor="#073343" class="trbackground">
             <td colspan="2" height="20" style="background:url(//files.eliteprospects.com/layout/bgcolor2.png);">&nbsp;<span id="FontSectionsGeneral">FREE AGENT FRENZY</span></td>
@@ -1055,7 +1055,7 @@ src="https://www.facebook.com/tr?id=220299838454787&ev=PageView&noscript=1"
     <tr>
         <td valign="top">
             <table width="286" border="0" cellpadding="1" cellspacing="0">
-<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 22</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=288">A Brit in the NHL draft &#8211; Liam Kirk is reaching for the dream</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 20</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=286">Boqvist and Bouchard in tight race to follow Dahlin</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 19</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=284">Report: Connor McDavid to play at the World Championships</a></td></tr>            </table>
+<tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 05</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=299">The next batch &#8211; rookies that could rule the NHL in 2019</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 03</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=298">Rasmus Dahlin shut down for the season: &#8220;I need to recover&#8221;</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Apr 01</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=296">Prospects get their shot with the Swedish national team</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 28</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=294">A class of their own &#8211; NHL rookies of 2018</a></td></tr><tr><td valign="top" style="padding-bottom: 8px; white-space: nowrap;">Mar 23</td><td style="padding-bottom: 8px;"><a target="_top" href="http://www.eliteprospects.com/article.php?id=291">A Russian hero &#8211; Kaprizov had a knack for scoring big goals early</a></td></tr>            </table>
             <a href="articles.php"><span id="fontSmallLink" style="float:right">ALL ARTICLES</span></a> &nbsp;
         </td>
     </tr>
@@ -2283,6 +2283,32 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
           </tr>
 			           
 <tr bgcolor="#FFFFFF">
+<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">04/06/2018</font></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=16446">Jaakko Rissanen (F)</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=22214">Kunlun Red Star</a></td>
+<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=536">KalPa</a></td>
+<td valign="top" align="right" style="border: 1px solid #FFFFFF">
+<a href="https://kalpa.fi/fi-fi/article/uutiset/jaakko-rissanen-palaa-kalpa-paitaan-viiden-vuoden-sopimuksella/4004/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://kalpa.fi/fi-fi/article/uutiset/jaakko-rissanen-palaa-kalpa-paitaan-viiden-vuoden-sopimuksella/4004/"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340394' st_title='Transaction: Jaakko Rissanen (F) From: Kunlun Red Star To: KalPa' st_via='ep_transfers'></span>
+                
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340394' st_title='Transaction: Jaakko Rissanen (F) From: Kunlun Red Star To: KalPa'></span>
+</td>
+</tr>
+		             
+<tr bgcolor="#F0F0F0">
+<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">04/03/2018</font></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=91146">Niclas Westerholm (G)</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=46">SaiPa</a></td>
+<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=65">Nashville Predators</a></td>
+<td valign="top" align="right" style="border: 1px solid #F0F0F0">
+<img src="//files.eliteprospects.com/layout/icon_info.png"  align="top" title="Entry Level" alt="Entry Level" width="16" height="16">&nbsp;<a href="https://www.nhl.com/predators/news/nashville-predators-sign-finnish-goaltender-niclas-westerholm/c-297573572" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://www.nhl.com/predators/news/nashville-predators-sign-finnish-goaltender-niclas-westerholm/c-297573572"> </a>
+<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=340081' st_title='Transaction: Niclas Westerholm (G) From: SaiPa To: Nashville Predators' st_via='ep_transfers'></span>
+                
+<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=340081' st_title='Transaction: Niclas Westerholm (G) From: SaiPa To: Nashville Predators'></span>
+</td>
+</tr>
+		             
+<tr bgcolor="#FFFFFF">
 <td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/31/2018</font></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=241335">Niclas Almari (D)</a></td>
 <td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=610">HPK</a></td>
@@ -2318,32 +2344,6 @@ function MM_jumpMenu(targ,selObj,restore){ //v3.0
 <span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339502' st_title='Transaction: Mikko Vainonen (D) From: Krefeld Pinguine To: Sport' st_via='ep_transfers'></span>
                 
 <span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339502' st_title='Transaction: Mikko Vainonen (D) From: Krefeld Pinguine To: Sport'></span>
-</td>
-</tr>
-		             
-<tr bgcolor="#F0F0F0">
-<td valign="top" style="border: 1px solid #F0F0F0"><font size="1">03/28/2018</font></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><img src="//files.eliteprospects.com/layout/flags_s/3.png"> <a href="player.php?player=33552">T.J. Foster (F)</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=175">Frisk Asker</a></td>
-<td valign="top" style="border: 1px solid #F0F0F0"><a href="team.php?team=423">Sport</a></td>
-<td valign="top" align="right" style="border: 1px solid #F0F0F0">
-<a href="https://vaasansport.fi/fi-fi/article/uutinen/talaja-ja-foster-vahvistavat-sportin-hyokkaysta/4487/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://vaasansport.fi/fi-fi/article/uutinen/talaja-ja-foster-vahvistavat-sportin-hyokkaysta/4487/"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339429' st_title='Transaction: T.J. Foster (F) From: Frisk Asker To: Sport' st_via='ep_transfers'></span>
-                
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339429' st_title='Transaction: T.J. Foster (F) From: Frisk Asker To: Sport'></span>
-</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-<td valign="top" style="border: 1px solid #FFFFFF"><font size="1">03/28/2018</font></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png"> <a href="player.php?player=21214">Roope Talaja (F)</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=15">IF Björklöven</a></td>
-<td valign="top" style="border: 1px solid #FFFFFF"><a href="team.php?team=423">Sport</a></td>
-<td valign="top" align="right" style="border: 1px solid #FFFFFF">
-<a href="https://vaasansport.fi/fi-fi/article/uutinen/talaja-ja-foster-vahvistavat-sportin-hyokkaysta/4487/" target="_blank"><img src="//files.eliteprospects.com/layout/icon_link.png" align="top" title="https://vaasansport.fi/fi-fi/article/uutinen/talaja-ja-foster-vahvistavat-sportin-hyokkaysta/4487/"> </a>
-<span class='st_twitter' st_url='http://www.eliteprospects.com/t.php?id=339428' st_title='Transaction: Roope Talaja (F) From: IF Björklöven To: Sport' st_via='ep_transfers'></span>
-                
-<span class='st_facebook' st_url='http://www.eliteprospects.com/t.php?id=339428' st_title='Transaction: Roope Talaja (F) From: IF Björklöven To: Sport'></span>
 </td>
 </tr>
 		          </table>
@@ -2472,21 +2472,7 @@ Undisclosed injury, expected to return early February.</td>
 		             
 <tr bgcolor="#FFFFFF">
   <td valign="top" style="border: 1px solid #FFFFFF">KooKoo</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png" border="0" /> <a href="player.php?player=49328">Anrei Hakulinen</a><font color="#999999"> (F)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-Undisclosed injury which needs surgery, season over.</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">KooKoo</td>
 <td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png" border="0" /> <a href="player.php?player=15180">Niko Tuhkanen</a><font color="#999999"> (D)</font></td>
-<td valign="top" align="left" style="border: 1px solid #FFFFFF">
-End of season</td>
-</tr>
-		             
-<tr bgcolor="#FFFFFF">
-  <td valign="top" style="border: 1px solid #FFFFFF">Lukko</td>
-<td valign="top" style="border: 1px solid #FFFFFF"><img src="//files.eliteprospects.com/layout/flags_s/2.png" border="0" /> <a href="player.php?player=4278">Janne Niskala</a><font color="#999999"> (D)</font></td>
 <td valign="top" align="left" style="border: 1px solid #FFFFFF">
 End of season</td>
 </tr>
@@ -2697,7 +2683,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="gray"><a href="team.php?team=610">HPK</TD>
 <TD class="gray" align=center>184.30 cm</TD>
 <TD class="gray" align=center>86.17 kg</TD>
-<TD class="gray" align=center>24.65 yrs</TD>
+<TD class="gray" align=center>24.70 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2724,7 +2710,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="white"><a href="team.php?team=42">JYP</TD>
 <TD class="white" align=center>185.85 cm</TD>
 <TD class="white" align=center>87.93 kg</TD>
-<TD class="white" align=center>28.41 yrs</TD>
+<TD class="white" align=center>28.48 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2733,7 +2719,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="gray"><a href="team.php?team=536">KalPa</TD>
 <TD class="gray" align=center>182.88 cm</TD>
 <TD class="gray" align=center>86.38 kg</TD>
-<TD class="gray" align=center>25.17 yrs</TD>
+<TD class="gray" align=center>25.25 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2751,7 +2737,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="gray"><a href="team.php?team=43">Kärpät</TD>
 <TD class="gray" align=center>183.48 cm</TD>
 <TD class="gray" align=center>84.48 kg</TD>
-<TD class="gray" align=center>25.00 yrs</TD>
+<TD class="gray" align=center>25.06 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2760,7 +2746,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="white"><a href="team.php?team=45">Lukko</TD>
 <TD class="white" align=center>184.00 cm</TD>
 <TD class="white" align=center>88.90 kg</TD>
-<TD class="white" align=center>26.40 yrs</TD>
+<TD class="white" align=center>26.47 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2769,7 +2755,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="gray"><a href="team.php?team=44">Pelicans</TD>
 <TD class="gray" align=center>182.72 cm</TD>
 <TD class="gray" align=center>84.52 kg</TD>
-<TD class="gray" align=center>24.62 yrs</TD>
+<TD class="gray" align=center>24.69 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2796,7 +2782,7 @@ Undisclosed injury, out indefinitely.</td>
 <TD class="white"><a href="team.php?team=47">Tappara</TD>
 <TD class="white" align=center>183.97 cm</TD>
 <TD class="white" align=center>85.45 kg</TD>
-<TD class="white" align=center>24.55 yrs</TD>
+<TD class="white" align=center>24.59 yrs</TD>
 
 <td width=1 bgcolor=white></td>
  </tr>
@@ -2812,8 +2798,8 @@ Undisclosed injury, out indefinitely.</td>
 <TR>
 <TD class="white">15</TD>
 <TD class="white"><a href="team.php?team=49">Ässät</TD>
-<TD class="white" align=center>185.53 cm</TD>
-<TD class="white" align=center>87.83 kg</TD>
+<TD class="white" align=center>185.40 cm</TD>
+<TD class="white" align=center>87.80 kg</TD>
 <TD class="white" align=center>26.03 yrs</TD>
 
 <td width=1 bgcolor=white></td>
@@ -2919,8 +2905,8 @@ Undisclosed injury, out indefinitely.</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/2.png" border="0" />&nbsp;<a href="player.php?player=1818">Vesa Viitakoski</A><font color="#999999"> (F)</font></td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input">803</td>
 <td align="right" style="border: 1px solid #FFFFFF" class="input"><strong>296</strong></td>
-<td align="right" style="border: 1px solid #FFFFFF" class="input">243</td>
-<td align="right" style="border: 1px solid #FFFFFF" class="input">539</td>
+<td align="right" style="border: 1px solid #FFFFFF" class="input">244</td>
+<td align="right" style="border: 1px solid #FFFFFF" class="input">540</td>
 </tr><tr style="border: 1px solid #FFFFFF" bgcolor="white">
 <td align="left" style="border: 1px solid #FFFFFF" class="input">3.&nbsp;</td>
 <td align="left" style="border: 1px solid #FFFFFF" class="input"><img src="//files.eliteprospects.com/layout/flags_s/2.png" border="0" />&nbsp;<a href="player.php?player=41404">Timo Susi</A><font color="#999999"> (F)</font></td>
@@ -3636,7 +3622,7 @@ Undisclosed injury, out indefinitely.</td>
   <td width="50%">
 <a href="awards.php?award="></a>  </td>
  </tr>
-</table>Page loaded in 1 seconds<br><div align="center">
+</table>Page loaded in 2 seconds<br><div align="center">
             <!-- /12393980/ep_elite_300x250_2 -->
             <div id='div-gpt-ad-1510952279650-0' style='height:250px; width:300px;'>
             <script>
@@ -3670,5 +3656,5 @@ Undisclosed injury, out indefinitely.</td>
 <script src="//widgets.sprinkletxt.com/v2/sprinkle.js" async></script>
 
 <!-- Interstitial -->
-<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=1997831697"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
+<script data-adfscript="adx2.adform.net/adx/?mid=391875&rnd=335236954"></script><script src="//s2.adform.net/banners/scripts/adx.js" async defer></script><!-- Closing div-tag for <div id="ads-fullpage-site"> in first-in-body.php--></div></body>
 </html>
