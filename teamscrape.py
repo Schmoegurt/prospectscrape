@@ -113,6 +113,45 @@ def parse_team_stats(page_file):
     goalie_header = goalie_stats.pop(0)
     player_df = pd.DataFrame(player_stats, columns=player_header)
     goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
+    # remove empty rows
+    player_df = player_df[(player_df['PLAYER'].str[-1]==')')]
+    
+    # getting player ids
+    id_href = []
+    player_ids = []
+    for row in stats[15].find_all('tr'):
+        id_href.append([x['href'] for x in row.find_all('a')])
+    for row in id_href:
+        if len(row) == 1:
+            player_ids.append(row[0])
+    player_ids.pop(0)
+    print(len(player_ids))
+    print(player_df.shape)
+    # Clean up player nubers and ids
+    player_df['player_id'] = player_ids
+    player_df['player_id'] = player_df['player_id'].str.replace('player.php\?player=', '')
+
+    # getting goalie ids
+    id_href = []
+    goalie_ids = []
+    for row in stats[16].find_all('tr'):
+        id_href.append([x['href'] for x in row.find_all('a')])
+    for row in id_href:
+        if len(row) == 1:
+            goalie_ids.append(row[0])
+    print(goalie_ids)
+    print(goalie_df.shape)
+    # Clean up player nubers and ids
+    goalie_df['player_id'] = goalie_ids
+    goalie_df['player_id'] = goalie_df['player_id'].str.replace('player.php\?player=', '')
+
+    # remove position as its already on the roster table
+    player_df['PLAYER'] = player_df['PLAYER'].str.replace(r'(\(.+\))', '', expand=False)
+
+    # drop # column as its not needed 
+    goalie_df = goalie_df.drop(columns =['#'])
+    player_df = player_df.drop(columns =['#'])
+    return player_df, goalie_df
 
 def parse_team_roster(page_file):
     '''
@@ -177,8 +216,8 @@ def parse_team_roster(page_file):
         if len(row) > 1:
             player_ids.append(row[0])
     # Clean up player nubers and ids
-    roster_df['player_ids'] = player_ids
-    roster_df['player_ids'] = roster_df['player_ids'].str.replace('player.php\?player=', '')
+    roster_df['player_id'] = player_ids
+    roster_df['player_id'] = roster_df['player_id'].str.replace('player.php\?player=', '')
     roster_df['Number'] = roster_df['Number'].str.replace('#', '')
     roster_df['team_id'] = team_id
     roster_df['season'] = season
