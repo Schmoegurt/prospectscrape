@@ -319,11 +319,11 @@ def add_headers():
     goalie_df = pd.read_csv('output_files\\goalie_stats', sep='|', header=None, 
                             names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 
                                    'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
-    goalie_df.to_csv('output_files\\goalie_stats_test', sep='|', index=False)
+    goalie_df.to_csv('output_files\\goalie_stats', sep='|', index=False)
     roster_df = pd.read_csv('output_files\\rosters', low_memory=False, sep='|', header=None, 
                             names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 
                                    'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season', 'team'])
-    roster_df.to_csv('output_files\\rosters_test', sep='|', index=False)
+    roster_df.to_csv('output_files\\rosters', sep='|', index=False)
 
 def parse_all_files():
     '''
