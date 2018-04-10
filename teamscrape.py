@@ -100,10 +100,15 @@ def parse_team_stats(page_file):
     player_stats = []
     goalie_stats = []
     season = page_file[-13:-9]
+    team = page_file[10:-13]
+    team = team.replace('-', ' ')
     with open(page_file, encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
     # code for parsing the stats page for that team's season
     stats = soup.find_all('table')
+    team_code = soup.select('meta[property=og:url]')
+    team_id = team_code[0].attrs['content']
+    team_id = team_id[team_id.index('=')+1:]
     # parsing player stats
     for row in stats[15].find_all('tr'):
         player_stats.append([x.text for x in row.find_all('td')])
@@ -159,6 +164,11 @@ def parse_team_stats(page_file):
     goalie_df.columns = goalie_col_names
     player_df['season'] = season
     goalie_df['season'] = season
+    player_df['team'] = team 
+    goalie_df['team'] = team 
+    player_df['team_id'] = team_id 
+    goalie_df['team_id'] = team_id
+    
 
     return player_df, goalie_df
 
@@ -183,6 +193,8 @@ def parse_team_roster(page_file):
     team_id = team_id[team_id.index('=')+1:]
     # get season year from file name
     season = page_file[-8:-4]
+    team = page_file[10:-14]
+    team = team.replace('-', ' ')
     # code for parsing the stats page for that team's season
     stats = soup.find_all('table')
     # parsing team roster 
@@ -233,6 +245,7 @@ def parse_team_roster(page_file):
     print(roster_df.columns)
     roster_df['HT'] = roster_df['HT'].str.slice(start=3)
     roster_df['WT'] = roster_df['WT'].str.slice(start=2)
+    roster_df['team'] = team
 
     return roster_df
 
@@ -261,7 +274,6 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
 
     # Use the commented code if your connection gets lost along with the teams list 
     # started at the team you got disconnected on 
-    error_list = []
     for league in leagues:
         for key, value in teams_dict[league].items():
             for year in years:
@@ -306,11 +318,11 @@ def add_headers():
     Outputs:
     text files - The three text files create in parse_all_files() function but with column headers
     '''
-    player_df = pd.read_csv('player_stats', sep='|', header=None, names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ' 'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 'player_id', 'season'])
+    player_df = pd.read_csv('player_stats', sep='|', header=None, names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ' 'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 'player_id', 'season', 'team', 'team_id'])
     player_df.to_csv('player_stats_test', sep='|', index=False)
-    goalie_df = pd.read_csv('goalie_stats', sep='|', header=None, names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 'playoff_SV%', 'player_id', 'season'])
+    goalie_df = pd.read_csv('goalie_stats', sep='|', header=None, names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
     goalie_df.to_csv('goalie_stats_test', sep='|', index=False)
-    roster_df = pd.read_csv('rosters', low_memory=False, sep='|', header=None, names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season'])
+    roster_df = pd.read_csv('rosters', low_memory=False, sep='|', header=None, names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season', 'team'])
     roster_df.to_csv('rosters_test', sep='|', index=False)
 
 def parse_all_files():
@@ -356,6 +368,7 @@ def main():
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
     # scrape_team_page(url_base, leagues, 2003, 2018)
+    parse_all_files()
     add_headers()
                                     
 
