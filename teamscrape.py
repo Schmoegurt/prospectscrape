@@ -1,3 +1,4 @@
+import os
 import re
 import time
 import bs4
@@ -98,6 +99,7 @@ def parse_team_stats(page_file):
     '''
     player_stats = []
     goalie_stats = []
+    season = page_file[-13:-9]
     with open(page_file, encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
     # code for parsing the stats page for that team's season
@@ -114,7 +116,7 @@ def parse_team_stats(page_file):
     player_df = pd.DataFrame(player_stats, columns=player_header)
     goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
     # remove empty rows
-    player_df = player_df[(player_df['PLAYER'].str[-1]==')')]
+    player_df = player_df[~(player_df['PLAYER'].str[-1]=='.')]
     
     # getting player ids
     id_href = []
@@ -124,7 +126,6 @@ def parse_team_stats(page_file):
     for row in id_href:
         if len(row) == 1:
             player_ids.append(row[0])
-    player_ids.pop(0)
     print(len(player_ids))
     print(player_df.shape)
     # Clean up player nubers and ids
@@ -146,11 +147,19 @@ def parse_team_stats(page_file):
     goalie_df['player_id'] = goalie_df['player_id'].str.replace('player.php\?player=', '')
 
     # remove position as its already on the roster table
-    player_df['PLAYER'] = player_df['PLAYER'].str.replace(r'(\(.+\))', '', expand=False)
+    player_df['PLAYER'] = player_df['PLAYER'].str.replace(r'(\(.+\))', '')
 
     # drop # column as its not needed 
     goalie_df = goalie_df.drop(columns =['#'])
     player_df = player_df.drop(columns =['#'])
+    player_col_names = ['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', 'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 'player_id']
+    goalie_col_names = ['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 'playoff_SV%', 'player_id']
+
+    player_df.columns = player_col_names
+    goalie_df.columns = goalie_col_names
+    player_df['season'] = season
+    goalie_df['season'] = season
+
     return player_df, goalie_df
 
 def parse_team_roster(page_file):
@@ -189,7 +198,7 @@ def parse_team_roster(page_file):
     roster_df['Position'] = roster_df['Position'].str.replace('(', '')
     roster_df['Position'] = roster_df['Position'].str.replace(')', '')
     roster_df['\\xa0#'] = roster_df['Position'].str.replace('#', '')
-    roster_df['PLAYER'] = roster_df['PLAYER'].str.replace(r'(\(.+\))', '', expand=False)
+    roster_df['PLAYER'] = roster_df['PLAYER'].str.replace(r'(\(.+\))', '')
     #rearrange columns and rename some
     colnames = roster_df.columns.tolist()
     # remove columns that have no data
@@ -224,7 +233,6 @@ def parse_team_roster(page_file):
     print(roster_df.columns)
     roster_df['HT'] = roster_df['HT'].str.slice(start=3)
     roster_df['WT'] = roster_df['WT'].str.slice(start=2)
-
 
     return roster_df
 
@@ -287,8 +295,55 @@ def scrape_league_page(league_scrape_list, url):
     for league in league_scrape_list:
         scrape_html('{}{}'.format(url, league_dict[league]), 'leaguepages\\{}.txt'.format(league))
         time.sleep(10)
-    
 
+def add_headers():
+    '''
+    function to write headers to the files produced in the parse_all_files() function
+
+    Inputs:
+    None
+
+    Outputs:
+    text files - The three text files create in parse_all_files() function but with column headers
+    '''
+    player_df = pd.read_csv('player_stats', sep='|', header=None, names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ' 'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 'player_id', 'season'])
+    player_df.to_csv('player_stats_test', sep='|', index=False)
+    goalie_df = pd.read_csv('goalie_stats', sep='|', header=None, names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 'playoff_SV%', 'player_id', 'season'])
+    goalie_df.to_csv('goalie_stats_test', sep='|', index=False)
+    roster_df = pd.read_csv('rosters', low_memory=False, sep='|', header=None, names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season'])
+    roster_df.to_csv('rosters_test', sep='|', index=False)
+
+def parse_all_files():
+    '''
+    This function parses all the text files scrape with the team_page_scrape function
+
+    Inputs:
+    None
+
+    Outputs:
+    text file - four text files containg, error log, roster info, player stats, goalie stats
+    '''
+    with open('rosters', 'a', encoding='utf-8') as a: 
+        with open('player_stats', 'a', encoding='utf-8') as b: 
+            with open('goalie_stats', 'a', encoding='utf-8') as c:
+                 with open ('errorfile.txt', 'a', encoding='utf-8') as e:
+                    for subdir, root, files in os.walk('teampages\\'):
+                        for name in files:
+                            if 'stats' in name:
+                                try:
+                                    player_df, goalie_df = parse_team_stats('teampages\\{}'.format(name))
+                                    player_df.to_csv(b, sep='|', header=False, index=False)
+                                    goalie_df.to_csv(c, sep='|', header=False, index=False)
+                                except Exception as ex:
+                                    print(ex)
+                                    e.write('{}{}'.format(name, '\n'))
+                            else:
+                                try:
+                                    roster_df = parse_team_roster('teampages\\{}'.format(name))
+                                    roster_df.to_csv(a, sep='|', header=False, index=False)
+                                except Exception as ex:
+                                    print(ex)
+                                    e.write('{}{}'.format(name, '\n'))
 def main():
     # leagues = ['AHL', 'SHL', 'Allsvenskan', 
     # 'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
@@ -300,7 +355,11 @@ def main():
     # parse_league_ids(leagues_html_file)
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
-    scrape_team_page(url_base, leagues, 2003, 2018)
+    # scrape_team_page(url_base, leagues, 2003, 2018)
+    add_headers()
+                                    
+
+
     
 
 
