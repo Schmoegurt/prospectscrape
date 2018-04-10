@@ -42,7 +42,7 @@ def parse_league_ids(file_name):
             key = str(link.text.strip()).replace('/', '')
             league_dict[key] = link.attrs['href']
 
-    write_to_json(league_dict, "leagueids.json")
+    write_to_json(league_dict, "output_files\\leagueids.json")
 
 def parse_team_ids(list_of_leagues):
     '''
@@ -69,7 +69,7 @@ def parse_team_ids(list_of_leagues):
         league_team_dict[league] = team_id_dict
         print(league_team_dict)
     
-    write_to_json(league_team_dict, 'teampages\\teamids.json')
+    write_to_json(league_team_dict, 'output_files\\teamids.json')
     
 def write_to_json(dictionary, file_name):
     '''
@@ -265,25 +265,18 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
     '''
     # creates list of years to scrape for each team adjust as neccesary
     years = list(range(start_year, end_year, 1))
-    # opens team ids file and loads them in a dictionary
-    with open('teampages\\teamids.json', 'r', encoding ='utf-8') as f:
-        teams_dict = json.load(f)
-    # Use this is you get disconnected to set the list at the last team you 
-    # scraped so you don't have to parse the whole dictionary again
-    # teams = list(teams_dict.keys())[100:]
 
-    # Use the commented code if your connection gets lost along with the teams list 
-    # started at the team you got disconnected on 
+    # opens team ids file and loads them in a dictionary
+    with open('output_files\\teamids.json', 'r', encoding ='utf-8') as f:
+        teams_dict = json.load(f)
+
     for league in leagues:
         for key, value in teams_dict[league].items():
             for year in years:
-                # print(team)
                 print(key)
                 print(str(year))
                 scrape_html('{}{}&year0={}'.format(url_base, value, str(year)), 'teampages\\{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year))
                 scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 'teampages\\{}{}stats.txt'.format(str(key).replace(' ', '-'), year))
-                # scrape_html('{}{}&year0={}'.format(url_base, teams_dict[team], str(year)), 'teampages\\{}roster{}.txt'.format(team.replace(' ', '-'), year))
-                # scrape_html('{}{}&year0={}&status=stats'.format(url_base, teams_dict[team], str(year)), 'teampages\\{}{}stats.txt'.format(team.replace(' ', '-'), year))
                 time.sleep(randint(1,15))
 
 def scrape_league_page(league_scrape_list, url):
@@ -318,16 +311,24 @@ def add_headers():
     Outputs:
     text files - The three text files create in parse_all_files() function but with column headers
     '''
-    player_df = pd.read_csv('player_stats', sep='|', header=None, names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ' 'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 'player_id', 'season', 'team', 'team_id'])
-    player_df.to_csv('player_stats_test', sep='|', index=False)
-    goalie_df = pd.read_csv('goalie_stats', sep='|', header=None, names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
-    goalie_df.to_csv('goalie_stats_test', sep='|', index=False)
-    roster_df = pd.read_csv('rosters', low_memory=False, sep='|', header=None, names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season', 'team'])
-    roster_df.to_csv('rosters_test', sep='|', index=False)
+    player_df = pd.read_csv('output_files\\player_stats', sep='|', header=None, 
+                            names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ' 'playoff_GP', 
+                                   'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 
+                                   'player_id', 'season', 'team', 'team_id'])
+    player_df.to_csv('output_files\\player_stats', sep='|', index=False)
+    goalie_df = pd.read_csv('output_files\\goalie_stats', sep='|', header=None, 
+                            names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 
+                                   'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
+    goalie_df.to_csv('output_files\\goalie_stats_test', sep='|', index=False)
+    roster_df = pd.read_csv('output_files\\rosters', low_memory=False, sep='|', header=None, 
+                            names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 
+                                   'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season', 'team'])
+    roster_df.to_csv('output_files\\rosters_test', sep='|', index=False)
 
 def parse_all_files():
     '''
-    This function parses all the text files scrape with the team_page_scrape function
+    This function parses all the text (both roster and stats) files scraped 
+    with the team_page_scrape function
 
     Inputs:
     None
@@ -335,10 +336,10 @@ def parse_all_files():
     Outputs:
     text file - four text files containg, error log, roster info, player stats, goalie stats
     '''
-    with open('rosters', 'a', encoding='utf-8') as a: 
-        with open('player_stats', 'a', encoding='utf-8') as b: 
-            with open('goalie_stats', 'a', encoding='utf-8') as c:
-                 with open ('errorfile.txt', 'a', encoding='utf-8') as e:
+    with open('output_files\\rosters', 'a', encoding='utf-8') as a: 
+        with open('output_files\\player_stats', 'a', encoding='utf-8') as b: 
+            with open('output_files\\goalie_stats', 'a', encoding='utf-8') as c:
+                 with open ('output_files\\errorfile.txt', 'a', encoding='utf-8') as e:
                     for subdir, root, files in os.walk('teampages\\'):
                         for name in files:
                             if 'stats' in name:
@@ -368,7 +369,7 @@ def main():
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
     # scrape_team_page(url_base, leagues, 2003, 2018)
-    parse_all_files()
+    # parse_all_files()
     add_headers()
                                     
 
