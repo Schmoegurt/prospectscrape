@@ -312,12 +312,12 @@ def add_headers():
     text files - The three text files create in parse_all_files() function but with column headers
     '''
     player_df = pd.read_csv('output_files\\player_stats', sep='|', header=None, 
-                            names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ' 'playoff_GP', 
+                            names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ', 'playoff_GP', 
                                    'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 
                                    'player_id', 'season', 'team', 'team_id'])
     player_df.to_csv('output_files\\player_stats', sep='|', index=False)
     goalie_df = pd.read_csv('output_files\\goalie_stats', sep='|', header=None, 
-                            names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 
+                            names=['Player', 'GP', 'GAA', 'SV%', ' ', ' ', 'playoff_GP', 'playoff_GAA', 
                                    'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
     goalie_df.to_csv('output_files\\goalie_stats', sep='|', index=False)
     roster_df = pd.read_csv('output_files\\rosters', low_memory=False, sep='|', header=None, 
@@ -357,11 +357,38 @@ def parse_all_files():
                                 except Exception as ex:
                                     print(ex)
                                     e.write('{}{}'.format(name, '\n'))
+def clean_data():
+    import numpy as np
+    '''
+    function to clean the compiled data from parsing the roster and stats pages of each team
+
+    Inputs:
+    None
+
+    Ouputs:
+    three pipe delimited files of cleaned data
+    '''
+    # replace all the white space lines that matching the player ids created
+    
+    player_df = pd.read_csv('output_files\\player_stats', sep='|')
+    player_df = player_df.drop(columns = [' '])
+    player_df = player_df.replace(r'^\s+$', np.nan, regex=True)
+    player_df = player_df[pd.isna(player_df['GP']) == 0]
+    player_df = player_df.replace(to_replace='-', value=0)
+    player_df = player_df.replace(to_replace='--6', value = -6)
+    player_df.fillna(value=0, inplace=True)
+    player_df[['GP', 'G', 'A', 'TP', 'PIM', '+/-', ' playoff_GP', 'playoff_G', 
+               'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']] =  player_df[
+                   ['GP', 'G', 'A', 'TP', 'PIM', '+/-', ' playoff_GP', 'playoff_G', 
+                    'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']].astype('float')
+
+    player_df.to_csv('output_files\\player_stats', sep='|', index=False)
+
 def main():
     # leagues = ['AHL', 'SHL', 'Allsvenskan', 
     # 'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
-    leagues = ['Extraliga']
-    url_base = 'http://www.eliteprospects.com/'
+    # leagues = ['Extraliga']
+    # url_base = 'http://www.eliteprospects.com/'
     # leagues_url_end = 'league_central.php'
     # leagues_html_file = 'leaguepages\\league_page.txt'
     # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
@@ -370,12 +397,8 @@ def main():
     # parse_team_ids(leagues)
     # scrape_team_page(url_base, leagues, 2003, 2018)
     # parse_all_files()
-    add_headers()
+    # add_headers()
+    clean_data()
                                     
-
-
-    
-
-
 if __name__ == '__main__':
     main()
