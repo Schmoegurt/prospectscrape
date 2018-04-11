@@ -6,6 +6,14 @@ import pandas as pd
 import requests
 import json
 from random import randint
+
+############################################################################
+## This is a series of functions designed to scrape the Elite Prosepects  ##
+## webpage and store the results in a tab delimited files. It scraps each ##
+## team's roster and stats page for the leagues given. All code written   ##
+## by Matthew Barlowe @matt_barlowe on twitter mcbarlowe on github        ##
+############################################################################
+
 def scrape_html(url, file_name):
     '''
     Function to pull the html of a webpage and write the html to a text file
@@ -37,10 +45,11 @@ def parse_league_ids(file_name):
     league_dict = {}
     with open(file_name, 'r') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
-        leagues = soup.select('table[class=tableborder] a')
-        for link in leagues:
-            key = str(link.text.strip()).replace('/', '')
-            league_dict[key] = link.attrs['href']
+
+    leagues = soup.select('table[class=tableborder] a')
+    for link in leagues:
+        key = str(link.text.strip()).replace('/', '')
+        league_dict[key] = link.attrs['href']
 
     write_to_json(league_dict, "output_files\\leagueids.json")
 
@@ -62,10 +71,10 @@ def parse_team_ids(list_of_leagues):
         team_id_dict = {}
         with open('{}{}.txt'.format(teampages_dir, league)) as f:
             soup = bs4.BeautifulSoup(f, 'lxml')
-            tables = soup.find_all('table')
-            for row in tables[15].find_all('tr'):
-                for x in row.find_all('a'):
-                    team_id_dict[x.text.replace('/', '')] = x['href']
+        tables = soup.find_all('table')
+        for row in tables[15].find_all('tr'):
+            for x in row.find_all('a'):
+                team_id_dict[x.text.replace('/', '')] = x['href']
         league_team_dict[league] = team_id_dict
         print(league_team_dict)
     
@@ -99,9 +108,9 @@ def parse_team_stats(page_file):
     '''
     player_stats = []
     goalie_stats = []
+    #get season and team info from file name
     season = page_file[-13:-9]
-    team = page_file[10:-13]
-    team = team.replace('-', ' ')
+    team = page_file[10:-13].replace('-', ' ')
     with open(page_file, encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
     # code for parsing the stats page for that team's season
@@ -116,8 +125,10 @@ def parse_team_stats(page_file):
     for row in stats[16].find_all('tr'):
         goalie_stats.append([x.text for x in row.find_all('td')])
     
+    # create column names for goalie/player dataframes
     player_header = player_stats.pop(0)
     goalie_header = goalie_stats.pop(0)
+    #create data frames from scraped list of lists
     player_df = pd.DataFrame(player_stats, columns=player_header)
     goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
     # remove empty rows
@@ -157,8 +168,11 @@ def parse_team_stats(page_file):
     # drop # column as its not needed 
     goalie_df = goalie_df.drop(columns =['#'])
     player_df = player_df.drop(columns =['#'])
-    player_col_names = ['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', 'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 'player_id']
-    goalie_col_names = ['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 'playoff_SV%', 'player_id']
+    player_col_names = ['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', 
+                        'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP', 
+                        'playoff_PIM', 'playoff_+/-', 'player_id']
+    goalie_col_names = ['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 
+                        'playoff_GAA', 'playoff_SV%', 'player_id']
 
     player_df.columns = player_col_names
     goalie_df.columns = goalie_col_names
@@ -187,14 +201,14 @@ def parse_team_roster(page_file):
     player_ids = []
     with open(page_file, encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
+
     # parse team code
     team_code = soup.select('meta[property=og:url]')
     team_id = team_code[0].attrs['content']
     team_id = team_id[team_id.index('=')+1:]
-    # get season year from file name
+    # get season year and team name from file name
     season = page_file[-8:-4]
-    team = page_file[10:-14]
-    team = team.replace('-', ' ')
+    team = page_file[10:-14].replace('-', ' ')
     # code for parsing the stats page for that team's season
     stats = soup.find_all('table')
     # parsing team roster 
@@ -236,7 +250,7 @@ def parse_team_roster(page_file):
     for row in id_href:
         if len(row) > 1:
             player_ids.append(row[0])
-    # Clean up player nubers and ids
+    # Clean up player numbers and ids
     roster_df['player_id'] = player_ids
     roster_df['player_id'] = roster_df['player_id'].str.replace('player.php\?player=', '')
     roster_df['Number'] = roster_df['Number'].str.replace('#', '')
@@ -275,8 +289,10 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
             for year in years:
                 print(key)
                 print(str(year))
-                scrape_html('{}{}&year0={}'.format(url_base, value, str(year)), 'teampages\\{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year))
-                scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 'teampages\\{}{}stats.txt'.format(str(key).replace(' ', '-'), year))
+                scrape_html('{}{}&year0={}'.format(url_base, value, str(year)), 
+                            'teampages\\{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year))
+                scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 
+                            'teampages\\{}{}stats.txt'.format(str(key).replace(' ', '-'), year))
                 time.sleep(randint(1,15))
 
 def scrape_league_page(league_scrape_list, url):
@@ -292,7 +308,7 @@ def scrape_league_page(league_scrape_list, url):
     home_page_html - File containing html of each league home page
     '''
     # opens id json file and forms a dictionary
-    with open('leaguepages\\leagueids.json', 'r') as f:
+    with open('output_files\\leagueids.json', 'r') as f:
         league_dict = json.load(f)
     
     # using the list of leagues provided pulls the league url from 
@@ -387,12 +403,10 @@ def clean_data():
 def main():
     # leagues = ['AHL', 'SHL', 'Allsvenskan', 
     # 'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
-    # leagues = ['Extraliga']
     # url_base = 'http://www.eliteprospects.com/'
     # leagues_url_end = 'league_central.php'
-    # leagues_html_file = 'leaguepages\\league_page.txt'
     # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
-    # parse_league_ids(leagues_html_file)
+    # parse_league_ids('leaguepages\\league_page.txt')
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
     # scrape_team_page(url_base, leagues, 2003, 2018)
