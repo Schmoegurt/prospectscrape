@@ -289,14 +289,25 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
         teams_dict = json.load(f)
 
     for league in leagues:
+        try:
+            os.mkdir(os.path.join('teampages', league))
+        except FileExistsError as ex:
+            print('Folder already exists')
+        
         for key, value in teams_dict[league].items():
+            try:
+                os.mkdir(os.path.join('teampages', league, key))
+            except FileExistsError as ex:
+                print('Folder already exists')
             for year in years:
                 print(key)
                 print(str(year))
                 scrape_html('{}team.php?team={}&year0={}'.format(url_base, value, str(year)), 
-                            'teampages\\{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year))
+                            os.path.join('teampages', league, key,
+                            '{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year)))
                 scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 
-                            'teampages\\{}{}stats.txt'.format(str(key).replace(' ', '-'), year))
+                            os.path.join('teampages', league, key,
+                            '{}{}stats.txt'.format(str(key).replace(' ', '-'), year)))
                 time.sleep(randint(1,15))
 
 def scrape_league_page(league_scrape_list, url):
@@ -423,14 +434,14 @@ def main():
     # leagues and insert the ones you want and uncomment the next two lines.
     # If you want women's leagues those will be appended with a '-W' where 
     # they have the same name as men's leagues.
-    scrape_league_page(leagues, url_base)
-    parse_team_ids(leagues)
+    #scrape_league_page(leagues, url_base)
+    #parse_team_ids(leagues)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The 
-    # parse_all_files actually compiles all that html and produces | d
-    # delimited files of the data
-    # scrape_team_page(url_base, leagues, 2003, 2018)
+    # parse_all_files actually compiles all that html and produces | 
+    # delimited files of the data.
+    scrape_team_page(url_base, leagues, 2003, 2018)
     # parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
