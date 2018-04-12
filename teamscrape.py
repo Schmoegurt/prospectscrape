@@ -39,7 +39,7 @@ def parse_league_ids(file_name, output_file_name):
     file_name - string containg path to html file
 
     Output:
-    leaugeid_dict - dictionary containing league ids for each league that 
+    leagueid_dict - dictionary containing league ids for each league that 
     elite prospects keeps track of.
     '''
     league_dict = {}
@@ -420,8 +420,10 @@ def main():
     # This compiles a tem id dictionary based on what leagues you pass to 
     # it from the leagues list variable the repo comes built in with the team ids
     # of the leagues in the list above if you want to add more just delete the
-    # leagues and insert the ones you want and uncomment the next two lines 
-    # scrape_league_page(leagues, url_base)
+    # leagues and insert the ones you want and uncomment the next two lines.
+    # If you want women's leagues those will be appended with a '-W' where 
+    # they have the same name as men's leagues.
+    scrape_league_page(leagues, url_base)
     parse_team_ids(leagues)
 
     # This scrapes the team pages and actually gathers the html for each teams
