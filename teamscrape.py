@@ -43,7 +43,7 @@ def parse_league_ids(file_name, output_file_name):
     elite prospects keeps track of.
     '''
     league_dict = {}
-    with open(file_name, 'r') as f:
+    with open(file_name, 'r', encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
 
     leagues = soup.select('table[class=tableborder] a')
@@ -71,15 +71,16 @@ def parse_team_ids(list_of_leagues):
 
 
     for league in list_of_leagues:
+        print(league)
         team_id_dict = {}
-        with open('{}{}.txt'.format(teampages_dir, league)) as f:
+        with open('{}{}.txt'.format(teampages_dir, league), encoding='utf-8') as f:
             soup = bs4.BeautifulSoup(f, 'lxml')
         tables = soup.find_all('table')
         for row in tables[15].find_all('tr'):
             for x in row.find_all('a'):
                 team_id_dict[x.text.replace('/', '')] = x['href']
         league_team_dict[league] = team_id_dict
-        print(league_team_dict)
+    print(league_team_dict)
     
     write_to_json(league_team_dict, 'output_files\\teamids.json')
     
@@ -95,7 +96,7 @@ def write_to_json(dictionary, file_name):
     JSON File - Writes JSON file to store the dictionary
     '''
     json_data = json.dumps(dictionary)
-    with open(file_name, 'w') as f:
+    with open(file_name, 'w', encoding='utf-8') as f:
         f.write(json_data)
 
 def parse_team_stats(page_file):
@@ -292,7 +293,7 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
             for year in years:
                 print(key)
                 print(str(year))
-                scrape_html('{}{}&year0={}'.format(url_base, value, str(year)), 
+                scrape_html('{}team.php?team={}&year0={}'.format(url_base, value, str(year)), 
                             'teampages\\{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year))
                 scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 
                             'teampages\\{}{}stats.txt'.format(str(key).replace(' ', '-'), year))
@@ -311,13 +312,14 @@ def scrape_league_page(league_scrape_list, url):
     home_page_html - File containing html of each league home page
     '''
     # opens id json file and forms a dictionary
-    with open('output_files\\leagueids.json', 'r') as f:
+    with open('output_files\\leagueids.json', 'r', encoding='utf-8') as f:
         league_dict = json.load(f)
     
     # using the list of leagues provided pulls the league url from 
     # dictionary and scrapes that leagues home page
     for league in league_scrape_list:
-        scrape_html('{}{}'.format(url, league_dict[league]), 'leaguepages\\{}.txt'.format(league))
+        scrape_html('{}league_home.php?leagueid={}'.format(url, league_dict[league]), 
+                    'leaguepages\\{}.txt'.format(league))
         time.sleep(10)
 
 def add_headers():
@@ -408,17 +410,34 @@ def main():
     leagues = ['AHL', 'SHL', 'Allsvenskan', 
                'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 
                'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
+    # leagues = ['NCAA']
     url_base = 'http://www.eliteprospects.com/'
+    # if you need to rebuild the leagueid json file that comes with this repo then 
     # scrapes the central league page
     # scrape_html('{}{}'.format(url_base, 'league_central.php'), 'leaguepages\\league_page.txt')
-    # parses the central league
-    parse_league_ids('leaguepages\\league_page.txt', 'output_files\\leagueids.json')
+    # parse_league_ids('leaguepages\\league_page.txt', 'output_files\\leagueids.json')
+
+    # This compiles a tem id dictionary based on what leagues you pass to 
+    # it from the leagues list variable the repo comes built in with the team ids
+    # of the leagues in the list above if you want to add more just delete the
+    # leagues and insert the ones you want and uncomment the next two lines 
     # scrape_league_page(leagues, url_base)
-    # parse_team_ids(leagues)
+    parse_team_ids(leagues)
+
+    # This scrapes the team pages and actually gathers the html for each teams
+    # from the roster and stats pages and writes them to the disk. The 
+    # parse_all_files actually compiles all that html and produces | d
+    # delimited files of the data
     # scrape_team_page(url_base, leagues, 2003, 2018)
     # parse_all_files()
+
+    # The next two functions add the headers and cleans up the player_stats
+    # data there will be duplicates for some players if they played in special
+    # tournaments like the Memorial Cup or Champions League in Europe. This is more 
+    #so for goalies than players as I don't want to average sv% and without
+    # shot for against can't accurately calculate
     # add_headers()
-    # clean_data()
+    #  clean_data()
                                     
 if __name__ == '__main__':
     main()
