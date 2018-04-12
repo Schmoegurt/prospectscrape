@@ -410,9 +410,9 @@ def main():
                'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
     url_base = 'http://www.eliteprospects.com/'
     # scrapes the central league page
-    scrape_html('{}{}'.format(url_base, 'league_central.php'), 'leaguepages\\league_page.txt')
+    # scrape_html('{}{}'.format(url_base, 'league_central.php'), 'leaguepages\\league_page.txt')
     # parses the central league
-    parse_league_ids('leaguepages\\league_page.txt')
+    parse_league_ids('leaguepages\\league_page.txt', 'output_files\\leagueids.json')
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
     # scrape_team_page(url_base, leagues, 2003, 2018)
