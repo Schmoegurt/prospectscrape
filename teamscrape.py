@@ -66,14 +66,14 @@ def parse_team_ids(list_of_leagues):
     Output:
     team_id_dict - JSON file containing every team and their ids
     '''
-    teampages_dir = 'leaguepages\\'
+    teampages_dir = 'leaguepages'
     league_team_dict = {}
 
 
     for league in list_of_leagues:
         print(league)
         team_id_dict = {}
-        with open('{}{}.txt'.format(teampages_dir, league), encoding='utf-8') as f:
+        with open(os.path.join(teampages_dir,'{}.txt'.format(league)), encoding='utf-8') as f:
             soup = bs4.BeautifulSoup(f, 'lxml')
         tables = soup.find_all('table')
         for row in tables[15].find_all('tr'):
@@ -82,7 +82,8 @@ def parse_team_ids(list_of_leagues):
         league_team_dict[league] = team_id_dict
     print(league_team_dict)
     
-    write_to_json(league_team_dict, 'output_files\\teamids.json')
+    write_to_json(league_team_dict, 
+                  os.path.join('output_files', 'teamids.json'))
     
 def write_to_json(dictionary, file_name):
     '''
@@ -285,16 +286,18 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
     years = list(range(start_year, end_year, 1))
 
     # opens team ids file and loads them in a dictionary
-    with open('output_files\\teamids.json', 'r', encoding ='utf-8') as f:
+    with open(os.path.join('output_files', 'teamids.json'), 'r', encoding ='utf-8') as f:
         teams_dict = json.load(f)
 
     for league in leagues:
+        # Checks for directory existence if exist catches exception and moves on
         try:
             os.mkdir(os.path.join('teampages', league))
         except FileExistsError as ex:
             print('Folder already exists')
         
         for key, value in teams_dict[league].items():
+        # Checks for directory existence if exist catches exception and moves on
             try:
                 os.mkdir(os.path.join('teampages', league, key))
             except FileExistsError as ex:
@@ -323,14 +326,14 @@ def scrape_league_page(league_scrape_list, url):
     home_page_html - File containing html of each league home page
     '''
     # opens id json file and forms a dictionary
-    with open('output_files\\leagueids.json', 'r', encoding='utf-8') as f:
+    with open(os.path.join('output_files', 'leagueids.json'), 'r', encoding='utf-8') as f:
         league_dict = json.load(f)
     
     # using the list of leagues provided pulls the league url from 
     # dictionary and scrapes that leagues home page
     for league in league_scrape_list:
         scrape_html('{}league_home.php?leagueid={}'.format(url, league_dict[league]), 
-                    'leaguepages\\{}.txt'.format(league))
+                    os.path.join('leaguepages', '{}.txt'.format(league)))
         time.sleep(10)
 
 def add_headers():
@@ -343,19 +346,19 @@ def add_headers():
     Outputs:
     text files - The three text files create in parse_all_files() function but with column headers
     '''
-    player_df = pd.read_csv('output_files\\player_stats', sep='|', header=None, 
+    player_df = pd.read_csv(os.path.join('output_files', 'player_stats'), sep='|', header=None, 
                             names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ', 'playoff_GP', 
                                    'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 
                                    'player_id', 'season', 'team', 'team_id'])
-    player_df.to_csv('output_files\\player_stats', sep='|', index=False)
-    goalie_df = pd.read_csv('output_files\\goalie_stats', sep='|', header=None, 
+    player_df.to_csv(os.path.join('output_files', 'player_stats'), sep='|', index=False)
+    goalie_df = pd.read_csv(os.path.join('output_files', 'goalie_stats'), sep='|', header=None, 
                             names=['Player', 'GP', 'GAA', 'SV%', ' ', ' ', 'playoff_GP', 'playoff_GAA', 
                                    'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
-    goalie_df.to_csv('output_files\\goalie_stats', sep='|', index=False)
-    roster_df = pd.read_csv('output_files\\rosters', low_memory=False, sep='|', header=None, 
+    goalie_df.to_csv(os.path.join('output_files', 'goalie_stats'), sep='|', index=False)
+    roster_df = pd.read_csv(os.path.join('output_files', 'rosters'), low_memory=False, sep='|', header=None, 
                             names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace', 
                                    'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season', 'team'])
-    roster_df.to_csv('output_files\\rosters', sep='|', index=False)
+    roster_df.to_csv(os.path.join('output_files', 'rosters'), sep='|', index=False)
 
 def parse_all_files():
     '''
@@ -368,15 +371,15 @@ def parse_all_files():
     Outputs:
     text file - four text files containg, error log, roster info, player stats, goalie stats
     '''
-    with open('output_files\\rosters', 'a', encoding='utf-8') as a: 
-        with open('output_files\\player_stats', 'a', encoding='utf-8') as b: 
-            with open('output_files\\goalie_stats', 'a', encoding='utf-8') as c:
-                 with open ('output_files\\errorfile.txt', 'a', encoding='utf-8') as e:
-                    for subdir, root, files in os.walk('teampages\\'):
+    with open(os.path.join('output_files', 'rosters'), 'a', encoding='utf-8') as a: 
+        with open(os.path.join('output_files', 'player_stats'), 'a', encoding='utf-8') as b: 
+            with open(os.path.join('output_files', 'goalie_stats'), 'a', encoding='utf-8') as c:
+                 with open (os.path.join('output_files', 'errorfile.txt'), 'a', encoding='utf-8') as e:
+                    for subdir, root, files in os.walk('teampages'):
                         for name in files:
                             if 'stats' in name:
                                 try:
-                                    player_df, goalie_df = parse_team_stats('teampages\\{}'.format(name))
+                                    player_df, goalie_df = parse_team_stats(os.path.join(root, subdir, name))
                                     player_df.to_csv(b, sep='|', header=False, index=False)
                                     goalie_df.to_csv(c, sep='|', header=False, index=False)
                                 except Exception as ex:
@@ -384,7 +387,7 @@ def parse_all_files():
                                     e.write('{}{}'.format(name, '\n'))
                             else:
                                 try:
-                                    roster_df = parse_team_roster('teampages\\{}'.format(name))
+                                    roster_df = parse_team_roster(os.path.join(root, subdir, name))
                                     roster_df.to_csv(a, sep='|', header=False, index=False)
                                 except Exception as ex:
                                     print(ex)
@@ -402,7 +405,7 @@ def clean_data():
     '''
     # replace all the white space lines that matching the player ids created
     
-    player_df = pd.read_csv('output_files\\player_stats', sep='|')
+    player_df = pd.read_csv(os.path.join('output_files', 'player_stats'), sep='|')
     player_df = player_df.drop(columns = [' '])
     player_df = player_df.replace(r'^\s+$', np.nan, regex=True)
     player_df = player_df[pd.isna(player_df['GP']) == 0]
@@ -414,7 +417,8 @@ def clean_data():
                    ['GP', 'G', 'A', 'TP', 'PIM', '+/-', ' playoff_GP', 'playoff_G', 
                     'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']].astype('float')
 
-    player_df.to_csv('output_files\\player_stats', sep='|', index=False)
+    player_df.to_csv(os.path.join('output_files', 'player_stats')
+                     , sep='|', index=False)
 
 def main():
     # adjust here to select which leages you want to scrape the team pages of 
@@ -425,8 +429,9 @@ def main():
     url_base = 'http://www.eliteprospects.com/'
     # if you need to rebuild the leagueid json file that comes with this repo then 
     # scrapes the central league page
-    # scrape_html('{}{}'.format(url_base, 'league_central.php'), 'leaguepages\\league_page.txt')
-    # parse_league_ids('leaguepages\\league_page.txt', 'output_files\\leagueids.json')
+    # scrape_html('{}{}'.format(url_base, 'league_central.php'), os.path.join('leaguepages', 'league_page.txt'))
+    # parse_league_ids(os.path.join('leaguepages', 'league_page.txt'), 
+    #                  os.path.join('output_files', 'leagueids.json'))
 
     # This compiles a tem id dictionary based on what leagues you pass to 
     # it from the leagues list variable the repo comes built in with the team ids
