@@ -29,7 +29,7 @@ def scrape_html(url, file_name):
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(r.text)
 
-def parse_league_ids(file_name):
+def parse_league_ids(file_name, output_file_name):
     '''
     Function to parse the league id html page from elite prospects and pull
     the league ids and store them in a dictionary which the function will 
@@ -49,9 +49,12 @@ def parse_league_ids(file_name):
     leagues = soup.select('table[class=tableborder] a')
     for link in leagues:
         key = str(link.text.strip()).replace('/', '')
-        league_dict[key] = link.attrs['href']
+        if key in league_dict.keys():
+            league_dict['{}-W'.format(key)] = link.attrs['href'].replace('league_home.php?leagueid=', '')
+        else:
+            league_dict[key] = link.attrs['href'].replace('league_home.php?leagueid=', '')
 
-    write_to_json(league_dict, "output_files\\leagueids.json")
+    write_to_json(league_dict, output_file_name)
 
 def parse_team_ids(list_of_leagues):
     '''
@@ -401,18 +404,21 @@ def clean_data():
     player_df.to_csv('output_files\\player_stats', sep='|', index=False)
 
 def main():
-    # leagues = ['AHL', 'SHL', 'Allsvenskan', 
-    # 'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
-    # url_base = 'http://www.eliteprospects.com/'
-    # leagues_url_end = 'league_central.php'
-    # scrape_html('{}{}'.format(url_base, leagues_url_end), 'league_page.txt')
-    # parse_league_ids('leaguepages\\league_page.txt')
+    # adjust here to select which leages you want to scrape the team pages of 
+    leagues = ['AHL', 'SHL', 'Allsvenskan', 
+               'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 
+               'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
+    url_base = 'http://www.eliteprospects.com/'
+    # scrapes the central league page
+    scrape_html('{}{}'.format(url_base, 'league_central.php'), 'leaguepages\\league_page.txt')
+    # parses the central league
+    parse_league_ids('leaguepages\\league_page.txt')
     # scrape_league_page(leagues, url_base)
     # parse_team_ids(leagues)
     # scrape_team_page(url_base, leagues, 2003, 2018)
     # parse_all_files()
     # add_headers()
-    clean_data()
+    # clean_data()
                                     
 if __name__ == '__main__':
     main()
