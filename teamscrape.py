@@ -78,7 +78,7 @@ def parse_team_ids(list_of_leagues):
         tables = soup.find_all('table')
         for row in tables[15].find_all('tr'):
             for x in row.find_all('a'):
-                team_id_dict[x.text.replace('/', '')] = x['href']
+                team_id_dict[x.text.strip().replace('/', '')] = x['href'].replace('team.php?team=', '')
         league_team_dict[league] = team_id_dict
     print(league_team_dict)
     
@@ -115,13 +115,12 @@ def parse_team_stats(page_file):
     goalie_stats = []
     #get season and team info from file name
     season = page_file[-13:-9]
-    team = page_file[10:-13].replace('-', ' ')
     with open(page_file, encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
     # code for parsing the stats page for that team's season
     stats = soup.find_all('table')
-    team_code = soup.select('meta[property=og:url]')
-    team_id = team_code[0].attrs['content']
+    team = soup.select('meta[property=og:title]')[0].attrs['content']
+    team_id = soup.select('meta[property=og:url]')[0].attrs['content']
     team_id = team_id[team_id.index('=')+1:]
     # parsing player stats
     for row in stats[15].find_all('tr'):
@@ -208,12 +207,11 @@ def parse_team_roster(page_file):
         soup = bs4.BeautifulSoup(f, 'lxml')
 
     # parse team code
-    team_code = soup.select('meta[property=og:url]')
-    team_id = team_code[0].attrs['content']
+    team_id = soup.select('meta[property=og:url]')[0].attrs['content']
     team_id = team_id[team_id.index('=')+1:]
     # get season year and team name from file name
     season = page_file[-8:-4]
-    team = page_file[10:-14].replace('-', ' ')
+    team = soup.select('meta[property=og:title]')[0].attrs['content']
     # code for parsing the stats page for that team's season
     stats = soup.find_all('table')
     # parsing team roster 
@@ -299,19 +297,19 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
         for key, value in teams_dict[league].items():
         # Checks for directory existence if exist catches exception and moves on
             try:
-                os.mkdir(os.path.join('teampages', league, key))
+                os.mkdir(os.path.join('teampages', league, key.strip()))
             except FileExistsError as ex:
                 print('Folder already exists')
             for year in years:
                 print(key)
                 print(str(year))
                 scrape_html('{}team.php?team={}&year0={}'.format(url_base, value, str(year)), 
-                            os.path.join('teampages', league, key,
-                            '{}roster{}.txt'.format(str(key).replace(' ', '-').replace('/', ''), year)))
-                scrape_html('{}{}&year0={}&status=stats'.format(url_base, value, str(year)), 
-                            os.path.join('teampages', league, key,
-                            '{}{}stats.txt'.format(str(key).replace(' ', '-'), year)))
-                time.sleep(randint(1,15))
+                            os.path.join('teampages', league, key.strip(),
+                            '{}roster{}.txt'.format(key.strip().replace(' ', '-').replace('/', ''), year)))
+                scrape_html('{}team.php?team={}&year0={}&status=stats'.format(url_base, value, str(year)), 
+                            os.path.join('teampages', league, key.strip(),
+                            '{}{}stats.txt'.format(key.strip().replace(' ', '-'), year)))
+                time.sleep(randint(1,10))
 
 def scrape_league_page(league_scrape_list, url):
     '''
@@ -371,15 +369,15 @@ def parse_all_files():
     Outputs:
     text file - four text files containg, error log, roster info, player stats, goalie stats
     '''
-    with open(os.path.join('output_files', 'rosters'), 'a', encoding='utf-8') as a: 
-        with open(os.path.join('output_files', 'player_stats'), 'a', encoding='utf-8') as b: 
-            with open(os.path.join('output_files', 'goalie_stats'), 'a', encoding='utf-8') as c:
-                 with open (os.path.join('output_files', 'errorfile.txt'), 'a', encoding='utf-8') as e:
-                    for subdir, root, files in os.walk('teampages'):
+    with open(os.path.join('output_files', 'rosters'), 'w', encoding='utf-8') as a: 
+        with open(os.path.join('output_files', 'player_stats'), 'w', encoding='utf-8') as b: 
+            with open(os.path.join('output_files', 'goalie_stats'), 'w', encoding='utf-8') as c:
+                 with open (os.path.join('output_files', 'errorfile.txt'), 'w', encoding='utf-8') as e:
+                    for root, subdir, files in os.walk('teampages'):
                         for name in files:
                             if 'stats' in name:
                                 try:
-                                    player_df, goalie_df = parse_team_stats(os.path.join(root, subdir, name))
+                                    player_df, goalie_df = parse_team_stats(os.path.join(root, name))
                                     player_df.to_csv(b, sep='|', header=False, index=False)
                                     goalie_df.to_csv(c, sep='|', header=False, index=False)
                                 except Exception as ex:
@@ -387,7 +385,7 @@ def parse_all_files():
                                     e.write('{}{}'.format(name, '\n'))
                             else:
                                 try:
-                                    roster_df = parse_team_roster(os.path.join(root, subdir, name))
+                                    roster_df = parse_team_roster(os.path.join(root, name))
                                     roster_df.to_csv(a, sep='|', header=False, index=False)
                                 except Exception as ex:
                                     print(ex)
@@ -406,29 +404,51 @@ def clean_data():
     # replace all the white space lines that matching the player ids created
     
     player_df = pd.read_csv(os.path.join('output_files', 'player_stats'), sep='|')
+    goalie_df = pd.read_csv(os.path.join('output_files', 'goalie_stats'), sep='|')
     player_df = player_df.drop(columns = [' '])
+    goalie_df = goalie_df.drop(columns = [' '])
     player_df = player_df.replace(r'^\s+$', np.nan, regex=True)
     player_df = player_df[pd.isna(player_df['GP']) == 0]
     player_df = player_df.replace(to_replace='-', value=0)
     player_df = player_df.replace(to_replace='--6', value = -6)
     player_df.fillna(value=0, inplace=True)
-    player_df[['GP', 'G', 'A', 'TP', 'PIM', '+/-', ' playoff_GP', 'playoff_G', 
+    player_df[['GP', 'G', 'A', 'TP', 'PIM', '+/-', 'playoff_GP', 'playoff_G', 
                'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']] =  player_df[
-                   ['GP', 'G', 'A', 'TP', 'PIM', '+/-', ' playoff_GP', 'playoff_G', 
+                   ['GP', 'G', 'A', 'TP', 'PIM', '+/-', 'playoff_GP', 'playoff_G', 
                     'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']].astype('float')
 
     player_df.to_csv(os.path.join('output_files', 'player_stats')
                      , sep='|', index=False)
+
+def directory_setup():
+    try:
+        os.mkdir('teampages')
+    except FileExistsError as ex:
+        print('Folder already exists')
+    try:
+        os.mkdir('leaguepages')
+    except FileExistsError as ex:
+        print('Folder already exists')
+    try:
+        os.mkdir('output_files')
+    except FileExistsError as ex:
+        print('Folder already exists')
+
+def cleanup():
+    '''
+    This will be a function to zip the html text pages and store them in a zip 
+    file. Inputs and Outputs to be determined later
+    '''
+    return
 
 def main():
     # adjust here to select which leages you want to scrape the team pages of 
     leagues = ['AHL', 'SHL', 'Allsvenskan', 
                'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 
                'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
-    # leagues = ['NCAA']
     url_base = 'http://www.eliteprospects.com/'
     # if you need to rebuild the leagueid json file that comes with this repo then 
-    # scrapes the central league page
+    # scrape the central league page
     # scrape_html('{}{}'.format(url_base, 'league_central.php'), os.path.join('leaguepages', 'league_page.txt'))
     # parse_league_ids(os.path.join('leaguepages', 'league_page.txt'), 
     #                  os.path.join('output_files', 'leagueids.json'))
@@ -440,13 +460,13 @@ def main():
     # If you want women's leagues those will be appended with a '-W' where 
     # they have the same name as men's leagues.
     #scrape_league_page(leagues, url_base)
-    #parse_team_ids(leagues)
+    # parse_team_ids(leagues)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The 
     # parse_all_files actually compiles all that html and produces | 
     # delimited files of the data.
-    scrape_team_page(url_base, leagues, 2003, 2018)
+    # scrape_team_page(url_base, leagues, 2003, 2018)
     # parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
@@ -454,8 +474,8 @@ def main():
     # tournaments like the Memorial Cup or Champions League in Europe. This is more 
     #so for goalies than players as I don't want to average sv% and without
     # shot for against can't accurately calculate
-    # add_headers()
-    #  clean_data()
+    add_headers()
+    clean_data()
                                     
 if __name__ == '__main__':
     main()
