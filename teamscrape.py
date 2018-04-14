@@ -455,8 +455,11 @@ def cleanup(delimited_file):
 
 def main():
     # adjust here to select which leages you want to scrape the team pages of 
-    leagues = []
+    leagues = ['AHL', 'SHL', 'Allsvenskan', 
+                'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 	                
+                'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']	                
     url_base = 'http://www.eliteprospects.com/'
+    directory_setup()
     # if you need to rebuild the leagueid json file that comes with this repo then 
     # scrape the central league page
     scrape_html('{}{}'.format(url_base, 'league_central.php'), os.path.join('leaguepages', 'league_page.txt'))
