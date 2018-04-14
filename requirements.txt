@@ -1,0 +1,5 @@
+pandas
+bs4
+lxml <= 4.1.1
+numpy
+requests

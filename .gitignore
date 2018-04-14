@@ -7,3 +7,5 @@ teamscrape.py~
 __pycache__
 importfunctions.py
 errorfile.txt
+output_files/
+leaguepages/

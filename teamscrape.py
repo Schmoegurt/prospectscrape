@@ -1,11 +1,11 @@
 import os, sys
 import re
 import time
-import bs4
-import pandas as pd
-import requests
 import json
 from random import randint
+import requests
+import bs4
+import pandas as pd
 
 ############################################################################
 ## This is a series of functions designed to scrape the Elite Prosepects  ##
@@ -345,12 +345,12 @@ def add_headers():
     text files - The three text files create in parse_all_files() function but with column headers
     '''
     player_df = pd.read_csv(os.path.join('output_files', 'player_stats'), sep='|', header=None, 
-                            names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', ' ', 'playoff_GP', 
+                            names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', 'playoff_GP', 
                                    'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-', 
                                    'player_id', 'season', 'team', 'team_id'])
     player_df.to_csv(os.path.join('output_files', 'player_stats'), sep='|', index=False)
     goalie_df = pd.read_csv(os.path.join('output_files', 'goalie_stats'), sep='|', header=None, 
-                            names=['Player', 'GP', 'GAA', 'SV%', ' ', ' ', 'playoff_GP', 'playoff_GAA', 
+                            names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA', 
                                    'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
     goalie_df.to_csv(os.path.join('output_files', 'goalie_stats'), sep='|', index=False)
     roster_df = pd.read_csv(os.path.join('output_files', 'rosters'), low_memory=False, sep='|', header=None, 
@@ -415,9 +415,11 @@ def clean_data():
     player_df[['GP', 'G', 'A', 'TP', 'PIM', '+/-', 'playoff_GP', 'playoff_G', 
                'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']] =  player_df[
                    ['GP', 'G', 'A', 'TP', 'PIM', '+/-', 'playoff_GP', 'playoff_G', 
-                    'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']].astype('float')
+                    'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-']].astype('int')
 
     player_df.to_csv(os.path.join('output_files', 'player_stats')
+                     , sep='|', index=False)
+    goalie_df.to_csv(os.path.join('output_files', 'goalie_stats')
                      , sep='|', index=False)
 
 def directory_setup():
@@ -434,24 +436,32 @@ def directory_setup():
     except FileExistsError as ex:
         print('Folder already exists')
 
-def cleanup():
+def cleanup(delimited_file):
     '''
     This will be a function to zip the html text pages and store them in a zip 
-    file. Inputs and Outputs to be determined later
+    file.
+    Inputs:
+    delimited_file - a pipe delimited file containing player data
+
+    Outputs:
+    cleaned_file - a pipe delimited file where the data as been clean
     '''
+    stat_df = pd.read_csv(delimited_file, sep='|')
+    stat_df = stat_df.groupby(['player_id', 'Player', 'season', 'team', 'team_id'], 
+                                as_index=False).sum()
+    stat_df.to_csv(delimited_file, sep='|', index=False)
+    
     return
 
 def main():
     # adjust here to select which leages you want to scrape the team pages of 
-    leagues = ['AHL', 'SHL', 'Allsvenskan', 
-               'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL', 
-               'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
+    leagues = []
     url_base = 'http://www.eliteprospects.com/'
     # if you need to rebuild the leagueid json file that comes with this repo then 
     # scrape the central league page
-    # scrape_html('{}{}'.format(url_base, 'league_central.php'), os.path.join('leaguepages', 'league_page.txt'))
-    # parse_league_ids(os.path.join('leaguepages', 'league_page.txt'), 
-    #                  os.path.join('output_files', 'leagueids.json'))
+    scrape_html('{}{}'.format(url_base, 'league_central.php'), os.path.join('leaguepages', 'league_page.txt'))
+    parse_league_ids(os.path.join('leaguepages', 'league_page.txt'), 
+                     os.path.join('output_files', 'leagueids.json'))
 
     # This compiles a tem id dictionary based on what leagues you pass to 
     # it from the leagues list variable the repo comes built in with the team ids
@@ -459,23 +469,23 @@ def main():
     # leagues and insert the ones you want and uncomment the next two lines.
     # If you want women's leagues those will be appended with a '-W' where 
     # they have the same name as men's leagues.
-    #scrape_league_page(leagues, url_base)
-    # parse_team_ids(leagues)
+    scrape_league_page(leagues, url_base)
+    parse_team_ids(leagues)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The 
     # parse_all_files actually compiles all that html and produces | 
     # delimited files of the data.
-    # scrape_team_page(url_base, leagues, 2003, 2018)
-    # parse_all_files()
+    scrape_team_page(url_base, leagues, 2003, 2018)
+    parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
     # data there will be duplicates for some players if they played in special
     # tournaments like the Memorial Cup or Champions League in Europe. This is more 
-    #so for goalies than players as I don't want to average sv% and without
+    # so for goalies than players as I don't want to average sv% and without
     # shot for against can't accurately calculate
     add_headers()
     clean_data()
-                                    
+    cleanup(os.path.join('output_files', 'player_stats'))      
 if __name__ == '__main__':
     main()
