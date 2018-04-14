@@ -37,5 +37,8 @@ is the start year you want to begin scraping. Once those two isues are
 set to the parameters you want then save the file and run the script like
 you normally would. Happy scraping.
 
+One more word of advice this is a slow process especially as you try to scrape multiple
+leagues/seasons in one go. I've made it slower by making the program wait randomly
+between scrapes so just don't expect it to be quick.
 
  
