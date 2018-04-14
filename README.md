@@ -8,6 +8,17 @@ and `roster`. A fourth file `errorfile.txt.` will be create from the parsing
 to log which files couldn't be succesfully parsed because there were
 no stats/rosters to parse that season.
 
+The script will also create three new directories `output_file`, 
+`leaguepages`, and `teampages`. Leaguepages will hold the html files
+of each leagues main page that will be scraped to get the teams. It will also
+store a `teamids.json` file that holds the league ids for every league on 
+elite prospects. 
+
+The `output_file` folder will be where your stat files and
+error file will be written. And finally the `teampages` stores all the html
+for each team per season. You can delete these once your stats are compiled 
+but if you need the info again you'll have to rescrape it.
+
 Please do not abuse this as the people at Elite Prospects do work hard. This
 is for research purposes only.
 
