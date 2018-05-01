@@ -56,7 +56,7 @@ def parse_league_ids(file_name, output_file_name):
 
     write_to_json(league_dict, output_file_name)
 
-def parse_team_ids(list_of_leagues):
+def parse_team_ids(list_of_leagues, start_year, end_year):
     '''
     Function to parse the team ids for each team from the list of leagues 
 
@@ -68,18 +68,53 @@ def parse_team_ids(list_of_leagues):
     '''
     teampages_dir = 'leaguepages'
     league_team_dict = {}
+    years = list(map(str, list(range(start_year, end_year + 1, 1))))
 
 
     for league in list_of_leagues:
-        print(league)
-        team_id_dict = {}
-        with open(os.path.join(teampages_dir,'{}.txt'.format(league)), encoding='utf-8') as f:
-            soup = bs4.BeautifulSoup(f, 'lxml')
-        tables = soup.find_all('table')
-        for row in tables[15].find_all('tr'):
-            for x in row.find_all('a'):
-                team_id_dict[x.text.strip().replace('/', '')] = x['href'].replace('team.php?team=', '')
-        league_team_dict[league] = team_id_dict
+        year_dict = {}
+        for year in years:
+            print(league)
+            team_id_dict = {}
+            with open(os.path.join(teampages_dir, league, year, '{}.txt'.format(league)), encoding='utf-8') as f:
+                soup = bs4.BeautifulSoup(f, 'lxml')
+            tables = soup.find_all('table')
+            if year == years[-1]:
+                for row in tables[15].find_all('tr'):
+                    for x in row.find_all('a'):
+                        team_id_dict[x.text.strip().replace('/', '')] = x['href'].replace('team.php?team=', '').replace('&year0={}'.format(str(year)), '')
+                        team_id_dict.pop('#', None)
+                        team_id_dict.pop('GP', None)
+                        team_id_dict.pop('TEAM', None)
+                        team_id_dict.pop('W', None)
+                        team_id_dict.pop('T', None)
+                        team_id_dict.pop('L', None)
+                        team_id_dict.pop('OTW', None)
+                        team_id_dict.pop('OTL', None)
+                        team_id_dict.pop('GF', None)
+                        team_id_dict.pop('GA', None)
+                        team_id_dict.pop('+-', None)
+                        team_id_dict.pop('TP', None)
+                        team_id_dict.pop('POSTSEASON', None)
+            else:    
+                for row in tables[16].find_all('tr'):
+                    for x in row.find_all('a'):
+                        team_id_dict[x.text.strip().replace('/', '')] = x['href'].replace('team.php?team=', '').replace('&year0={}'.format(str(year)), '')
+                        team_id_dict.pop('#', None)
+                        team_id_dict.pop('GP', None)
+                        team_id_dict.pop('TEAM', None)
+                        team_id_dict.pop('W', None)
+                        team_id_dict.pop('T', None)
+                        team_id_dict.pop('L', None)
+                        team_id_dict.pop('OTW', None)
+                        team_id_dict.pop('OTL', None)
+                        team_id_dict.pop('GF', None)
+                        team_id_dict.pop('GA', None)
+                        team_id_dict.pop('+-', None)
+                        team_id_dict.pop('TP', None)
+                        team_id_dict.pop('POSTSEASON', None)
+            year_dict[str(year)] = team_id_dict        
+        league_team_dict[league] = year_dict
     print(league_team_dict)
     
     write_to_json(league_team_dict, 
@@ -266,7 +301,7 @@ def parse_team_roster(page_file):
 
     return roster_df
 
-def scrape_team_page(url_base, leagues, start_year, end_year):
+def scrape_team_page(url_base, leagues):
     '''
     Function to pull the html for each teams seasons and save it to the file
 
@@ -280,8 +315,6 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
     text_files - a bunch of text files containing each teams roster and stats
     pages html for the past 20 years
     '''
-    # creates list of years to scrape for each team adjust as neccesary
-    years = list(range(start_year, end_year, 1))
 
     # opens team ids file and loads them in a dictionary
     with open(os.path.join('output_files', 'teamids.json'), 'r', encoding ='utf-8') as f:
@@ -294,24 +327,22 @@ def scrape_team_page(url_base, leagues, start_year, end_year):
         except FileExistsError as ex:
             print('Folder already exists')
         
-        for key, value in teams_dict[league].items():
-        # Checks for directory existence if exist catches exception and moves on
+        for year, teams in teams_dict[league].items():
             try:
-                os.mkdir(os.path.join('teampages', league, key.strip()))
+                os.mkdir(os.path.join('teampages', league, year))
             except FileExistsError as ex:
-                print('Folder already exists')
-            for year in years:
-                print(key)
-                print(str(year))
-                scrape_html('{}team.php?team={}&year0={}'.format(url_base, value, str(year)), 
-                            os.path.join('teampages', league, key.strip(),
-                            '{}roster{}.txt'.format(key.strip().replace(' ', '-').replace('/', ''), year)))
-                scrape_html('{}team.php?team={}&year0={}&status=stats'.format(url_base, value, str(year)), 
-                            os.path.join('teampages', league, key.strip(),
-                            '{}{}stats.txt'.format(key.strip().replace(' ', '-'), year)))
+                pass
+            for team, team_id in teams.items():
+    # Checks for directory existence if exist catches exception and moves on
+                scrape_html('{}team.php?team={}&year0={}'.format(url_base, team_id, year), 
+                            os.path.join('teampages', league, year,
+                            '{}roster{}.txt'.format(team.replace(' ', '-').replace('/', ''), year)))
+                scrape_html('{}team.php?team={}&year0={}&status=stats'.format(url_base, team_id, year), 
+                            os.path.join('teampages', league, year, 
+                            '{}{}stats.txt'.format(team.strip().replace(' ', '-'), year)))
                 time.sleep(randint(1,10))
 
-def scrape_league_page(league_scrape_list, url):
+def scrape_league_page(league_scrape_list, url, year_start, year_end):
     '''
     function to scrape each league page and return each team in the league 
     and their repsective url and id number as well 
@@ -329,10 +360,15 @@ def scrape_league_page(league_scrape_list, url):
     
     # using the list of leagues provided pulls the league url from 
     # dictionary and scrapes that leagues home page
+    years = list(map(str, list(range(year_start-1, year_end, 1))))
     for league in league_scrape_list:
-        scrape_html('{}league_home.php?leagueid={}'.format(url, league_dict[league]), 
-                    os.path.join('leaguepages', '{}.txt'.format(league)))
-        time.sleep(10)
+        os.mkdir(os.path.join('leaguepages', league))
+        for year in years:
+            print(year)
+            os.mkdir(os.path.join('leaguepages', league, str(int(year)+1)))
+            scrape_html('{}league_home.php?leagueid={}&startdate={}'.format(url, league_dict[league], year), 
+                        os.path.join('leaguepages', league, str(int(year)+1), '{}.txt'.format(league)))
+            time.sleep(10)
 
 def add_headers():
     '''
@@ -472,14 +508,14 @@ def main():
     # leagues and insert the ones you want and uncomment the next two lines.
     # If you want women's leagues those will be appended with a '-W' where 
     # they have the same name as men's leagues.
-    scrape_league_page(leagues, url_base)
-    parse_team_ids(leagues)
+    scrape_league_page(leagues, url_base, 2003, 2018)
+    parse_team_ids(leagues, 2003, 2018)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The 
     # parse_all_files actually compiles all that html and produces | 
     # delimited files of the data.
-    scrape_team_page(url_base, leagues, 2003, 2018)
+    scrape_team_page(url_base, leagues)
     parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
@@ -489,6 +525,6 @@ def main():
     # shot for against can't accurately calculate
     add_headers()
     clean_data()
-    cleanup(os.path.join('output_files', 'player_stats'))      
+    #cleanup(os.path.join('output_files', 'player_stats'))      
 if __name__ == '__main__':
     main()
