@@ -56,4 +56,4 @@ for league in league_base:
                                     columns = ['Overall', 'Team', 'player', 'seasons',
                                                'GP', 'G', 'A', 'TP', 'PIM', 'player_id', 'year'])
             draft_df.to_csv(file, sep='|', header=False, index=False)
-#            time.sleep(60)
+            time.sleep(90)

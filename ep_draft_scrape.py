@@ -36,6 +36,7 @@ with open('draft_stats', 'w') as file:
         player_ids = []
 
 
+        #pulls the player url from the table and adds it to a list
         for x in range(2, len(players), 9):
             try:
                 player_ids.append(players[x].a['href'])
@@ -43,9 +44,11 @@ with open('draft_stats', 'w') as file:
                 player_ids.append('11111')
                 continue
 
+        #appends the player url to the end of each player list
         for row, player_id in zip(player_rows, player_ids):
             row.append(player_id)
 
+        #pulls out player id from url using regex
         for row in player_rows:
             row[-1] = re.findall('\d+', row[-1])[0]
 
@@ -53,4 +56,4 @@ with open('draft_stats', 'w') as file:
                                 columns = ['Overall', 'Team', 'player', 'seasons',
                                            'GP', 'G', 'A', 'TP', 'PIM', 'player_id'])
         draft_df.to_csv(file, sep='|', header=False, index=False)
-        time.sleep(60)
+        time.sleep(90)
