@@ -10,7 +10,7 @@ player_rows = []
 league_base = ['nwhl-draft', 'cwhl-draft']
 for league in league_base:
     with open(league, 'w') as file:
-        file.write('Overall|Team|player|seasons|GP|G|A|TP|PIM|player_id\n')
+        file.write('Overall|Team|player|seasons|GP|G|A|TP|PIM|player_id|year|\n')
        #change the numbers here to widen or shorten your years to scrape
         years = list(range(2015,2018,1))
 
