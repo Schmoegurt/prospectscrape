@@ -285,6 +285,7 @@ def parse_team_roster(page_file):
 
     return roster_df
 
+#this function has been converted for the new EP format
 def scrape_team_page(url_base, leagues):
     '''
     Function to pull the html for each teams seasons and save it to the file
@@ -318,10 +319,12 @@ def scrape_team_page(url_base, leagues):
                 pass
             for team, team_id in teams.items():
     # Checks for directory existence if exist catches exception and moves on
-                scrape_html('{}team.php?team={}&year0={}'.format(url_base, team_id, year),
+                scrape_html('{}team/{}/{}-{}'.format(url_base, team_id,
+                                                     str(int(year)-1), year),
                             os.path.join('teampages', league, year,
                             '{}roster{}.txt'.format(team.replace(' ', '-').replace('/', ''), year)))
-                scrape_html('{}team.php?team={}&year0={}&status=stats'.format(url_base, team_id, year),
+                scrape_html('{}team/{}/{}-{}?tab=stats#players'\
+                            .format(url_base, team_id, str(int(year)-1), year),
                             os.path.join('teampages', league, year,
                             '{}{}stats.txt'.format(team.strip().replace(' ', '-'), year)))
                 time.sleep(randint(1,10))
@@ -494,13 +497,13 @@ def main():
     # If you want women's leagues those will be appended with a '-W' where
     # they have the same name as men's leagues.
     #scrape_league_page(leagues, url_base, 2017, 2018)
-    parse_team_ids(leagues, 2017, 2018)
+    #parse_team_ids(leagues, 2017, 2018)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The
     # parse_all_files actually compiles all that html and produces |
     # delimited files of the data.
-    #scrape_team_page(url_base, leagues)
+    scrape_team_page(url_base, leagues)
     #parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
