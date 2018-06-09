@@ -28,6 +28,8 @@ def scrape_html(url, file_name):
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(r.text)
 
+#This function is not needed for new EP website structure remove after
+#final testing
 def parse_league_ids(file_name, output_file_name):
     '''
     Function to parse the league id html page from elite prospects and pull
@@ -77,7 +79,7 @@ def parse_team_ids(list_of_leagues, start_year, end_year):
             team_id_dict = {}
             with open(os.path.join(teampages_dir, league, year, '{}.txt'.format(league)), encoding='utf-8') as f:
                 soup = bs4.BeautifulSoup(f, 'lxml')
-            tables = soup.find_all('table')
+            tables = soup.find('table')
             if year == years[-1]:
                 for row in tables[15].find_all('tr'):
                     for x in row.find_all('a'):
@@ -341,6 +343,7 @@ def scrape_team_page(url_base, leagues):
                             '{}{}stats.txt'.format(team.strip().replace(' ', '-'), year)))
                 time.sleep(randint(1,10))
 
+#this has been converted to the new Elite Prospects webpage format
 def scrape_league_page(league_scrape_list, url, year_start, year_end):
     '''
     function to scrape each league page and return each team in the league
@@ -353,20 +356,20 @@ def scrape_league_page(league_scrape_list, url, year_start, year_end):
     Output:
     home_page_html - File containing html of each league home page
     '''
-    # opens id json file and forms a dictionary
-    with open(os.path.join('output_files', 'leagueids.json'), 'r', encoding='utf-8') as f:
-        league_dict = json.load(f)
 
     # using the list of leagues provided pulls the league url from
     # dictionary and scrapes that leagues home page
-    years = list(map(str, list(range(year_start-1, year_end, 1))))
+    years = list(map(str, list(range(year_start, year_end+1, 1))))
     for league in league_scrape_list:
         os.mkdir(os.path.join('leaguepages', league))
+        print(league)
         for year in years:
             print(year)
-            os.mkdir(os.path.join('leaguepages', league, str(int(year)+1)))
-            scrape_html('{}league_home.php?leagueid={}&startdate={}'.format(url, league_dict[league], year),
-                        os.path.join('leaguepages', league, str(int(year)+1), '{}.txt'.format(league)))
+            os.mkdir(os.path.join('leaguepages', league, year))
+            scrape_html('{}league/{}/{}-{}'.format(url, league,
+                                                   str(int(year)-1), year),
+                        os.path.join('leaguepages', league, year,
+                                     '{}.txt'.format(league)))
             time.sleep(10)
 
 def add_headers():
@@ -500,9 +503,6 @@ def main():
     directory_setup()
     # if you need to rebuild the leagueid json file that comes with this repo then
     # scrape the central league page
-    scrape_html('{}{}'.format(url_base, 'league_central.php'), os.path.join('leaguepages', 'league_page.txt'))
-    parse_league_ids(os.path.join('leaguepages', 'league_page.txt'),
-                     os.path.join('output_files', 'leagueids.json'))
 
     # This compiles a tem id dictionary based on what leagues you pass to
     # it from the leagues list variable the repo comes built in with the team ids
@@ -511,22 +511,22 @@ def main():
     # If you want women's leagues those will be appended with a '-W' where
     # they have the same name as men's leagues.
     scrape_league_page(leagues, url_base, 2017, 2018)
-    parse_team_ids(leagues, 2017, 2018)
+    #parse_team_ids(leagues, 2017, 2018)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The
     # parse_all_files actually compiles all that html and produces |
     # delimited files of the data.
-    scrape_team_page(url_base, leagues)
-    parse_all_files()
+    #scrape_team_page(url_base, leagues)
+    #parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
     # data there will be duplicates for some players if they played in special
     # tournaments like the Memorial Cup or Champions League in Europe. This is more
     # so for goalies than players as I don't want to average sv% and without
     # shot for against can't accurately calculate
-    add_headers()
-    clean_data()
+    #add_headers()
+    #clean_data()
     #cleanup(os.path.join('output_files', 'player_stats'))
 if __name__ == '__main__':
     main()
