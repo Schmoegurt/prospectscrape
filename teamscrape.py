@@ -57,6 +57,7 @@ def parse_league_ids(file_name, output_file_name):
 
     write_to_json(league_dict, output_file_name)
 
+#this has been converted to the new EP format
 def parse_team_ids(list_of_leagues, start_year, end_year):
     '''
     Function to parse the team ids for each team from the list of leagues
@@ -79,41 +80,23 @@ def parse_team_ids(list_of_leagues, start_year, end_year):
             team_id_dict = {}
             with open(os.path.join(teampages_dir, league, year, '{}.txt'.format(league)), encoding='utf-8') as f:
                 soup = bs4.BeautifulSoup(f, 'lxml')
-            tables = soup.find('table')
-            if year == years[-1]:
-                for row in tables[15].find_all('tr'):
-                    for x in row.find_all('a'):
-                        team_id_dict[x.text.strip().replace('/', '')] = x['href'].replace('team.php?team=', '').replace('&year0={}'.format(str(year)), '')
-                        team_id_dict.pop('#', None)
-                        team_id_dict.pop('GP', None)
-                        team_id_dict.pop('TEAM', None)
-                        team_id_dict.pop('W', None)
-                        team_id_dict.pop('T', None)
-                        team_id_dict.pop('L', None)
-                        team_id_dict.pop('OTW', None)
-                        team_id_dict.pop('OTL', None)
-                        team_id_dict.pop('GF', None)
-                        team_id_dict.pop('GA', None)
-                        team_id_dict.pop('+-', None)
-                        team_id_dict.pop('TP', None)
-                        team_id_dict.pop('POSTSEASON', None)
-            else:
-                for row in tables[16].find_all('tr'):
-                    for x in row.find_all('a'):
-                        team_id_dict[x.text.strip().replace('/', '')] = x['href'].replace('team.php?team=', '').replace('&year0={}'.format(str(year)), '')
-                        team_id_dict.pop('#', None)
-                        team_id_dict.pop('GP', None)
-                        team_id_dict.pop('TEAM', None)
-                        team_id_dict.pop('W', None)
-                        team_id_dict.pop('T', None)
-                        team_id_dict.pop('L', None)
-                        team_id_dict.pop('OTW', None)
-                        team_id_dict.pop('OTL', None)
-                        team_id_dict.pop('GF', None)
-                        team_id_dict.pop('GA', None)
-                        team_id_dict.pop('+-', None)
-                        team_id_dict.pop('TP', None)
-                        team_id_dict.pop('POSTSEASON', None)
+            tables = soup.find('table', {'class': 'table standings table-sortable'})
+            for row in tables.find_all('tr'):
+                for x in row.find_all('a'):
+                    team_id_dict[x.text.strip().replace('/', '')] = x['href'].split('/')[4]
+                team_id_dict.pop('#', None)
+                team_id_dict.pop('GP', None)
+                team_id_dict.pop('TEAM', None)
+                team_id_dict.pop('W', None)
+                team_id_dict.pop('T', None)
+                team_id_dict.pop('L', None)
+                team_id_dict.pop('OTW', None)
+                team_id_dict.pop('OTL', None)
+                team_id_dict.pop('GF', None)
+                team_id_dict.pop('GA', None)
+                team_id_dict.pop('+-', None)
+                team_id_dict.pop('TP', None)
+                team_id_dict.pop('POSTSEASON', None)
             year_dict[str(year)] = team_id_dict
         league_team_dict[league] = year_dict
     print(league_team_dict)
@@ -510,8 +493,8 @@ def main():
     # leagues and insert the ones you want and uncomment the next two lines.
     # If you want women's leagues those will be appended with a '-W' where
     # they have the same name as men's leagues.
-    scrape_league_page(leagues, url_base, 2017, 2018)
-    #parse_team_ids(leagues, 2017, 2018)
+    #scrape_league_page(leagues, url_base, 2017, 2018)
+    parse_team_ids(leagues, 2017, 2018)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The
