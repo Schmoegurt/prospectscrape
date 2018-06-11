@@ -1,4 +1,5 @@
 import os, sys
+import re
 import time
 import json
 from random import randint
@@ -189,8 +190,8 @@ def parse_team_stats(page_file):
     player_df['PLAYER'] = player_df['PLAYER'].str.replace(r'(\(.+\))', '')
 
     # drop # column as its not needed
-    goalie_df = goalie_df.drop(columns =['#'])
-    player_df = player_df.drop(columns =['#'])
+    goalie_df = goalie_df.drop(columns=['#'])
+    player_df = player_df.drop(columns=['#'])
     player_col_names = ['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ',
                         'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP',
                         'playoff_PIM', 'playoff_+/-', 'player_id']
@@ -209,6 +210,7 @@ def parse_team_stats(page_file):
 
     return player_df, goalie_df
 
+#this function has been converted for the new EP format
 def parse_team_roster(page_file):
     '''
     This function scrapes the teams roster page for each year
@@ -226,62 +228,72 @@ def parse_team_roster(page_file):
         soup = bs4.BeautifulSoup(f, 'lxml')
 
     # parse team code
-    team_id = soup.select('meta[property=og:url]')[0].attrs['content']
-    team_id = team_id[team_id.index('=')+1:]
+    team_id = soup.select('meta[name=description]')[0].attrs['content'].split('-')
+    team = team_id[0].strip()
+    league = team_id[1].strip()
+
     # get season year and team name from file name
     season = page_file[-8:-4]
-    team = soup.select('meta[property=og:title]')[0].attrs['content']
-    # code for parsing the stats page for that team's season
-    stats = soup.find_all('table')
-    # parsing team roster
-    for row in stats[15].find_all('tr'):
-        team_roster.append([x.text for x in row.find_all('td')])
 
-    roster_header = team_roster.pop(0)
-    roster_df = pd.DataFrame(team_roster, columns=roster_header)
-    print(roster_df.head())
-    roster_df['PLAYER'] = roster_df['PLAYER'].str.strip()
+    # code for parsing the stats page for that team's season
+    stats = soup.find('table', {'class': 'table table-striped table-sortable roster'})
+
+    # parsing team roster
+    for row in stats.find_all('tr'):
+        if row.get('class', ['nope'])[0] == 'title':
+            continue
+        team_roster.append([x.text.strip() for x in row.find_all('td')])
+
+    #dropping unneccesary columns and creating names for them
+    team_roster.pop(0)
+    roster_df = pd.DataFrame(team_roster)
+    roster_df.drop([0, 1, 2], axis=1, inplace=True)
+    roster_df.columns = ['player', 'age', 'birth_year', 'birthplace', 'HT', 'WT', 'shoots', 'contract']
+    roster_df['player'] = roster_df['player'].str.strip()
+
+
     # create position column
-    roster_df['Position'] = roster_df['PLAYER'].str.extract(r'(\(.+\))')
-    roster_df['Position'] = roster_df['Position'].str.replace('(', '')
-    roster_df['Position'] = roster_df['Position'].str.replace(')', '')
-    roster_df['\\xa0#'] = roster_df['Position'].str.replace('#', '')
-    roster_df['PLAYER'] = roster_df['PLAYER'].str.replace(r'(\(.+\))', '')
-    #rearrange columns and rename some
-    colnames = roster_df.columns.tolist()
-    # remove columns that have no data
-    colnames.pop(9)
-    colnames.pop(0)
-    colnames.pop()
-    colnames = colnames[:3] + colnames[-1:] + colnames[3:-1]
-    roster_df = roster_df[colnames]
-    #rename columns in df
-    colnames[0] = 'Number'
-    colnames[-1] = 'Shots'
-    roster_df.columns = colnames
+    roster_df['position'] = roster_df['player'].str.extract(r'(\(.+\))')
+    roster_df['position'] = roster_df['position'].str.replace('(', '')
+    roster_df['position'] = roster_df['position'].str.replace(')', '')
+    roster_df['player'] = roster_df['player'].str.replace(r'(\(.+\))', '')
+
     # drop empty rows
-    roster_df = roster_df[~(roster_df['PLAYER']=='')]
+    roster_df = roster_df[~(roster_df['player']=='')]
     roster_df = roster_df.dropna(axis=0, how='all')
+    print(roster_df.head())
+
+    #the strips don't remove the C and A markings so we have to remove them
+    #with a created function
+    def clean_name(name):
+        new_name = name.split(' ')
+        clean_name = ' '.join(new_name[0:2])
+        return clean_name
+    roster_df['player'] = roster_df['player'].str.replace('\\n', '')
+    roster_df.replace(u'\xa0',u'', regex=True, inplace=True)
+    print(roster_df['player'])
+    roster_df['player'] = roster_df['player'].map(clean_name)
 
     # getting player ids
     id_href = []
     player_ids = []
-    for row in stats[15].find_all('tr'):
+    for row in stats.find_all('tr'):
         id_href.append([x['href'] for x in row.find_all('a')])
-    id_href = id_href[1:]
-    for row in id_href:
-        if len(row) > 1:
-            player_ids.append(row[0])
-    # Clean up player numbers and ids
+
+    #clean up the links pulled to only have the links for players and no
+    #extraneous links. Also pull the id form the link using regex and clean
+    #them up
+    id_href = [x for x in id_href if len(x) > 1]
+    id_href = [x[0] for x in id_href]
+    player_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    player_ids = [x.replace('/', '') for x in player_ids]
+
+
+    # Add player ids, season, team, and league for each player
     roster_df['player_id'] = player_ids
-    roster_df['player_id'] = roster_df['player_id'].str.replace('player.php\?player=', '')
-    roster_df['Number'] = roster_df['Number'].str.replace('#', '')
-    roster_df['team_id'] = team_id
     roster_df['season'] = season
-    print(roster_df.columns)
-    roster_df['HT'] = roster_df['HT'].str.slice(start=3)
-    roster_df['WT'] = roster_df['WT'].str.slice(start=2)
     roster_df['team'] = team
+    roster_df['league'] = league
 
     return roster_df
 
