@@ -14,6 +14,7 @@ import pandas as pd
 ## by Matthew Barlowe @matt_barlowe on twitter mcbarlowe on github        ##
 ############################################################################
 
+#this function works with new EP format
 def scrape_html(url, file_name):
     '''
     Function to pull the html of a webpage and write the html to a text file
@@ -105,6 +106,7 @@ def parse_team_ids(list_of_leagues, start_year, end_year):
     write_to_json(league_team_dict,
                   os.path.join('output_files', 'teamids.json'))
 
+#this function works with the new EP format
 def write_to_json(dictionary, file_name):
     '''
     Quick function to write a dictionary to a json file
@@ -120,6 +122,7 @@ def write_to_json(dictionary, file_name):
     with open(file_name, 'w', encoding='utf-8') as f:
         f.write(json_data)
 
+#this function works with the new EP format
 def parse_team_stats(page_file):
     '''
     This function scrapes the teams roster and stats pages for each year
@@ -138,76 +141,87 @@ def parse_team_stats(page_file):
     with open(page_file, encoding='utf-8') as f:
         soup = bs4.BeautifulSoup(f, 'lxml')
     # code for parsing the stats page for that team's season
-    stats = soup.find_all('table')
-    team = soup.select('meta[property=og:title]')[0].attrs['content']
-    team_id = soup.select('meta[property=og:url]')[0].attrs['content']
-    team_id = team_id[team_id.index('=')+1:]
-    # parsing player stats
-    for row in stats[15].find_all('tr'):
-        player_stats.append([x.text for x in row.find_all('td')])
-    # parsing goalie stats
-    for row in stats[16].find_all('tr'):
-        goalie_stats.append([x.text for x in row.find_all('td')])
+    player_table = soup.find('table', {'class': 'table table-striped table-sortable skater-stats highlight-stats'})
 
-    # create column names for goalie/player dataframes
-    player_header = player_stats.pop(0)
-    goalie_header = goalie_stats.pop(0)
+    goalie_table = soup.find('table', {'class': 'table table-striped table-sortable goalie-stats highlight-stats'})
+
+    team_id = soup.select('meta[name=description]')[0].attrs['content'].split('-')
+    team = team_id[0].strip()
+    league = team_id[1].strip()
+    # parsing player stats
+    for row in player_table.find_all('tr'):
+        if row.get('class', ['nope'])[0] in ['title', 'space']:
+            continue
+        player_stats.append([x.text.strip() for x in row.find_all('td')])
+    # parsing goalie stats
+    for row in goalie_table.find_all('tr'):
+        if row.get('class', ['nope'])[0] in ['title', 'space']:
+            continue
+        goalie_stats.append([x.text.strip() for x in row.find_all('td')])
+
+    player_stats.pop(0)
+    goalie_stats.pop(0)
+    #create lists for column names
+    player_columns = ['player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-',
+                      'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP',
+                      'playoff_PIM', 'playoff_+/-']
+
+    goalie_columns = ['player', 'GP', 'GAA', 'SV%', 'playoff_GP', 'playoff_GAA',
+                      'playoff_SV%']
+
     #create data frames from scraped list of lists
-    player_df = pd.DataFrame(player_stats, columns=player_header)
-    goalie_df = pd.DataFrame(goalie_stats, columns=goalie_header)
+    player_df = pd.DataFrame(player_stats)
+    goalie_df = pd.DataFrame(goalie_stats)
+
+    #drop unnecesary columns
+    player_df = player_df.drop([0, 8], axis = 1)
+    goalie_df = goalie_df.drop([0, 5], axis = 1)
+
+    player_df.columns = player_columns
+    goalie_df.columns = goalie_columns
+
     # remove empty rows
-    player_df = player_df[~(player_df['PLAYER'].str[-1]=='.')]
+    #player_df = player_df[~(player_df['PLAYER'].str[-1]=='.')]
 
     # getting player ids
     id_href = []
-    player_ids = []
-    for row in stats[15].find_all('tr'):
+
+    for row in player_table.find_all('tr'):
+        if row.get('class', ['nope'])[0] in ['title', 'space']:
+            continue
         id_href.append([x['href'] for x in row.find_all('a')])
-    for row in id_href:
-        if len(row) == 1:
-            player_ids.append(row[0])
-    print(len(player_ids))
-    print(player_df.shape)
-    # Clean up player nubers and ids
+
+    id_href = [x for x in id_href if len(x) > 0]
+    id_href = [x[0] for x in id_href]
+    player_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    player_ids = [x.replace('/', '') for x in player_ids]
     player_df['player_id'] = player_ids
-    player_df['player_id'] = player_df['player_id'].str.replace('player.php\?player=', '')
 
     # getting goalie ids
     id_href = []
-    goalie_ids = []
-    for row in stats[16].find_all('tr'):
+
+    for row in goalie_table.find_all('tr'):
+        if row.get('class', ['nope'])[0] in ['title', 'space']:
+            continue
         id_href.append([x['href'] for x in row.find_all('a')])
-    for row in id_href:
-        if len(row) == 1:
-            goalie_ids.append(row[0])
-    print(goalie_ids)
-    print(goalie_df.shape)
-    # Clean up player nubers and ids
+
+    id_href = [x for x in id_href if len(x) > 0]
+    id_href = [x[0] for x in id_href]
+    goalie_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    goalie_ids = [x.replace('/', '') for x in goalie_ids]
     goalie_df['player_id'] = goalie_ids
-    goalie_df['player_id'] = goalie_df['player_id'].str.replace('player.php\?player=', '')
 
     # remove position as its already on the roster table
-    player_df['PLAYER'] = player_df['PLAYER'].str.replace(r'(\(.+\))', '')
-
-    # drop # column as its not needed
-    goalie_df = goalie_df.drop(columns=['#'])
-    player_df = player_df.drop(columns=['#'])
-    player_col_names = ['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ',
-                        'playoff_GP', 'playoff_G', 'playoff_A', 'playoff_TP',
-                        'playoff_PIM', 'playoff_+/-', 'player_id']
-    goalie_col_names = ['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP',
-                        'playoff_GAA', 'playoff_SV%', 'player_id']
-
-    player_df.columns = player_col_names
-    goalie_df.columns = goalie_col_names
+    player_df['player'] = player_df['player'].str.replace(r'(\(.+\))', '')
     player_df['season'] = season
     goalie_df['season'] = season
     player_df['team'] = team
     goalie_df['team'] = team
-    player_df['team_id'] = team_id
-    goalie_df['team_id'] = team_id
+    player_df['league'] = league
+    goalie_df['league'] = league
 
 
+    print(goalie_df.head())
     return player_df, goalie_df
 
 #this function has been converted for the new EP format
@@ -261,7 +275,6 @@ def parse_team_roster(page_file):
     # drop empty rows
     roster_df = roster_df[~(roster_df['player']=='')]
     roster_df = roster_df.dropna(axis=0, how='all')
-    print(roster_df.head())
 
     #the strips don't remove the C and A markings so we have to remove them
     #with a created function
@@ -271,7 +284,6 @@ def parse_team_roster(page_file):
         return clean_name
     roster_df['player'] = roster_df['player'].str.replace('\\n', '')
     roster_df.replace(u'\xa0',u'', regex=True, inplace=True)
-    print(roster_df['player'])
     roster_df['player'] = roster_df['player'].map(clean_name)
 
     # getting player ids
@@ -341,7 +353,7 @@ def scrape_team_page(url_base, leagues):
                             '{}{}stats.txt'.format(team.strip().replace(' ', '-'), year)))
                 time.sleep(randint(1,10))
 
-#this has been converted to the new Elite Prospects webpage format
+#this function has been converted to the new Elite Prospects webpage format
 def scrape_league_page(league_scrape_list, url, year_start, year_end):
     '''
     function to scrape each league page and return each team in the league
@@ -381,17 +393,21 @@ def add_headers():
     text files - The three text files create in parse_all_files() function but with column headers
     '''
     player_df = pd.read_csv(os.path.join('output_files', 'player_stats'), sep='|', header=None,
-                            names=['Player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', ' ', 'playoff_GP',
+                            names=['player', 'GP', 'G', 'A', 'TP', 'PIM', '+/-', 'playoff_GP',
                                    'playoff_G', 'playoff_A', 'playoff_TP', 'playoff_PIM', 'playoff_+/-',
-                                   'player_id', 'season', 'team', 'team_id'])
+                                   'player_id', 'season', 'team', 'league'])
     player_df.to_csv(os.path.join('output_files', 'player_stats'), sep='|', index=False)
     goalie_df = pd.read_csv(os.path.join('output_files', 'goalie_stats'), sep='|', header=None,
-                            names=['Player', 'GP', 'GAA', 'SV%', ' ', 'playoff_GP', 'playoff_GAA',
-                                   'playoff_SV%', 'player_id', 'season', 'team', 'team_id'])
+                            names=['player', 'GP', 'GAA', 'SV%', 'playoff_GP', 'playoff_GAA',
+                                   'playoff_SV%', 'player_id', 'season', 'team',
+                                   'league'])
     goalie_df.to_csv(os.path.join('output_files', 'goalie_stats'), sep='|', index=False)
     roster_df = pd.read_csv(os.path.join('output_files', 'rosters'), low_memory=False, sep='|', header=None,
-                            names=['#', 'Player', 'Age', 'Position', 'Birthdate', 'Birthplace',
-                                   'HT', 'WT', 'Shots', 'player_id', 'team_id', 'season', 'team'])
+                            names=['player', 'age', 'birth_year',
+                                   'birthplace', 'HT', 'WT', 'shoots',
+                                   'contract', 'position', 'player_id',
+                                   'season', 'team', 'league']
+)
     roster_df.to_csv(os.path.join('output_files', 'rosters'), sep='|', index=False)
 
 def parse_all_files():
@@ -441,8 +457,6 @@ def clean_data():
 
     player_df = pd.read_csv(os.path.join('output_files', 'player_stats'), sep='|')
     goalie_df = pd.read_csv(os.path.join('output_files', 'goalie_stats'), sep='|')
-    player_df = player_df.drop(columns = [' '])
-    goalie_df = goalie_df.drop(columns = [' '])
     player_df = player_df.replace(r'^\s+$', np.nan, regex=True)
     player_df = player_df[pd.isna(player_df['GP']) == 0]
     player_df = player_df.replace(to_replace='-', value=0)
@@ -458,6 +472,7 @@ def clean_data():
     goalie_df.to_csv(os.path.join('output_files', 'goalie_stats')
                      , sep='|', index=False)
 
+#this works with new EP format
 def directory_setup():
     try:
         os.mkdir('teampages')
@@ -472,6 +487,7 @@ def directory_setup():
     except FileExistsError as ex:
         print('Folder already exists')
 
+#rework this to actually zip files
 def cleanup(delimited_file):
     '''
     This will be a function to zip the html text pages and store them in a zip
@@ -499,8 +515,6 @@ def main():
     leagues = ['Liiga']
     url_base = 'http://www.eliteprospects.com/'
     directory_setup()
-    # if you need to rebuild the leagueid json file that comes with this repo then
-    # scrape the central league page
 
     # This compiles a tem id dictionary based on what leagues you pass to
     # it from the leagues list variable the repo comes built in with the team ids
@@ -515,16 +529,16 @@ def main():
     # from the roster and stats pages and writes them to the disk. The
     # parse_all_files actually compiles all that html and produces |
     # delimited files of the data.
-    scrape_team_page(url_base, leagues)
-    #parse_all_files()
+    #scrape_team_page(url_base, leagues)
+    parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
     # data there will be duplicates for some players if they played in special
     # tournaments like the Memorial Cup or Champions League in Europe. This is more
     # so for goalies than players as I don't want to average sv% and without
     # shot for against can't accurately calculate
-    #add_headers()
-    #clean_data()
+    add_headers()
+    clean_data()
     #cleanup(os.path.join('output_files', 'player_stats'))
 if __name__ == '__main__':
     main()
