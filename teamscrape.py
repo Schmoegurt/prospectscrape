@@ -382,6 +382,7 @@ def scrape_league_page(league_scrape_list, url, year_start, year_end):
                                      '{}.txt'.format(league)))
             time.sleep(10)
 
+#this has been converted to new EP format
 def add_headers():
     '''
     function to write headers to the files produced in the parse_all_files() function
@@ -410,6 +411,7 @@ def add_headers():
 )
     roster_df.to_csv(os.path.join('output_files', 'rosters'), sep='|', index=False)
 
+#this function works with the new EP format
 def parse_all_files():
     '''
     This function parses all the text (both roster and stats) files scraped
@@ -442,6 +444,8 @@ def parse_all_files():
                                 except Exception as ex:
                                     print(ex)
                                     e.write('{}{}'.format(name, '\n'))
+
+#this function works with the new EP format
 def clean_data():
     import numpy as np
     '''
@@ -487,7 +491,7 @@ def directory_setup():
     except FileExistsError as ex:
         print('Folder already exists')
 
-#rework this to actually zip files
+#rework this to actually zip files and to work with new EP format
 def cleanup(delimited_file):
     '''
     This will be a function to zip the html text pages and store them in a zip
