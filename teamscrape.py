@@ -1,8 +1,9 @@
-import os, sys
+import os
 import re
 import time
 import json
 from random import randint
+from unidecode import unidecode
 import requests
 import bs4
 import pandas as pd
@@ -13,6 +14,54 @@ import pandas as pd
 ## team's roster and stats page for the leagues given. All code written   ##
 ## by Matthew Barlowe @matt_barlowe on twitter mcbarlowe on github        ##
 ############################################################################
+
+def get_birthdate(url):
+    '''
+    this will pull the birthdate for the player url given
+
+    Inputs:
+    url - string of the url of the player
+
+    Outputs:
+    birth_date - string of the players birthdate
+    '''
+    req = requests.get(url)
+    soup = bs4.BeautifulSoup(req.text, 'lxml')
+
+    player_info = soup.select('div[class="col-xs-8 fac-lbl-dark"]')
+    print(player_info)
+    birth_date = player_info[0].text.strip()
+
+    print("this is the birthdate: {}".format(birth_date))
+    return birth_date
+
+def create_bd_col(data_frame):
+
+    birth_dates = []
+    url_base = 'http://www.eliteprospects.com/player/'
+
+    player_ids = data_frame['player_id'].tolist()
+    player_names = data_frame['player'].map(unidecode).tolist()
+    player_names = [name.split(' ') for name in player_names]
+    player_names = ['-'.join(name) for name in player_names]
+
+    for play_id, name in zip(player_ids, player_names):
+        print('{}{}/{}'.format(url_base, play_id, name))
+        birthday = get_birthdate('{}{}/{}'.format(url_base, play_id, name))
+        print(birthday)
+        birth_dates.append(birthday)
+        time.sleep(randint(1,10))
+
+    bday_series = pd.Series(birth_dates)
+
+    print(bday_series)
+
+    data_frame['birth_date'] = bday_series.values
+
+    print(data_frame.head())
+
+    return data_frame
+
 
 #this function works with new EP format
 def scrape_html(url, file_name):
@@ -26,9 +75,9 @@ def scrape_html(url, file_name):
     Output:
     text_file - file written to local directory containing html
     '''
-    r = requests.get(url)
-    with open(file_name, 'w', encoding='utf-8') as f:
-        f.write(r.text)
+    req = requests.get(url)
+    with open(file_name, 'w', encoding='utf-8') as html_file:
+        html_file.write(req.text)
 
 #This function is not needed for new EP website structure remove after
 #final testing
@@ -46,8 +95,8 @@ def parse_league_ids(file_name, output_file_name):
     elite prospects keeps track of.
     '''
     league_dict = {}
-    with open(file_name, 'r', encoding='utf-8') as f:
-        soup = bs4.BeautifulSoup(f, 'lxml')
+    with open(file_name, 'r', encoding='utf-8') as html_file:
+        soup = bs4.BeautifulSoup(html_file, 'lxml')
 
     leagues = soup.select('table[class=tableborder] a')
     for link in leagues:
@@ -221,7 +270,6 @@ def parse_team_stats(page_file):
     goalie_df['league'] = league
 
 
-    print(goalie_df.head())
     return player_df, goalie_df
 
 #this function has been converted for the new EP format
@@ -407,7 +455,7 @@ def add_headers():
                             names=['player', 'age', 'birth_year',
                                    'birthplace', 'HT', 'WT', 'shoots',
                                    'contract', 'position', 'player_id',
-                                   'season', 'team', 'league']
+                                   'season', 'team', 'league', 'birthdate']
 )
     roster_df.to_csv(os.path.join('output_files', 'rosters'), sep='|', index=False)
 
@@ -432,6 +480,7 @@ def parse_all_files():
                             if 'stats' in name:
                                 try:
                                     player_df, goalie_df = parse_team_stats(os.path.join(root, name))
+
                                     player_df.to_csv(b, sep='|', header=False, index=False)
                                     goalie_df.to_csv(c, sep='|', header=False, index=False)
                                 except Exception as ex:
@@ -440,6 +489,7 @@ def parse_all_files():
                             else:
                                 try:
                                     roster_df = parse_team_roster(os.path.join(root, name))
+                                    roster_df = create_bd_col(roster_df)
                                     roster_df.to_csv(a, sep='|', header=False, index=False)
                                 except Exception as ex:
                                     print(ex)
