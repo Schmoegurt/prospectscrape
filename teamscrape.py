@@ -46,7 +46,7 @@ def create_bd_col(data_frame):
     for play_id, name in zip(player_ids, player_names):
         birthday = get_birthdate('{}{}/{}'.format(url_base, play_id, name))
         birth_dates.append(birthday)
-        time.sleep(randint(1,10))
+        time.sleep(randint(1,5))
 
     bday_series = pd.Series(birth_dates)
 
