@@ -1,7 +1,50 @@
 import re
 import time
+from random import randint
 import bs4
 import requests
+import pandas as pd
+from unidecode import unidecode
+
+
+def get_birthdate(url):
+    '''
+    this will pull the birthdate for the player url given
+
+    Inputs:
+    url - string of the url of the player
+
+    Outputs:
+    birth_date - string of the players birthdate
+    '''
+    req = requests.get(url)
+    soup = bs4.BeautifulSoup(req.text, 'lxml')
+
+    player_info = soup.select('div[class="col-xs-8 fac-lbl-dark"]')
+    birth_date = player_info[0].text.strip()
+
+    return birth_date
+
+def create_bd_col(data_frame):
+
+    birth_dates = []
+    url_base = 'http://www.eliteprospects.com/player/'
+
+    player_ids = data_frame['player_id'].tolist()
+    player_names = data_frame['player'].map(unidecode).tolist()
+    player_names = [name.split(' ') for name in player_names]
+    player_names = ['-'.join(name) for name in player_names]
+
+    for play_id, name in zip(player_ids, player_names):
+        birthday = get_birthdate('{}{}/{}'.format(url_base, play_id, name))
+        birth_dates.append(birthday)
+        time.sleep(randint(1,3))
+
+    bday_series = pd.Series(birth_dates)
+
+    data_frame['birth_date'] = bday_series.values
+
+    return data_frame
 
 def draft_scrape(year_list, file_name):
     '''
@@ -24,7 +67,7 @@ def draft_scrape(year_list, file_name):
 
 #change draft_stats to whatever file name you want it to be or else it will
 #overwrite the next time you run the script
-    with open('draft_stats', 'a+') as file:
+    with open(file_name, 'a+') as file:
 
 #moves file pointer to the top of the file as opening it with a+ has it on the
 #bottom
@@ -96,6 +139,14 @@ def draft_scrape(year_list, file_name):
                 continue
             else:
                 time.sleep(90)
+
+        columns = ['pick', 'team', 'player', 'seasons', 'gp', 'g', 'a', 'tp',
+                   'pim' , 'player_id', 'year_of_draft']
+        draft_df = pd.read_csv(file_name, sep='|', header=None, names=columns)
+        draft_df = create_bd_col(draft_df)
+        draft_df.to_csv(file_name, sep='|', index=False)
+
+
 
 def main():
     '''

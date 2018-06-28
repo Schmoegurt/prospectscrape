@@ -1,217 +1,219 @@
-#1|Buffalo Sabres|Rasmus Dahlin (D)|||||||310545|2018
-#2|Carolina Hurricanes|Andrei Svechnikov (F)|||||||328556|2018
-#3|Montréal Canadiens|Jesperi Kotkaniemi (F)|||||||363872|2018
-#4|Ottawa Senators|Brady Tkachuk (F)|||||||201473|2018
-#5|Arizona Coyotes|Barrett Hayton (F)|||||||317885|2018
-#6|Detroit Red Wings|Filip Zadina (F)|||||||236471|2018
-#7|Vancouver Canucks|Quinn Hughes (D)|||||||201671|2018
-#8|Chicago Blackhawks|Adam Boqvist (D)|||||||265684|2018
-#9|New York Rangers|Vitali Kravtsov (F)|||||||379749|2018
-#10|Edmonton Oilers|Evan Bouchard (D)|||||||300591|2018
-#11|New York Islanders|Oliver Wahlstrom (F)|||||||241370|2018
-#12|New York Islanders|Noah Dobson (D)|||||||275797|2018
-#13|Dallas Stars|Ty Dellandrea (F)|||||||399353|2018
-#14|Philadelphia Flyers|Joel Farabee (F)|||||||334036|2018
-#15|Florida Panthers|Grigori Denisenko (F)|||||||312827|2018
-#16|Colorado Avalanche|Martin Kaut (F)|||||||237068|2018
-#17|New Jersey Devils|Ty Smith (D)|||||||281814|2018
-#18|Columbus Blue Jackets|Liam Foudy (F)|||||||397650|2018
-#19|Philadelphia Flyers|Jay O'Brien (F)|||||||312015|2018
-#20|Los Angeles Kings|Rasmus Kupari (F)|||||||319079|2018
-#21|San Jose Sharks|Ryan Merkley (D)|||||||273668|2018
-#22|New York Rangers|K'Andre Miller (D)|||||||308192|2018
-#23|Anaheim Ducks|Isac Lundeström (F)|||||||265570|2018
-#24|Minnesota Wild|Filip Johansson (D)|||||||316794|2018
-#25|St. Louis Blues|Dominik Bokk (F)|||||||259973|2018
-#26|Ottawa Senators|Jacob Bernard-Docker (D)|||||||281697|2018
-#27|Chicago Blackhawks|Nicolas Beaudin (D)|||||||284924|2018
-#28|New York Rangers|Nils Lundkvist (D)|||||||384079|2018
-#29|Toronto Maple Leafs|Rasmus Sandin (D)|||||||289453|2018
-#30|Detroit Red Wings|Joseph Veleno (F)|||||||271713|2018
-#31|Washington Capitals|Alexander Alexeyev (D)|||||||333787|2018
-#32|Buffalo Sabres|Mattias Samuelsson (D)|||||||325127|2018
-#33|Detroit Red Wings|Jonatan Berggren (F)|||||||274796|2018
-#34|Florida Panthers|Serron Noel (F)|||||||299488|2018
-#35|Montréal Canadiens|Jesse Ylönen (F)|||||||299117|2018
-#36|Detroit Red Wings|Jared McIsaac (D)|||||||266786|2018
-#37|Vancouver Canucks|Jett Woo (D)|||||||281813|2018
-#38|Montréal Canadiens|Alexander S. Romanov (D)|||||||396529|2018
-#39|New York Rangers|Olof Lindbom (G)|||||||344661|2018
-#40|Edmonton Oilers|Ryan McLeod (F)|||||||271502|2018
-#41|New York Islanders|Bode Wilde (D)|||||||283932|2018
-#42|Carolina Hurricanes|Jack Drury (F)|||||||283916|2018
-#43|New York Islanders|Ruslan Iskhakov (F)|||||||396204|2018
-#44|Dallas Stars|Albin Eriksson (F)|||||||265297|2018
-#45|St. Louis Blues|Scott Perunovich (D)|||||||300906|2018
-#46|Washington Capitals|Martin Fehérváry (D)|||||||274991|2018
-#47|Washington Capitals|Kody Clark (F)|||||||273613|2018
-#48|Ottawa Senators|Jonny Tychonick (D)|||||||281730|2018
-#49|Columbus Blue Jackets|Kirill Marchenko (F)|||||||392162|2018
-#50|Philadelphia Flyers|Adam Ginning (D)|||||||281968|2018
-#51|Los Angeles Kings|Akil Thomas (F)|||||||364033|2018
-#52|Toronto Maple Leafs|Sean Durzi (D)|||||||268973|2018
-#53|Pittsburgh Penguins|Calen Addison (D)|||||||278861|2018
-#54|Anaheim Ducks|Benoit-Olivier Groulx (F)|||||||335689|2018
-#55|Arizona Coyotes|Kevin Bahl (D)|||||||248583|2018
-#56|Montréal Canadiens|Jacob Olofsson (F)|||||||316535|2018
-#57|Boston Bruins|Axel Andersson (D)|||||||313354|2018
-#58|Pittsburgh Penguins|Filip Hållander (F)|||||||293387|2018
-#59|Tampa Bay Lightning|Gabriel Fortier (F)|||||||335707|2018
-#60|Winnipeg Jets|David Gustafsson (F)|||||||293796|2018
-#61|Vegas Golden Knights|Ivan D. Morozov (F)|||||||396897|2018
-#62|Edmonton Oilers|Olivier Rodrigue (G)|||||||354121|2018
-#63|Minnesota Wild|Jack McBain (F)|||||||363685|2018
-#64|Colorado Avalanche|Justus Annunen (G)|||||||347573|2018
-#65|Arizona Coyotes|Jan Jeník (F)|||||||247318|2018
-#66|Montréal Canadiens|Cameron Hillis (F)|||||||404742|2018
-#67|Detroit Red Wings|Alec Regula (D)|||||||283940|2018
-#68|Vancouver Canucks|Tyler Madden (F)|||||||201489|2018
-#69|Chicago Blackhawks|Jake Wise (F)|||||||268432|2018
-#70|New York Rangers|Jacob Ragnarsson (D)|||||||304366|2018
-#71|Montréal Canadiens|Jordan Harris (D)|||||||321687|2018
-#72|New York Islanders|Jakub Skarek (G)|||||||189765|2018
-#73|Arizona Coyotes|Ty Emberson (D)|||||||365043|2018
-#74|Chicago Blackhawks|Niklas Nordgren (F)|||||||360140|2018
-#75|Dallas Stars|Oscar Bäck (F)|||||||294263|2018
-#76|Toronto Maple Leafs|Semyon Der-Arguchintsev (F)|||||||315260|2018
-#77|Boston Bruins|Jakub Lauko (F)|||||||273830|2018
-#78|Colorado Avalanche|Sampo Ranta (F)|||||||375954|2018
-#79|Anaheim Ducks|Blake McLaughlin (F)|||||||364230|2018
-#80|Columbus Blue Jackets|Marcus Karlberg (F)|||||||319507|2018
-#81|Detroit Red Wings|Seth Barton (D)|||||||299929|2018
-#82|Los Angeles Kings|Bulat Shafigullin (F)|||||||339599|2018
-#83|Toronto Maple Leafs|Riley Stotts (F)|||||||201715|2018
-#84|Detroit Red Wings|Jesper Eliasson (G)|||||||314909|2018
-#85|Anaheim Ducks|Lukas Dostal (G)|||||||236340|2018
-#86|Minnesota Wild|Alexander Khovanov (F)|||||||339559|2018
-#87|San Jose Sharks|Linus Karlsson (F)|||||||314906|2018
-#88|New York Rangers|Joey Keane (D)|||||||201468|2018
-#89|Florida Panthers|Logan Hutsko (F)|||||||201502|2018
-#90|Tampa Bay Lightning|Dmitri Semykin (D)|||||||396119|2018
-#91|Winnipeg Jets|Nathan Smith (F)|||||||484201|2018
-#92|Minnesota Wild|Connor Dewar (F)|||||||283843|2018
-#93|Washington Capitals|Riley Sutter (F)|||||||281307|2018
-#94|Buffalo Sabres|Matej Pekar (F)|||||||271642|2018
-#95|Ottawa Senators|Johnny Gruden (F)|||||||276187|2018
-#96|Carolina Hurricanes|Luke Henman (F)|||||||266778|2018
-#97|Montréal Canadiens|Allan McShane (F)|||||||313532|2018
-#98|Detroit Red Wings|Ryan O'Reilly (F)|||||||276199|2018
-#99|Vegas Golden Knights|Slava Demin (D)|||||||354045|2018
-#100|Dallas Stars|Adam Mascherin (F)|||||||240112|2018
-#101|New York Rangers|Nico Gross (D)|||||||319554|2018
-#102|San Jose Sharks|Jasper Weatherby (F)|||||||262799|2018
-#103|New York Islanders|Jacob Pivonka (F)|||||||283915|2018
-#104|Carolina Hurricanes|Lenni Killinen (F)|||||||332303|2018
-#105|Calgary Flames|Martin Pospisil (F)|||||||341691|2018
-#106|Dallas Stars|Curtis Douglas (F)|||||||351462|2018
-#107|St. Louis Blues|Joel Hofer (G)|||||||388650|2018
-#108|Calgary Flames|Demetrios Koumontzis (F)|||||||354063|2018
-#109|Colorado Avalanche|Tyler Weiss (F)|||||||355485|2018
-#110|New Jersey Devils|Xavier Bernard (D)|||||||335702|2018
-#111|Nashville Predators|Jáchym Kondelík (F)|||||||271580|2018
-#112|Philadelphia Flyers|Jack St. Ivany (D)|||||||300076|2018
-#113|Los Angeles Kings|Aidan Dudas (F)|||||||348180|2018
-#114|Arizona Coyotes|Ivan Prosvetov (G)|||||||361155|2018
-#115|Vegas Golden Knights|Paul Cotter (F)|||||||284097|2018
-#116|Anaheim Ducks|Jackson Perbix (F)|||||||363892|2018
-#117|Buffalo Sabres|Linus Lindstrand Kronholm (D)|||||||345052|2018
-#118|Toronto Maple Leafs|Mac Hollowell (D)|||||||267652|2018
-#119|Boston Bruins|Curtis Hall (F)|||||||285300|2018
-#120|Chicago Blackhawks|Philipp Kurashev (F)|||||||279238|2018
-#121|Tampa Bay Lightning|Alex Green (D)|||||||233565|2018
-#122|Calgary Flames|Milos Roman (F)|||||||223844|2018
-#123|Montréal Canadiens|Jack Gorniak (F)|||||||431145|2018
-#124|Washington Capitals|Mitchell Gibson (G)|||||||312029|2018
-#125|Buffalo Sabres|Miska Kukkonen (D)|||||||383305|2018
-#126|Ottawa Senators|Angus Crookshank (F)|||||||201687|2018
-#127|Philadelphia Flyers|Wyatte Wylie (D)|||||||300071|2018
-#128|Montréal Canadiens|Cole Fonstad (F)|||||||286578|2018
-#129|Pittsburgh Penguins|Justin Almeida (F)|||||||245573|2018
-#130|Vancouver Canucks|Toni Utunen (D)|||||||355654|2018
-#131|Nashville Predators|Spencer Stastney (D)|||||||283918|2018
-#132|New York Rangers|Lauri Pajuniemi (F)|||||||285894|2018
-#133|Montréal Canadiens|Samuel Houde (F)|||||||241387|2018
-#134|New York Islanders|Blade Jenkins (F)|||||||284094|2018
-#135|Vegas Golden Knights|Brandon Kruse (F)|||||||273154|2018
-#136|New Jersey Devils|Akira Schmid (G)|||||||336133|2018
-#137|Dallas Stars|Riley Damiani (F)|||||||305431|2018
-#138|St. Louis Blues|Hugh McGing (F)|||||||233569|2018
-#139|Chicago Blackhawks|Mikael Hakkarainen (F)|||||||221342|2018
-#140|Colorado Avalanche|Brandon Saigeon (F)|||||||239031|2018
-#141|New Jersey Devils|Yegor Sharangovich (F)|||||||271111|2018
-#142|Arizona Coyotes|Michael Callahan (D)|||||||201479|2018
-#143|Philadelphia Flyers|Samuel Ersson (G)|||||||292581|2018
-#144|Los Angeles Kings|Dávid Hrenák (G)|||||||225473|2018
-#145|Arizona Coyotes|Dennis Busby (D)|||||||273629|2018
-#146|Colorado Avalanche|Danila Zhuravlyov (D)|||||||375639|2018
-#147|Anaheim Ducks|Roman Durny (G)|||||||275725|2018
-#148|Minnesota Wild|Simon Johansson (D)|||||||289775|2018
-#149|Toronto Maple Leafs|Filip Král (D)|||||||247241|2018
-#150|Winnipeg Jets|Declan Chisholm (D)|||||||363643|2018
-#151|Nashville Predators|Vladislav Yeryomenko (D)|||||||383083|2018
-#152|Tampa Bay Lightning|Magnus Chrona (G)|||||||381263|2018
-#153|Winnipeg Jets|Giovanni Vallati (D)|||||||299432|2018
-#154|Vegas Golden Knights|Connor Corcoran (D)|||||||404752|2018
-#155|Minnesota Wild|Damien Giroux (F)|||||||270155|2018
-#156|Toronto Maple Leafs|Pontus Holmberg (F)|||||||265859|2018
-#157|Ottawa Senators|Kevin Mandolese (G)|||||||241372|2018
-#158|Arizona Coyotes|David Tendeck (G)|||||||297918|2018
-#159|Columbus Blue Jackets|Tim Berni (D)|||||||296565|2018
-#160|Detroit Red Wings|Victor Brattström (G)|||||||212526|2018
-#161|Washington Capitals|Alex Kannok-Leipert (D)|||||||287497|2018
-#162|Chicago Blackhawks|Alexis Gravel (G)|||||||355223|2018
-#163|New York Rangers|Simon Kjellberg (D)|||||||291923|2018
-#164|Edmonton Oilers|Michael Kesselring (D)|||||||375367|2018
-#165|Los Angeles Kings|Johan Södergran (F)|||||||246437|2018
-#166|Carolina Hurricanes|Jesper Sellgren (D)|||||||244673|2018
-#167|Calgary Flames|Mathias Emilio Pettersen (F)|||||||274219|2018
-#168|Dallas Stars|Dawson Barteaux (D)|||||||285046|2018
-#169|St. Louis Blues|Mathias Laferrière (F)|||||||382160|2018
-#170|Florida Panthers|Justin Schütz (F)|||||||238113|2018
-#171|Colorado Avalanche|Nikolai Kovalenko (F)|||||||339499|2018
-#172|New Jersey Devils|Mitchell Hoelscher (F)|||||||360952|2018
-#173|Columbus Blue Jackets|Veini Vehviläinen (G)|||||||176290|2018
-#174|Philadelphia Flyers|Gavin Hain (F)|||||||354061|2018
-#175|Los Angeles Kings|Jacob Ingham (G)|||||||404018|2018
-#176|San Jose Sharks|Zacharie Émond (G)|||||||382866|2018
-#177|Pittsburgh Penguins|Liam Gorman (F)|||||||364228|2018
-#178|Anaheim Ducks|Hunter Drew (D)|||||||267823|2018
-#179|Minnesota Wild|Shawn Boudrias (F)|||||||275589|2018
-#180|Vegas Golden Knights|Peter Diliberatore (D)|||||||267086|2018
-#181|Boston Bruins|Dustyn McFaul (D)|||||||370364|2018
-#182|San Jose Sharks|John Leonard (F)|||||||272976|2018
-#183|Tampa Bay Lightning|Cole Koepke (F)|||||||300846|2018
-#184|Winnipeg Jets|Jared Moe (G)|||||||380910|2018
-#185|Vegas Golden Knights|Xavier Bouchard (D)|||||||241374|2018
-#186|Vancouver Canucks|Artyom Manukyan (F)|||||||312221|2018
-#187|Buffalo Sabres|William Worge Kreü (D)|||||||281973|2018
-#188|Ottawa Senators|Jakov Novak (F)|||||||269880|2018
-#189|Arizona Coyotes|Liam Kirk (F)|||||||230605|2018
-#190|Montréal Canadiens|Brett Stapley (F)|||||||201696|2018
-#191|Detroit Red Wings|Otto Kivenmäki (F)|||||||376271|2018
-#192|Vancouver Canucks|Matthew Thiessen (G)|||||||351272|2018
-#193|Chicago Blackhawks|Josiah Slavin (F)|||||||324913|2018
-#194|Ottawa Senators|Luke Loheit (F)|||||||443742|2018
-#195|Edmonton Oilers|Patrik Siikanen (F)|||||||375834|2018
-#196|New York Islanders|Christian Krygier (D)|||||||283958|2018
-#197|Carolina Hurricanes|Jake Kucharski (G)|||||||393537|2018
-#198|Calgary Flames|Dmitri Zavgorodny (F)|||||||396918|2018
-#199|Dallas Stars|Jermaine Loewen (F)|||||||201127|2018
-#200|St. Louis Blues|Tyler Tucker (D)|||||||399243|2018
-#201|Florida Panthers|Cole Krygier (D)|||||||283959|2018
-#202|Colorado Avalanche|Shamil Shmakov (G)|||||||378560|2018
-#203|New Jersey Devils|Eetu Päkkilä (F)|||||||375979|2018
-#204|Columbus Blue Jackets|Trey Fix-Wolansky (F)|||||||257717|2018
-#205|Philadelphia Flyers|Marcus Westfält (F)|||||||290973|2018
-#206|Tampa Bay Lightning|Radim Salda (D)|||||||225136|2018
-#207|Florida Panthers|Santtu Kinnunen (D)|||||||376060|2018
-#208|Vegas Golden Knights|Jordan Kooy (G)|||||||360915|2018
-#209|Toronto Maple Leafs|Zachary Bouthillier (G)|||||||305661|2018
-#210|Minnesota Wild|Sam Hentges (F)|||||||425364|2018
-#211|Toronto Maple Leafs|Semyon Kizimov (F)|||||||420947|2018
-#212|Boston Bruins|Pavel Shen (F)|||||||359981|2018
-#213|Nashville Predators|Milan Kloucek (G)|||||||236454|2018
-#214|Tampa Bay Lightning|Ty Taylor (G)|||||||297989|2018
-#215|Winnipeg Jets|Austin Wong (F)|||||||322072|2018
-#216|New York Rangers|Riley Hughes (F)|||||||241597|2018
-#217|Washington Capitals|Eric Florchuk (F)|||||||281876|2018
+|pick|team|player|seasons|gp|g|a|tp|pim|player_id|year_of_draft|birth_date
+0|#1|Buffalo Sabres|Rasmus Dahlin (D)|||||||310545|2018|Apr 13, 2000
+1|#2|Carolina Hurricanes|Andrei Svechnikov (F)|||||||328556|2018|Mar 26, 2000
+2|#3|Montréal Canadiens|Jesperi Kotkaniemi (F)|||||||363872|2018|Jul 06, 2000
+3|#4|Ottawa Senators|Brady Tkachuk (F)|||||||201473|2018|Sep 16, 1999
+4|#5|Arizona Coyotes|Barrett Hayton (F)|||||||317885|2018|Jun 09, 2000
+5|#6|Detroit Red Wings|Filip Zadina (F)|||||||236471|2018|Nov 27, 1999
+6|#7|Vancouver Canucks|Quinn Hughes (D)|||||||201671|2018|Oct 14, 1999
+7|#8|Chicago Blackhawks|Adam Boqvist (D)|||||||265684|2018|Aug 15, 2000
+8|#9|New York Rangers|Vitali Kravtsov (F)|||||||379749|2018|Dec 23, 1999
+9|#10|Edmonton Oilers|Evan Bouchard (D)|||||||300591|2018|Oct 20, 1999
+10|#11|New York Islanders|Oliver Wahlstrom (F)|||||||241370|2018|Jun 13, 2000
+11|#12|New York Islanders|Noah Dobson (D)|||||||275797|2018|Jan 07, 2000
+12|#13|Dallas Stars|Ty Dellandrea (F)|||||||399353|2018|Jul 21, 2000
+13|#14|Philadelphia Flyers|Joel Farabee (F)|||||||334036|2018|Feb 25, 2000
+14|#15|Florida Panthers|Grigori Denisenko (F)|||||||312827|2018|Jun 24, 2000
+15|#16|Colorado Avalanche|Martin Kaut (F)|||||||237068|2018|Oct 02, 1999
+16|#17|New Jersey Devils|Ty Smith (D)|||||||281814|2018|Mar 24, 2000
+17|#18|Columbus Blue Jackets|Liam Foudy (F)|||||||397650|2018|Feb 04, 2000
+18|#19|Philadelphia Flyers|Jay O'Brien (F)|||||||312015|2018|Nov 04, 1999
+19|#20|Los Angeles Kings|Rasmus Kupari (F)|||||||319079|2018|Mar 15, 2000
+20|#21|San Jose Sharks|Ryan Merkley (D)|||||||273668|2018|Aug 14, 2000
+21|#22|New York Rangers|K'Andre Miller (D)|||||||308192|2018|Jan 21, 2000
+22|#23|Anaheim Ducks|Isac Lundeström (F)|||||||265570|2018|Nov 06, 1999
+23|#24|Minnesota Wild|Filip Johansson (D)|||||||316794|2018|Mar 23, 2000
+24|#25|St. Louis Blues|Dominik Bokk (F)|||||||259973|2018|Feb 03, 2000
+25|#26|Ottawa Senators|Jacob Bernard-Docker (D)|||||||281697|2018|Jun 30, 2000
+26|#27|Chicago Blackhawks|Nicolas Beaudin (D)|||||||284924|2018|Oct 07, 1999
+27|#28|New York Rangers|Nils Lundkvist (D)|||||||384079|2018|Jul 27, 2000
+28|#29|Toronto Maple Leafs|Rasmus Sandin (D)|||||||289453|2018|Mar 07, 2000
+29|#30|Detroit Red Wings|Joseph Veleno (F)|||||||271713|2018|Jan 13, 2000
+30|#31|Washington Capitals|Alexander Alexeyev (D)|||||||333787|2018|Nov 15, 1999
+31|#32|Buffalo Sabres|Mattias Samuelsson (D)|||||||325127|2018|Mar 14, 2000
+32|#33|Detroit Red Wings|Jonatan Berggren (F)|||||||274796|2018|Jul 16, 2000
+33|#34|Florida Panthers|Serron Noel (F)|||||||299488|2018|Aug 08, 2000
+34|#35|Montréal Canadiens|Jesse Ylönen (F)|||||||299117|2018|Oct 03, 1999
+35|#36|Detroit Red Wings|Jared McIsaac (D)|||||||266786|2018|Mar 27, 2000
+36|#37|Vancouver Canucks|Jett Woo (D)|||||||281813|2018|Jul 27, 2000
+37|#38|Montréal Canadiens|Alexander S. Romanov (D)|||||||396529|2018|Jan 06, 2000
+38|#39|New York Rangers|Olof Lindbom (G)|||||||344661|2018|Jul 23, 2000
+39|#40|Edmonton Oilers|Ryan McLeod (F)|||||||271502|2018|Sep 21, 1999
+40|#41|New York Islanders|Bode Wilde (D)|||||||283932|2018|Jan 24, 2000
+41|#42|Carolina Hurricanes|Jack Drury (F)|||||||283916|2018|Feb 03, 2000
+42|#43|New York Islanders|Ruslan Iskhakov (F)|||||||396204|2018|Jul 22, 2000
+43|#44|Dallas Stars|Albin Eriksson (F)|||||||265297|2018|Jul 20, 2000
+44|#45|St. Louis Blues|Scott Perunovich (D)|||||||300906|2018|Aug 18, 1998
+45|#46|Washington Capitals|Martin Fehérváry (D)|||||||274991|2018|Oct 06, 1999
+46|#47|Washington Capitals|Kody Clark (F)|||||||273613|2018|Oct 13, 1999
+47|#48|Ottawa Senators|Jonny Tychonick (D)|||||||281730|2018|Mar 03, 2000
+48|#49|Columbus Blue Jackets|Kirill Marchenko (F)|||||||392162|2018|Jul 21, 2000
+49|#50|Philadelphia Flyers|Adam Ginning (D)|||||||281968|2018|Jan 13, 2000
+50|#51|Los Angeles Kings|Akil Thomas (F)|||||||364033|2018|Jan 02, 2000
+51|#52|Toronto Maple Leafs|Sean Durzi (D)|||||||268973|2018|Oct 21, 1998
+52|#53|Pittsburgh Penguins|Calen Addison (D)|||||||278861|2018|Apr 11, 2000
+53|#54|Anaheim Ducks|Benoit-Olivier Groulx (F)|||||||335689|2018|Feb 06, 2000
+54|#55|Arizona Coyotes|Kevin Bahl (D)|||||||248583|2018|Jun 27, 2000
+55|#56|Montréal Canadiens|Jacob Olofsson (F)|||||||316535|2018|Feb 08, 2000
+56|#57|Boston Bruins|Axel Andersson (D)|||||||313354|2018|Feb 10, 2000
+57|#58|Pittsburgh Penguins|Filip Hållander (F)|||||||293387|2018|Jun 29, 2000
+58|#59|Tampa Bay Lightning|Gabriel Fortier (F)|||||||335707|2018|Feb 06, 2000
+59|#60|Winnipeg Jets|David Gustafsson (F)|||||||293796|2018|Apr 11, 2000
+60|#61|Vegas Golden Knights|Ivan D. Morozov (F)|||||||396897|2018|May 05, 2000
+61|#62|Edmonton Oilers|Olivier Rodrigue (G)|||||||354121|2018|Jul 06, 2000
+62|#63|Minnesota Wild|Jack McBain (F)|||||||363685|2018|Jan 06, 2000
+63|#64|Colorado Avalanche|Justus Annunen (G)|||||||347573|2018|Mar 11, 2000
+64|#65|Arizona Coyotes|Jan Jeník (F)|||||||247318|2018|Sep 15, 2000
+65|#66|Montréal Canadiens|Cameron Hillis (F)|||||||404742|2018|Jun 24, 2000
+66|#67|Detroit Red Wings|Alec Regula (D)|||||||283940|2018|Aug 06, 2000
+67|#68|Vancouver Canucks|Tyler Madden (F)|||||||201489|2018|Nov 09, 1999
+68|#69|Chicago Blackhawks|Jake Wise (F)|||||||268432|2018|Feb 28, 2000
+69|#70|New York Rangers|Jacob Ragnarsson (D)|||||||304366|2018|Sep 23, 1999
+70|#71|Montréal Canadiens|Jordan Harris (D)|||||||321687|2018|Jul 07, 2000
+71|#72|New York Islanders|Jakub Skarek (G)|||||||189765|2018|Nov 10, 1999
+72|#73|Arizona Coyotes|Ty Emberson (D)|||||||365043|2018|May 24, 2000
+73|#74|Chicago Blackhawks|Niklas Nordgren (F)|||||||360140|2018|May 04, 2000
+74|#75|Dallas Stars|Oscar Bäck (F)|||||||294263|2018|Mar 12, 2000
+75|#76|Toronto Maple Leafs|Semyon Der-Arguchintsev (F)|||||||315260|2018|Sep 15, 2000
+76|#77|Boston Bruins|Jakub Lauko (F)|||||||273830|2018|Mar 28, 2000
+77|#78|Colorado Avalanche|Sampo Ranta (F)|||||||375954|2018|May 31, 2000
+78|#79|Anaheim Ducks|Blake McLaughlin (F)|||||||364230|2018|Feb 14, 2000
+79|#80|Columbus Blue Jackets|Marcus Karlberg (F)|||||||319507|2018|Jan 23, 2000
+80|#81|Detroit Red Wings|Seth Barton (D)|||||||299929|2018|Aug 18, 1999
+81|#82|Los Angeles Kings|Bulat Shafigullin (F)|||||||339599|2018|Dec 29, 1999
+82|#83|Toronto Maple Leafs|Riley Stotts (F)|||||||201715|2018|Jan 05, 2000
+83|#84|Detroit Red Wings|Jesper Eliasson (G)|||||||314909|2018|Mar 21, 2000
+84|#85|Anaheim Ducks|Lukas Dostal (G)|||||||236340|2018|Jun 22, 2000
+85|#86|Minnesota Wild|Alexander Khovanov (F)|||||||339559|2018|Apr 12, 2000
+86|#87|San Jose Sharks|Linus Karlsson (F)|||||||314906|2018|Nov 16, 1999
+87|#88|New York Rangers|Joey Keane (D)|||||||201468|2018|Jul 02, 1999
+88|#89|Florida Panthers|Logan Hutsko (F)|||||||201502|2018|Feb 11, 1999
+89|#90|Tampa Bay Lightning|Dmitri Semykin (D)|||||||396119|2018|Feb 24, 2000
+90|#91|Winnipeg Jets|Nathan Smith (F)|||||||484201|2018|Oct 18, 1998
+91|#92|Minnesota Wild|Connor Dewar (F)|||||||283843|2018|Jun 26, 1999
+92|#93|Washington Capitals|Riley Sutter (F)|||||||281307|2018|Oct 25, 1999
+93|#94|Buffalo Sabres|Matej Pekar (F)|||||||271642|2018|Feb 10, 2000
+94|#95|Ottawa Senators|Johnny Gruden (F)|||||||276187|2018|May 04, 2000
+95|#96|Carolina Hurricanes|Luke Henman (F)|||||||266778|2018|Apr 29, 2000
+96|#97|Montréal Canadiens|Allan McShane (F)|||||||313532|2018|Feb 14, 2000
+97|#98|Detroit Red Wings|Ryan O'Reilly (F)|||||||276199|2018|Mar 21, 2000
+98|#99|Vegas Golden Knights|Slava Demin (D)|||||||354045|2018|Apr 04, 2000
+99|#100|Dallas Stars|Adam Mascherin (F)|||||||240112|2018|Jun 06, 1998
+100|#101|New York Rangers|Nico Gross (D)|||||||319554|2018|Jan 26, 2000
+101|#102|San Jose Sharks|Jasper Weatherby (F)|||||||262799|2018|Jan 22, 1998
+102|#103|New York Islanders|Jacob Pivonka (F)|||||||283915|2018|Feb 28, 2000
+103|#104|Carolina Hurricanes|Lenni Killinen (F)|||||||332303|2018|Jun 15, 2000
+104|#105|Calgary Flames|Martin Pospisil (F)|||||||341691|2018|Nov 19, 1999
+105|#106|Dallas Stars|Curtis Douglas (F)|||||||351462|2018|Mar 06, 2000
+106|#107|St. Louis Blues|Joel Hofer (G)|||||||388650|2018|Jul 30, 2000
+107|#108|Calgary Flames|Demetrios Koumontzis (F)|||||||354063|2018|Mar 24, 2000
+108|#109|Colorado Avalanche|Tyler Weiss (F)|||||||355485|2018|Jan 03, 2000
+109|#110|New Jersey Devils|Xavier Bernard (D)|||||||335702|2018|Jan 06, 2000
+110|#111|Nashville Predators|Jáchym Kondelík (F)|||||||271580|2018|Dec 21, 1999
+111|#112|Philadelphia Flyers|Jack St. Ivany (D)|||||||300076|2018|Jul 22, 1999
+112|#113|Los Angeles Kings|Aidan Dudas (F)|||||||348180|2018|Jun 15, 2000
+113|#114|Arizona Coyotes|Ivan Prosvetov (G)|||||||361155|2018|Mar 05, 1999
+114|#115|Vegas Golden Knights|Paul Cotter (F)|||||||284097|2018|Nov 16, 1999
+115|#116|Anaheim Ducks|Jackson Perbix (F)|||||||363892|2018|Sep 13, 2000
+116|#117|Buffalo Sabres|Linus Lindstrand Kronholm (D)|||||||345052|2018|Jul 03, 2000
+117|#118|Toronto Maple Leafs|Mac Hollowell (D)|||||||267652|2018|Sep 26, 1998
+118|#119|Boston Bruins|Curtis Hall (F)|||||||285300|2018|Apr 26, 2000
+119|#120|Chicago Blackhawks|Philipp Kurashev (F)|||||||279238|2018|Oct 12, 1999
+120|#121|Tampa Bay Lightning|Alex Green (D)|||||||233565|2018|Jun 18, 1998
+121|#122|Calgary Flames|Milos Roman (F)|||||||223844|2018|Nov 06, 1999
+122|#123|Montréal Canadiens|Jack Gorniak (F)|||||||431145|2018|Sep 15, 1999
+123|#124|Washington Capitals|Mitchell Gibson (G)|||||||312029|2018|Jun 25, 1999
+124|#125|Buffalo Sabres|Miska Kukkonen (D)|||||||383305|2018|Jun 19, 2000
+125|#126|Ottawa Senators|Angus Crookshank (F)|||||||201687|2018|Oct 02, 1999
+126|#127|Philadelphia Flyers|Wyatte Wylie (D)|||||||300071|2018|Nov 02, 1999
+127|#128|Montréal Canadiens|Cole Fonstad (F)|||||||286578|2018|Apr 24, 2000
+128|#129|Pittsburgh Penguins|Justin Almeida (F)|||||||245573|2018|Feb 06, 1999
+129|#130|Vancouver Canucks|Toni Utunen (D)|||||||355654|2018|Apr 27, 2000
+130|#131|Nashville Predators|Spencer Stastney (D)|||||||283918|2018|Jan 04, 2000
+131|#132|New York Rangers|Lauri Pajuniemi (F)|||||||285894|2018|Sep 12, 1999
+132|#133|Montréal Canadiens|Samuel Houde (F)|||||||241387|2018|Mar 06, 2000
+133|#134|New York Islanders|Blade Jenkins (F)|||||||284094|2018|Aug 11, 2000
+134|#135|Vegas Golden Knights|Brandon Kruse (F)|||||||273154|2018|Mar 26, 1999
+135|#136|New Jersey Devils|Akira Schmid (G)|||||||336133|2018|May 12, 2000
+136|#137|Dallas Stars|Riley Damiani (F)|||||||305431|2018|Mar 20, 2000
+137|#138|St. Louis Blues|Hugh McGing (F)|||||||233569|2018|Jul 11, 1998
+138|#139|Chicago Blackhawks|Mikael Hakkarainen (F)|||||||221342|2018|Jan 26, 1998
+139|#140|Colorado Avalanche|Brandon Saigeon (F)|||||||239031|2018|Jun 14, 1998
+140|#141|New Jersey Devils|Yegor Sharangovich (F)|||||||271111|2018|Jun 06, 1998
+141|#142|Arizona Coyotes|Michael Callahan (D)|||||||201479|2018|Sep 23, 1999
+142|#143|Philadelphia Flyers|Samuel Ersson (G)|||||||292581|2018|Oct 20, 1999
+143|#144|Los Angeles Kings|Dávid Hrenák (G)|||||||225473|2018|May 05, 1998
+144|#145|Arizona Coyotes|Dennis Busby (D)|||||||273629|2018|Jan 06, 2000
+145|#146|Colorado Avalanche|Danila Zhuravlyov (D)|||||||375639|2018|Apr 08, 2000
+146|#147|Anaheim Ducks|Roman Durny (G)|||||||275725|2018|May 28, 1998
+147|#148|Minnesota Wild|Simon Johansson (D)|||||||289775|2018|Jun 14, 1999
+148|#149|Toronto Maple Leafs|Filip Král (D)|||||||247241|2018|Oct 20, 1999
+149|#150|Winnipeg Jets|Declan Chisholm (D)|||||||363643|2018|Jan 12, 2000
+150|#151|Nashville Predators|Vladislav Yeryomenko (D)|||||||383083|2018|Apr 24, 1999
+151|#152|Tampa Bay Lightning|Magnus Chrona (G)|||||||381263|2018|Aug 28, 2000
+152|#153|Winnipeg Jets|Giovanni Vallati (D)|||||||299432|2018|Feb 21, 2000
+153|#154|Vegas Golden Knights|Connor Corcoran (D)|||||||404752|2018|Aug 07, 2000
+154|#155|Minnesota Wild|Damien Giroux (F)|||||||270155|2018|Mar 03, 2000
+155|#156|Toronto Maple Leafs|Pontus Holmberg (F)|||||||265859|2018|Mar 09, 1999
+156|#157|Ottawa Senators|Kevin Mandolese (G)|||||||241372|2018|Aug 22, 2000
+157|#158|Arizona Coyotes|David Tendeck (G)|||||||297918|2018|Nov 25, 1999
+158|#159|Columbus Blue Jackets|Tim Berni (D)|||||||296565|2018|Feb 11, 2000
+159|#160|Detroit Red Wings|Victor Brattström (G)|||||||212526|2018|Mar 22, 1997
+160|#161|Washington Capitals|Alex Kannok-Leipert (D)|||||||287497|2018|Jul 20, 2000
+161|#162|Chicago Blackhawks|Alexis Gravel (G)|||||||355223|2018|Mar 21, 2000
+162|#163|New York Rangers|Simon Kjellberg (D)|||||||291923|2018|Feb 17, 2000
+163|#164|Edmonton Oilers|Michael Kesselring (D)|||||||375367|2018|Jan 13, 2000
+164|#165|Los Angeles Kings|Johan Södergran (F)|||||||246437|2018|Nov 20, 1999
+165|#166|Carolina Hurricanes|Jesper Sellgren (D)|||||||244673|2018|Jun 11, 1998
+166|#167|Calgary Flames|Mathias Emilio Pettersen (F)|||||||274219|2018|Apr 03, 2000
+167|#168|Dallas Stars|Dawson Barteaux (D)|||||||285046|2018|Jan 12, 2000
+168|#169|St. Louis Blues|Mathias Laferrière (F)|||||||382160|2018|Jun 27, 2000
+169|#170|Florida Panthers|Justin Schütz (F)|||||||238113|2018|Jun 24, 2000
+170|#171|Colorado Avalanche|Nikolai Kovalenko (F)|||||||339499|2018|Oct 17, 1999
+171|#172|New Jersey Devils|Mitchell Hoelscher (F)|||||||360952|2018|Jan 27, 2000
+172|#173|Columbus Blue Jackets|Veini Vehviläinen (G)|||||||176290|2018|Feb 13, 1997
+173|#174|Philadelphia Flyers|Gavin Hain (F)|||||||354061|2018|Apr 03, 2000
+174|#175|Los Angeles Kings|Jacob Ingham (G)|||||||404018|2018|Jun 10, 2000
+175|#176|San Jose Sharks|Zacharie Émond (G)|||||||382866|2018|Jun 20, 2000
+176|#177|Pittsburgh Penguins|Liam Gorman (F)|||||||364228|2018|May 08, 2000
+177|#178|Anaheim Ducks|Hunter Drew (D)|||||||267823|2018|Oct 21, 1998
+178|#179|Minnesota Wild|Shawn Boudrias (F)|||||||275589|2018|Sep 14, 1999
+179|#180|Vegas Golden Knights|Peter Diliberatore (D)|||||||267086|2018|Mar 31, 2000
+180|#181|Boston Bruins|Dustyn McFaul (D)|||||||370364|2018|Aug 04, 2000
+181|#182|San Jose Sharks|John Leonard (F)|||||||272976|2018|Aug 07, 1998
+182|#183|Tampa Bay Lightning|Cole Koepke (F)|||||||300846|2018|May 17, 1998
+183|#184|Winnipeg Jets|Jared Moe (G)|||||||380910|2018|Jul 22, 1999
+184|#185|Vegas Golden Knights|Xavier Bouchard (D)|||||||241374|2018|Feb 28, 2000
+185|#186|Vancouver Canucks|Artyom Manukyan (F)|||||||312221|2018|Jun 09, 1998
+186|#187|Buffalo Sabres|William Worge Kreü (D)|||||||281973|2018|May 15, 2000
+187|#188|Ottawa Senators|Jakov Novak (F)|||||||269880|2018|Oct 22, 1998
+188|#189|Arizona Coyotes|Liam Kirk (F)|||||||230605|2018|Jan 03, 2000
+189|#190|Montréal Canadiens|Brett Stapley (F)|||||||201696|2018|Feb 23, 1999
+190|#191|Detroit Red Wings|Otto Kivenmäki (F)|||||||376271|2018|Mar 24, 2000
+191|#192|Vancouver Canucks|Matthew Thiessen (G)|||||||351272|2018|Jun 09, 2000
+192|#193|Chicago Blackhawks|Josiah Slavin (F)|||||||324913|2018|Dec 31, 1998
+193|#194|Ottawa Senators|Luke Loheit (F)|||||||443742|2018|Jul 26, 2000
+194|#195|Edmonton Oilers|Patrik Siikanen (F)|||||||375834|2018|Apr 16, 2000
+195|#196|New York Islanders|Christian Krygier (D)|||||||283958|2018|May 05, 2000
+196|#197|Carolina Hurricanes|Jake Kucharski (G)|||||||393537|2018|Sep 25, 1999
+197|#198|Calgary Flames|Dmitri Zavgorodny (F)|||||||396918|2018|Aug 11, 2000
+198|#199|Dallas Stars|Jermaine Loewen (F)|||||||201127|2018|Jan 18, 1998
+199|#200|St. Louis Blues|Tyler Tucker (D)|||||||399243|2018|Mar 01, 2000
+200|#201|Florida Panthers|Cole Krygier (D)|||||||283959|2018|May 05, 2000
+201|#202|Colorado Avalanche|Shamil Shmakov (G)|||||||378560|2018|Jul 27, 1999
+202|#203|New Jersey Devils|Eetu Päkkilä (F)|||||||375979|2018|Oct 03, 1999
+203|#204|Columbus Blue Jackets|Trey Fix-Wolansky (F)|||||||257717|2018|May 26, 1999
+204|#205|Philadelphia Flyers|Marcus Westfält (F)|||||||290973|2018|Mar 12, 2000
+205|#206|Tampa Bay Lightning|Radim Salda (D)|||||||225136|2018|Feb 18, 1999
+206|#207|Florida Panthers|Santtu Kinnunen (D)|||||||376060|2018|Mar 25, 1999
+207|#208|Vegas Golden Knights|Jordan Kooy (G)|||||||360915|2018|Apr 30, 2000
+208|#209|Toronto Maple Leafs|Zachary Bouthillier (G)|||||||305661|2018|Nov 08, 1999
+209|#210|Minnesota Wild|Sam Hentges (F)|||||||425364|2018|Jul 26, 1999
+210|#211|Toronto Maple Leafs|Semyon Kizimov (F)|||||||420947|2018|Jan 19, 2000
+211|#212|Boston Bruins|Pavel Shen (F)|||||||359981|2018|Aug 14, 1999
+212|#213|Nashville Predators|Milan Kloucek (G)|||||||236454|2018|Apr 30, 1998
+213|#214|Tampa Bay Lightning|Ty Taylor (G)|||||||297989|2018|Jul 05, 1999
+214|#215|Winnipeg Jets|Austin Wong (F)|||||||322072|2018|Aug 26, 2000
+215|#216|New York Rangers|Riley Hughes (F)|||||||241597|2018|Jun 27, 2000
+216|#217|Washington Capitals|Eric Florchuk (F)|||||||281876|2018|Jan 10, 2000
+217|#197|Carolina Hurricanes|Jacob Kucharski (G)|||||||393537|2018|Sep 25, 1999

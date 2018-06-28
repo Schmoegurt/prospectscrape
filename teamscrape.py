@@ -10,7 +10,7 @@ import pandas as pd
 
 ############################################################################
 ## This is a series of functions designed to scrape the Elite Prosepects  ##
-## webpage and store the results in a tab delimited files. It scraps each ##
+## webpage and store the results in a tab delimited files. It scrapes each##
 ## team's roster and stats page for the leagues given. All code written   ##
 ## by Matthew Barlowe @matt_barlowe on twitter mcbarlowe on github        ##
 ############################################################################
@@ -29,10 +29,8 @@ def get_birthdate(url):
     soup = bs4.BeautifulSoup(req.text, 'lxml')
 
     player_info = soup.select('div[class="col-xs-8 fac-lbl-dark"]')
-    print(player_info)
     birth_date = player_info[0].text.strip()
 
-    print("this is the birthdate: {}".format(birth_date))
     return birth_date
 
 def create_bd_col(data_frame):
@@ -46,19 +44,13 @@ def create_bd_col(data_frame):
     player_names = ['-'.join(name) for name in player_names]
 
     for play_id, name in zip(player_ids, player_names):
-        print('{}{}/{}'.format(url_base, play_id, name))
         birthday = get_birthdate('{}{}/{}'.format(url_base, play_id, name))
-        print(birthday)
         birth_dates.append(birthday)
         time.sleep(randint(1,10))
 
     bday_series = pd.Series(birth_dates)
 
-    print(bday_series)
-
     data_frame['birth_date'] = bday_series.values
-
-    print(data_frame.head())
 
     return data_frame
 
