@@ -234,7 +234,7 @@ def parse_team_stats(page_file):
 
     id_href = [x for x in id_href if len(x) > 0]
     id_href = [x[0] for x in id_href]
-    player_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    player_ids = [re.search(r'(\/\d+\/)', x).group(1) for x in id_href]
     player_ids = [x.replace('/', '') for x in player_ids]
     player_df['player_id'] = player_ids
 
@@ -248,7 +248,7 @@ def parse_team_stats(page_file):
 
     id_href = [x for x in id_href if len(x) > 0]
     id_href = [x[0] for x in id_href]
-    goalie_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    goalie_ids = [re.search(r'(\/\d+\/)', x).group(1) for x in id_href]
     goalie_ids = [x.replace('/', '') for x in goalie_ids]
     goalie_df['player_id'] = goalie_ids
 
@@ -302,7 +302,7 @@ def parse_team_roster(page_file):
     team_roster.pop(0)
     roster_df = pd.DataFrame(team_roster)
     roster_df.drop([0, 1, 2], axis=1, inplace=True)
-    roster_df.columns = ['player', 'age', 'birth_year', 'birthplace', 'HT', 'WT', 'shoots', 'contract']
+    roster_df.columns = ['player', 'age', 'birth_year', 'birthplace', 'HT', 'WT', 'shoots']
     roster_df['player'] = roster_df['player'].str.strip()
 
 
@@ -383,12 +383,12 @@ def scrape_team_page(url_base, leagues):
                 pass
             for team, team_id in teams.items():
     # Checks for directory existence if exist catches exception and moves on
-                scrape_html('{}team/{}/{}-{}'.format(url_base, team_id,
+                scrape_html('{}team/{}/{}/{}-{}'.format(url_base, team_id, unidecode(team),
                                                      str(int(year)-1), year),
                             os.path.join('teampages', league, year,
                             '{}roster{}.txt'.format(team.replace(' ', '-').replace('/', ''), year)))
-                scrape_html('{}team/{}/{}-{}?tab=stats#players'\
-                            .format(url_base, team_id, str(int(year)-1), year),
+                scrape_html('{}team/{}/{}/{}-{}?tab=stats#players'\
+                            .format(url_base, team_id, unidecode(team), str(int(year)-1), year),
                             os.path.join('teampages', league, year,
                             '{}{}stats.txt'.format(team.strip().replace(' ', '-'), year)))
                 time.sleep(randint(1,10))
@@ -559,7 +559,7 @@ def main():
     directory_setup()
     
     #changes these variables to adjust which years you want to scrape
-    start_year = 2017
+    start_year = 2018
     end_year  = 2018
 
     # This compiles a team id dictionary based on what leagues you pass to
