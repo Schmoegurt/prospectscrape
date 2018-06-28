@@ -67,7 +67,7 @@ def draft_scrape(year_list, file_name):
 
 #change draft_stats to whatever file name you want it to be or else it will
 #overwrite the next time you run the script
-    with open(file_name, 'a+') as file:
+    with open(file_name, 'a+', encoding='utf-8') as file:
 
 #moves file pointer to the top of the file as opening it with a+ has it on the
 #bottom
