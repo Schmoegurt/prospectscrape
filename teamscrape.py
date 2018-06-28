@@ -553,29 +553,29 @@ def cleanup(delimited_file):
 
 def main():
     # adjust here to select which leages you want to scrape the team pages of
-    '''
-    leagues = ['AHL', 'SHL', 'Allsvenskan',
-                'KHL', 'Liiga', 'Mestis', 'NCAA', 'OHL',
-                'QMJHL', 'WHL', 'USHL', 'USDP', 'Extraliga']
-    '''
+
     leagues = ['Liiga']
     url_base = 'http://www.eliteprospects.com/'
     directory_setup()
+    
+    #changes these variables to adjust which years you want to scrape
+    start_year = 2017
+    end_year  = 2018
 
-    # This compiles a tem id dictionary based on what leagues you pass to
+    # This compiles a team id dictionary based on what leagues you pass to
     # it from the leagues list variable the repo comes built in with the team ids
     # of the leagues in the list above if you want to add more just delete the
     # leagues and insert the ones you want and uncomment the next two lines.
     # If you want women's leagues those will be appended with a '-W' where
     # they have the same name as men's leagues.
-    #scrape_league_page(leagues, url_base, 2017, 2018)
-    #parse_team_ids(leagues, 2017, 2018)
+    scrape_league_page(leagues, url_base, start_year, end_year)
+    parse_team_ids(leagues, start_year, end_year)
 
     # This scrapes the team pages and actually gathers the html for each teams
     # from the roster and stats pages and writes them to the disk. The
     # parse_all_files actually compiles all that html and produces |
     # delimited files of the data.
-    #scrape_team_page(url_base, leagues)
+    scrape_team_page(url_base, leagues)
     parse_all_files()
 
     # The next two functions add the headers and cleans up the player_stats
@@ -585,6 +585,6 @@ def main():
     # shot for against can't accurately calculate
     add_headers()
     clean_data()
-    #cleanup(os.path.join('output_files', 'player_stats'))
+    cleanup(os.path.join('output_files', 'player_stats'))
 if __name__ == '__main__':
     main()
