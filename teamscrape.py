@@ -1,4 +1,5 @@
 import os
+import shutil
 import re
 import time
 import json
@@ -337,7 +338,7 @@ def parse_team_roster(page_file):
     #them up
     id_href = [x for x in id_href if len(x) > 1]
     id_href = [x[0] for x in id_href]
-    player_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    player_ids = [re.search(r'(\/\d+\/)', x).group(1) for x in id_href]
     player_ids = [x.replace('/', '') for x in player_ids]
 
 
@@ -520,6 +521,9 @@ def clean_data():
 
 #this works with new EP format
 def directory_setup():
+    shutil.rmtree('teampages')
+    shutil.rmtree('leaguepages')
+    shutil.rmtree('output_files')
     try:
         os.mkdir('teampages')
     except FileExistsError as ex:
@@ -545,7 +549,7 @@ def cleanup(delimited_file):
     cleaned_file - a pipe delimited file where the data as been clean
     '''
     stat_df = pd.read_csv(delimited_file, sep='|')
-    stat_df = stat_df.groupby(['player_id', 'Player', 'season', 'team', 'team_id'],
+    stat_df = stat_df.groupby(['player_id', 'player', 'season', 'team', 'league'],
                                 as_index=False).sum()
     stat_df.to_csv(delimited_file, sep='|', index=False)
 
@@ -554,12 +558,12 @@ def cleanup(delimited_file):
 def main():
     # adjust here to select which leages you want to scrape the team pages of
 
-    leagues = ['Liiga']
+    leagues = ['GTMMHL']
     url_base = 'http://www.eliteprospects.com/'
     directory_setup()
     
     #changes these variables to adjust which years you want to scrape
-    start_year = 2018
+    start_year = 2017
     end_year  = 2018
 
     # This compiles a team id dictionary based on what leagues you pass to
