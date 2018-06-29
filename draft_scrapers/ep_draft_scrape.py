@@ -30,19 +30,25 @@ def create_bd_col(data_frame):
     birth_dates = []
     url_base = 'http://www.eliteprospects.com/player/'
 
+    print(data_frame.head())
     player_ids = data_frame['player_id'].tolist()
     player_names = data_frame['player'].map(unidecode).tolist()
     player_names = [name.split(' ') for name in player_names]
     player_names = ['-'.join(name) for name in player_names]
 
     for play_id, name in zip(player_ids, player_names):
+        print('{}, {}'.format(play_id, name))
         birthday = get_birthdate('{}{}/{}'.format(url_base, play_id, name))
+        print(birthday)
         birth_dates.append(birthday)
-        time.sleep(randint(1,3))
+        #time.sleep(randint(1,3))
 
     bday_series = pd.Series(birth_dates)
 
+    print(bday_series.values)
     data_frame['birth_date'] = bday_series.values
+
+    print(data_frame.head())
 
     return data_frame
 
@@ -67,8 +73,9 @@ def draft_scrape(year_list, file_name):
 
 #change draft_stats to whatever file name you want it to be or else it will
 #overwrite the next time you run the script
-    with open(file_name, 'a+', encoding='utf-8') as file:
+    with open(file_name, 'w', encoding='utf-8') as file:
 
+        '''
 #moves file pointer to the top of the file as opening it with a+ has it on the
 #bottom
         file.seek(0)
@@ -83,7 +90,7 @@ def draft_scrape(year_list, file_name):
                 break
             else:
                 file.write(header)
-
+'''
 
 #delete round headings
         for year in year_list:
@@ -129,10 +136,19 @@ def draft_scrape(year_list, file_name):
             for row in player_rows:
                 row.append(str(year))
 
+            columns = ['pick', 'team', 'player', 'seasons', 'gp', 'g', 'a', 'tp',
+                       'pim' , 'player_id', 'year_of_draft']
+            draft_df = pd.DataFrame(player_rows, columns=columns)
+            draft_df = create_bd_col(draft_df)
+            print(draft_df.head())
+            draft_df.to_csv(file_name, sep='|', index=False)
+
+            '''
 #check to see if the row is in the file already and if not then write it
             for row in player_rows:
                 if '{}{}'.format('|'.join(row), '\n') not in file_lines:
                     file.write('{}{}'.format('|'.join(row), '\n'))
+                    '''
 
 #sleep to keep from overloading the EP server and attracting data
             if year == year_list[-1]:
@@ -140,11 +156,6 @@ def draft_scrape(year_list, file_name):
             else:
                 time.sleep(90)
 
-        columns = ['pick', 'team', 'player', 'seasons', 'gp', 'g', 'a', 'tp',
-                   'pim' , 'player_id', 'year_of_draft']
-        draft_df = pd.read_csv(file_name, sep='|', header=None, names=columns)
-        draft_df = create_bd_col(draft_df)
-        draft_df.to_csv(file_name, sep='|', index=False)
 
 
 

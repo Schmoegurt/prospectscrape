@@ -337,7 +337,7 @@ def parse_team_roster(page_file):
     #them up
     id_href = [x for x in id_href if len(x) > 1]
     id_href = [x[0] for x in id_href]
-    player_ids = [re.search(r'(\/[1-9]\w+\/)', x).group(1) for x in id_href]
+    player_ids = [re.search(r'(\/\d+\/)', x).group(1) for x in id_href]
     player_ids = [x.replace('/', '') for x in player_ids]
 
 
@@ -554,10 +554,10 @@ def cleanup(delimited_file):
 def main():
     # adjust here to select which leages you want to scrape the team pages of
 
-    leagues = ['Liiga']
+    leagues = ['OJHL']
     url_base = 'http://www.eliteprospects.com/'
     directory_setup()
-    
+
     #changes these variables to adjust which years you want to scrape
     start_year = 2018
     end_year  = 2018
