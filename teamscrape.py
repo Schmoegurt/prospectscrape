@@ -1,9 +1,11 @@
+'''
+This module is focused on the scraping of the Elite Prospects website
+'''
 import os
 import shutil
 import re
 import time
 import json
-from random import randint
 from unidecode import unidecode
 import requests
 import bs4
@@ -47,7 +49,6 @@ def create_bd_col(data_frame):
     for play_id, name in zip(player_ids, player_names):
         birthday = get_birthdate('{}{}/{}'.format(url_base, play_id, name))
         birth_dates.append(birthday)
-        time.sleep(randint(1,5))
 
     bday_series = pd.Series(birth_dates)
 
@@ -392,7 +393,6 @@ def scrape_team_page(url_base, leagues):
                             .format(url_base, team_id, unidecode(team), str(int(year)-1), year),
                             os.path.join('teampages', league, year,
                             '{}{}stats.txt'.format(team.strip().replace(' ', '-'), year)))
-                time.sleep(randint(1,10))
 
 #this function has been converted to the new Elite Prospects webpage format
 def scrape_league_page(league_scrape_list, url, year_start, year_end):
@@ -521,9 +521,12 @@ def clean_data():
 
 #this works with new EP format
 def directory_setup():
-    shutil.rmtree('teampages')
-    shutil.rmtree('leaguepages')
-    shutil.rmtree('output_files')
+    try:
+        shutil.rmtree('teampages')
+        shutil.rmtree('leaguepages')
+        shutil.rmtree('output_files')
+    except:
+        print('Old directories don\'t exist starting fresh')
     try:
         os.mkdir('teampages')
     except FileExistsError as ex:
@@ -550,15 +553,19 @@ def cleanup(delimited_file):
     '''
     stat_df = pd.read_csv(delimited_file, sep='|')
     stat_df = stat_df.groupby(['player_id', 'player', 'season', 'team', 'league'],
-                                as_index=False).sum()
+                              as_index=False).sum()
     stat_df.to_csv(delimited_file, sep='|', index=False)
 
     return
 
 def main():
+    '''
+    this is a function to scrape the elite prospects website based on the
+    years and leagues passed to the script
+    '''
     # adjust here to select which leages you want to scrape the team pages of
 
-    leagues = ['GTMMHL']
+    leagues = ['OHL']
     url_base = 'http://www.eliteprospects.com/'
     directory_setup()
 
