@@ -464,10 +464,10 @@ def parse_all_files():
     Outputs:
     text file - four text files containg, error log, roster info, player stats, goalie stats
     '''
-    with open(os.path.join('output_files', 'rosters'), 'w', encoding='utf-8') as a:
-        with open(os.path.join('output_files', 'player_stats'), 'w', encoding='utf-8') as b:
-            with open(os.path.join('output_files', 'goalie_stats'), 'w', encoding='utf-8') as c:
-                 with open (os.path.join('output_files', 'errorfile.txt'), 'w', encoding='utf-8') as e:
+    with open(os.path.join('output_files', 'rosters'), 'a', encoding='utf-8') as a:
+        with open(os.path.join('output_files', 'player_stats'), 'a', encoding='utf-8') as b:
+            with open(os.path.join('output_files', 'goalie_stats'), 'a', encoding='utf-8') as c:
+                 with open (os.path.join('output_files', 'errorfile.txt'), 'a', encoding='utf-8') as e:
                     for root, subdir, files in os.walk('teampages'):
                         for name in files:
                             if 'stats' in name:
